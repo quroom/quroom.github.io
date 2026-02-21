@@ -15,6 +15,7 @@
 - [프로젝트 실행 SOP](./delivery-sop.md)
 - [전라도권 GTM 플랜](./regional-go-to-market.md)
 - [콘텐츠 4주 캘린더](./content-calendar-4weeks.md)
+- [첫 10고객 실행계획](./first-10-customers-plan.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`

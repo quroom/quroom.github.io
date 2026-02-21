@@ -218,7 +218,7 @@
   - `/projects/service-monetization/content-calendar-4weeks.md`
 
 ### [BIZ-112] 첫 10고객 확보 실행계획 (주차별 KPI)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/first-10-customers-plan.md`
 
@@ -328,5 +328,6 @@
 - 2026-02-22: BIZ-109 완료 (`/projects/service-monetization/delivery-sop.md`)
 - 2026-02-22: BIZ-110 완료 (`/projects/service-monetization/regional-go-to-market.md`)
 - 2026-02-22: BIZ-111 완료 (`/projects/service-monetization/content-calendar-4weeks.md`)
+- 2026-02-22: BIZ-112 완료 (`/projects/service-monetization/first-10-customers-plan.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
