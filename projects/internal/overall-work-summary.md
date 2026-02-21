@@ -10,7 +10,7 @@
 
 ## 2) 현재 진행 상태 (스냅샷)
 
-[`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 기준:
+[[`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 기준:
 
 - 전체 작업: **50**
 - DONE: **43**
@@ -21,16 +21,16 @@
 ## 3) 핵심 문서 위치
 
 ### Internal Ops
-- WORKQUEUE 대시보드: [`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)
+- WORKQUEUE 대시보드: [[`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)](/projects/internal/workqueue-dashboard.html)
 - WORKQUEUE 원문: [`/md-viewer.html?file=/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)
 - HEARTBEAT 원문: [`/md-viewer.html?file=/projects/internal/HEARTBEAT.md`](/md-viewer.html?file=/projects/internal/HEARTBEAT.md)
 - **일일 보고 (Daily Report)**: [`/md-viewer.html?file=/projects/internal/daily-work-report.md`](/md-viewer.html?file=/projects/internal/daily-work-report.md)
 
 ### 프로젝트 문서 묶음
-- Bogle Ops: [`/projects/bogle-ops/`](/projects/bogle-ops/)
-- Retire Sim: [`/projects/retire-sim/`](/projects/retire-sim/)
-- Service Monetization: [`/projects/service-monetization/`](/projects/service-monetization/)
-- Academy MVP: [`/projects/academy-mvp/`](/projects/academy-mvp/)
+- Bogle Ops: [[`/projects/bogle-ops/`](/projects/bogle-ops/)](/projects/bogle-ops/)
+- Retire Sim: [[`/projects/retire-sim/`](/projects/retire-sim/)](/projects/retire-sim/)
+- Service Monetization: [[`/projects/service-monetization/`](/projects/service-monetization/)](/projects/service-monetization/)
+- Academy MVP: [[`/projects/academy-mvp/`](/projects/academy-mvp/)](/projects/academy-mvp/)
 
 ## 4) 일일 보고는 어떻게 쌓이나?
 

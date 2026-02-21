@@ -23,4 +23,4 @@
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`
-- 대시보드: [`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)
+- 대시보드: [[`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)](/projects/internal/workqueue-dashboard.html)
