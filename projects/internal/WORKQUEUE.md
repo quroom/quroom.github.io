@@ -78,7 +78,7 @@
   - 결과를 `tac_overrides.csv`에 병합하는 가이드
 
 ### [BGL-030] 노후준비 시뮬레이션 서비스 PRD v1 작성
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/prd-v1.md`
 
@@ -195,3 +195,4 @@
 - 2026-02-21: BGL-019 완료 (`/projects/bogle-ops/post-quality-check-30s.md`, commit: 53ade7d)
 - 2026-02-21: BGL-020 완료 (`/projects/bogle-ops/threads-humor-pack-001.md`, commit: 5ad2fa7)
 - 2026-02-21: BGL-030~045 추가 (노후준비 시뮬레이션 서비스 주말 태스크팩)
+- 2026-02-21: BGL-030 완료 (`/projects/retire-sim/prd-v1.md`)
