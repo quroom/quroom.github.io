@@ -53,7 +53,7 @@
   - `/projects/bogle-ops/monthly-report-generator-format.md`
 
 ### [BGL-018] 신규회원 7일 온보딩 A/B 실험안
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/onboarding-ab-test-pack.md`
 
@@ -101,3 +101,4 @@
 - 2026-02-21: BGL-016 완료 (`/projects/bogle-ops/moderation-replies-50.md`, commit: 421ef2b)
 - 2026-02-21: BGL-017 완료 (`/projects/bogle-ops/monthly-report-generator-format.md`, commit: 00c1c5f)
 - 2026-02-21: BGL-020 추가 (스레드용 보글 유머 카피라이팅 팩)
+- 2026-02-21: BGL-018 완료 (`/projects/bogle-ops/onboarding-ab-test-pack.md`, commit: ed07019)
