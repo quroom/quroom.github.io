@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Markdown Viewer</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:920px;margin:32px auto;padding:0 16px;line-height:1.7;color:#111}
+    #meta{color:#555;font-size:14px;margin-bottom:14px}
+    #content h1,#content h2,#content h3{line-height:1.3}
+    #content pre{background:#0f172a;color:#e2e8f0;padding:12px;border-radius:8px;overflow:auto}
+    #content code{background:#f3f4f6;padding:2px 6px;border-radius:6px}
+    #content pre code{background:transparent;padding:0}
+    #content blockquote{border-left:4px solid #ddd;padding-left:12px;color:#444}
+    #content table{border-collapse:collapse;width:100%}
+    #content th,#content td{border:1px solid #ddd;padding:8px}
+    a{color:#0b57d0;text-decoration:none}
+    a:hover{text-decoration:underline}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <p><a href="/">← 홈</a></p>
+  <div id="meta"></div>
+  <article id="content">불러오는 중...</article>
+
+  <script>
+    const params = new URLSearchParams(location.search);
+    const file = params.get('file');
+    const meta = document.getElementById('meta');
+    const content = document.getElementById('content');
+
+    if (!file) {
+      meta.textContent = '오류: file 파라미터가 없습니다.';
+      content.textContent = '예: /md-viewer.html?file=/projects/bogle-ops/README.md';
+    } else {
+      meta.innerHTML = `문서: <a href="${file}">${file}</a>`;
+      fetch(file)
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.text();
+        })
+        .then(md => {
+          content.innerHTML = marked.parse(md);
+          document.title = file.split('/').pop() + ' - Markdown Viewer';
+        })
+        .catch(err => {
+          content.textContent = '문서를 불러오지 못했습니다: ' + err.message;
+        });
+    }
+  </script>
+</body>
+</html>
