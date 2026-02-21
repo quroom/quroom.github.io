@@ -62,6 +62,13 @@
 - Output:
   - `/projects/bogle-ops/post-quality-check-30s.md`
 
+### [BGL-020] 스레드용 보글 유머 카피라이팅 팩 (대량 생성)
+- Status: PENDING
+- Output:
+  - `/projects/bogle-ops/threads-humor-pack-001.md`
+  - 톤: 초보/중수/고수/보글 4단 구성, 짧은 풍자형
+  - 수량: 최소 100개 (시리즈형)
+
 ### [OPS-001] 주기 실행 구조(heartbeat cron) 구축
 - Status: DONE
 - Output:
@@ -93,3 +100,4 @@
 - 2026-02-21: BGL-015 완료 (`/projects/bogle-ops/notice-refactor-short-long.md`, commit: 7a01cb0)
 - 2026-02-21: BGL-016 완료 (`/projects/bogle-ops/moderation-replies-50.md`, commit: 421ef2b)
 - 2026-02-21: BGL-017 완료 (`/projects/bogle-ops/monthly-report-generator-format.md`, commit: 00c1c5f)
+- 2026-02-21: BGL-020 추가 (스레드용 보글 유머 카피라이팅 팩)
