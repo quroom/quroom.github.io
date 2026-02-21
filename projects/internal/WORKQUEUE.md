@@ -123,7 +123,7 @@
   - `/projects/retire-sim/risk-compliance.md`
 
 ### [BGL-039] 운영 정책 (고객문의/장애/버전관리)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/ops-policy.md`
 
@@ -309,5 +309,6 @@
 - 2026-02-21: BGL-036 완료 (`/projects/retire-sim/architecture.md`)
 - 2026-02-21: BGL-037 완료 (`/projects/retire-sim/wireframe-text.md`)
 - 2026-02-21: BGL-038 완료 (`/projects/retire-sim/risk-compliance.md`)
+- 2026-02-21: BGL-039 완료 (`/projects/retire-sim/ops-policy.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)

@@ -17,3 +17,4 @@
 - [기술 아키텍처](./architecture.md)
 - [와이어프레임(텍스트)](./wireframe-text.md)
 - [리스크/컴플라이언스](./risk-compliance.md)
+- [운영 정책](./ops-policy.md)
