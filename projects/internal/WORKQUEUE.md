@@ -38,7 +38,7 @@
   - `/projects/bogle-ops/kpi-dashboard-template.md`
 
 ### [BGL-015] 카페 필독 공지 리팩토링 (짧은/긴 버전)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/notice-refactor-short-long.md`
 
@@ -90,3 +90,4 @@
 - 2026-02-21: BGL-012 완료 (`/projects/bogle-ops/moderation-replies-30.md`, commit: 61b40ad)
 - 2026-02-21: BGL-013 완료 (`/projects/bogle-ops/onboarding-ab-test.md`, commit: 14579e1)
 - 2026-02-21: BGL-014 완료 (`/projects/bogle-ops/kpi-dashboard-template.md`, commit: 7b4b393)
+- 2026-02-21: BGL-015 완료 (`/projects/bogle-ops/notice-refactor-short-long.md`, commit: 7a01cb0)
