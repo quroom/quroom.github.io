@@ -1,33 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    <title>PaintJS</title>
-  </head>
-  <body>
-    <canvas id="jsCanvas" class="canvas" width="700" height="700"></canvas>
-    <div class="controls">
-        <div class="controls__range">
-            <input type="range" id="jsRange" min="0.1" max="5" value="2.5" step="0.1">
-        </div>
-      <div class="controls__btns">
-        <button id="jsMode">Fill</button>
-        <button id="jsSave">Save</button>
-      </div>
-      <div class="controls__colors" id="jsColors">
-        <div class="controls__color jsColor" style="background-color: #2c2c2c;"></div>
-        <div class="controls__color jsColor" style="background-color: white;"></div>
-        <div class="controls__color jsColor" style="background-color: #ff3b30;"></div>
-        <div class="controls__color jsColor" style="background-color: #ff9500;"></div>
-        <div class="controls__color jsColor" style="background-color: #ffcc00;"></div>
-        <div class="controls__color jsColor" style="background-color: #4cd930;"></div>
-        <div class="controls__color jsColor" style="background-color: #5ac8fa;"></div>
-        <div class="controls__color jsColor" style="background-color: #0579ff;"></div>
-        <div class="controls__color jsColor" style="background-color: #5856d6;"></div>
-      </div>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>quroom.github.io</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:920px;margin:40px auto;padding:0 16px;line-height:1.6}
+    h1{margin-bottom:6px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:20px}
+    .card{border:1px solid #ddd;border-radius:12px;padding:14px 16px}
+    a{color:#0b57d0;text-decoration:none}
+    a:hover{text-decoration:underline}
+  </style>
+</head>
+<body>
+  <h1>quroom.github.io</h1>
+  <p>작업 결과를 누적해두는 페이지입니다.</p>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Bogle Ops Pack</h2>
+      <p>지수투자 운영 시스템 + 카페 운영 매뉴얼</p>
+      <p><a href="/projects/bogle-ops/">열기</a></p>
     </div>
-    <script src="app.js"></script>
-  </body>
+    <div class="card">
+      <h2>Legacy PaintJS</h2>
+      <p>기존 PaintJS 페이지 파일 유지됨 (index 교체로 링크만 제공)</p>
+      <p><a href="/README.md">레포 README</a></p>
+    </div>
+  </div>
+</body>
 </html>
