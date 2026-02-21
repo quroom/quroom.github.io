@@ -33,7 +33,7 @@
   - KPI 측정 필드 포함
 
 ### [BGL-014] 월간 KPI 대시보드 템플릿 (운영용)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/kpi-dashboard-template.md`
 
@@ -89,3 +89,4 @@
 - 2026-02-21: OPS-002 대시보드 작업 시작
 - 2026-02-21: BGL-012 완료 (`/projects/bogle-ops/moderation-replies-30.md`, commit: 61b40ad)
 - 2026-02-21: BGL-013 완료 (`/projects/bogle-ops/onboarding-ab-test.md`, commit: 14579e1)
+- 2026-02-21: BGL-014 완료 (`/projects/bogle-ops/kpi-dashboard-template.md`, commit: 7b4b393)
