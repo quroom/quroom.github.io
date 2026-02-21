@@ -337,6 +337,6 @@
 - 2026-02-22: BIZ-116 완료 ([`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md), commit: 24c99f6)`
 - 2026-02-22: BIZ-117 완료 ([`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md), commit: 384f95f)`
 
-- 2026-02-22: BIZ-118 완료 ([`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), commit: PENDING118)`
-- 2026-02-22: BIZ-119 완료 ([`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md), commit: PENDING119)`
-- 2026-02-22: BIZ-120 완료 ([`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md), commit: PENDING120)`
+- 2026-02-22: BIZ-118 완료 ([`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), commit: 1726f61)`
+- 2026-02-22: BIZ-119 완료 ([`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md), commit: 1726f61)`
+- 2026-02-22: BIZ-120 완료 ([`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md), commit: 1726f61)`
