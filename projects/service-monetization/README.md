@@ -13,6 +13,7 @@
 - [견적/SOW/계약 템플릿](./sow-contract-templates.md)
 - [고객 온보딩 체크리스트](./client-onboarding-checklist.md)
 - [프로젝트 실행 SOP](./delivery-sop.md)
+- [전라도권 GTM 플랜](./regional-go-to-market.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`

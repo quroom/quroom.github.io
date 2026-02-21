@@ -208,7 +208,7 @@
   - `/projects/service-monetization/delivery-sop.md`
 
 ### [BIZ-110] 지역(전라도권) 오프라인+온라인 영업 플랜
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/regional-go-to-market.md`
 
@@ -326,5 +326,6 @@
 - 2026-02-21: BIZ-107 완료 (`/projects/service-monetization/sow-contract-templates.md`)
 - 2026-02-22: BIZ-108 완료 (`/projects/service-monetization/client-onboarding-checklist.md`)
 - 2026-02-22: BIZ-109 완료 (`/projects/service-monetization/delivery-sop.md`)
+- 2026-02-22: BIZ-110 완료 (`/projects/service-monetization/regional-go-to-market.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
