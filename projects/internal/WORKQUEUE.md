@@ -232,6 +232,36 @@
 - Output:
   - `/projects/service-monetization/monday-launch-checklist.md`
 
+### [BIZ-115] 고립은둔 완화형 운영원칙 설계 (사회적 연결 중심)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/social-connection-principles.md`
+
+### [BIZ-116] 오프라인 소규모 밋업 파일럿 기획 (전라도권)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/local-meetup-pilot.md`
+
+### [BIZ-117] 무료 줌 스터디/오피스아워 주간 운영안
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/weekly-office-hours.md`
+
+### [BIZ-118] 1:1 진단콜 이후 후속 접촉 시나리오(관계 유지형)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/followup-retention-flow.md`
+
+### [BIZ-119] 커뮤니티 참여 루프 설계 (신규→활동→기여)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/community-engagement-loop.md`
+
+### [BIZ-120] 월 1회 오프라인/온라인 하이브리드 데모데이 기획
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/hybrid-demo-day.md`
+
 ### [OPS-001] 주기 실행 구조(heartbeat cron) 구축
 - Status: DONE
 - Output:
@@ -277,3 +307,4 @@
 - 2026-02-21: BGL-034 완료 (`/projects/retire-sim/data-schema.md`)
 - 2026-02-21: BGL-035 완료 (`/projects/retire-sim/mvp-priority.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
+- 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
