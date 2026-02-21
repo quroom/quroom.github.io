@@ -223,7 +223,7 @@
   - `/projects/service-monetization/first-10-customers-plan.md`
 
 ### [BIZ-113] 수익성 대시보드(매출/마진/시간당수익)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/unit-economics-dashboard.md`
 
@@ -329,5 +329,6 @@
 - 2026-02-22: BIZ-110 완료 (`/projects/service-monetization/regional-go-to-market.md`)
 - 2026-02-22: BIZ-111 완료 (`/projects/service-monetization/content-calendar-4weeks.md`)
 - 2026-02-22: BIZ-112 완료 (`/projects/service-monetization/first-10-customers-plan.md`)
+- 2026-02-22: BIZ-113 완료 (`/projects/service-monetization/unit-economics-dashboard.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
