@@ -27,7 +27,7 @@
   - docs/index 링크 반영
 
 ### [BGL-013] 온보딩 A/B 실험 설계 문서
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/onboarding-ab-test.md`
   - KPI 측정 필드 포함
@@ -88,3 +88,4 @@
 - 2026-02-21: BGL-015~019 작업 큐 추가
 - 2026-02-21: OPS-002 대시보드 작업 시작
 - 2026-02-21: BGL-012 완료 (`/projects/bogle-ops/moderation-replies-30.md`, commit: 61b40ad)
+- 2026-02-21: BGL-013 완료 (`/projects/bogle-ops/onboarding-ab-test.md`, commit: 14579e1)
