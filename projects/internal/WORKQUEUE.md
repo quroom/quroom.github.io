@@ -98,7 +98,7 @@
   - `/projects/retire-sim/scenarios-20.md`
 
 ### [BGL-034] 데이터 모델/입력 스키마 정의
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/data-schema.md`
 
@@ -199,3 +199,4 @@
 - 2026-02-21: BGL-031 완료 (`/projects/retire-sim/personas-problems.md`)
 - 2026-02-21: BGL-032 완료 (`/projects/retire-sim/engine-spec.md`)
 - 2026-02-21: BGL-033 완료 (`/projects/retire-sim/scenarios-20.md`)
+- 2026-02-21: BGL-034 완료 (`/projects/retire-sim/data-schema.md`)
