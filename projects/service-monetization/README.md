@@ -12,6 +12,7 @@
 - [상담콜 스크립트](./sales-call-script.md)
 - [견적/SOW/계약 템플릿](./sow-contract-templates.md)
 - [고객 온보딩 체크리스트](./client-onboarding-checklist.md)
+- [프로젝트 실행 SOP](./delivery-sop.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`
