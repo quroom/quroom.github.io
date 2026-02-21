@@ -111,5 +111,6 @@
 - 2026-02-21: BGL-020 추가 (스레드용 보글 유머 카피라이팅 팩)
 - 2026-02-21: BGL-018 완료 (`/projects/bogle-ops/onboarding-ab-test-pack.md`, commit: ed07019)
 - 2026-02-21: BGL-021 완료 (`/bogle-ops/tac-playwright/*`, Playwright 수집 스캐폴드)
+- 2026-02-21: BGL-021 후속 성공 (ETF CHECK `getEtpLatestFee`로 실비용 자동수집, commit: 96cfb62 / pages: 0e7af08)
 - 2026-02-21: BGL-019 완료 (`/projects/bogle-ops/post-quality-check-30s.md`, commit: 53ade7d)
 - 2026-02-21: BGL-020 완료 (`/projects/bogle-ops/threads-humor-pack-001.md`, commit: 5ad2fa7)
