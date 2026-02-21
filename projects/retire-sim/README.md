@@ -19,3 +19,4 @@
 - [리스크/컴플라이언스](./risk-compliance.md)
 - [운영 정책](./ops-policy.md)
 - [개발 백로그](./dev-backlog.md)
+- [QA 테스트플랜](./qa-testplan.md)
