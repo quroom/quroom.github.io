@@ -14,6 +14,7 @@
 - [고객 온보딩 체크리스트](./client-onboarding-checklist.md)
 - [프로젝트 실행 SOP](./delivery-sop.md)
 - [전라도권 GTM 플랜](./regional-go-to-market.md)
+- [콘텐츠 4주 캘린더](./content-calendar-4weeks.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`

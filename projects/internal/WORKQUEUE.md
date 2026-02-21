@@ -213,7 +213,7 @@
   - `/projects/service-monetization/regional-go-to-market.md`
 
 ### [BIZ-111] 콘텐츠 마케팅 캘린더 4주 (Threads/LinkedIn/카페)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/content-calendar-4weeks.md`
 
@@ -327,5 +327,6 @@
 - 2026-02-22: BIZ-108 완료 (`/projects/service-monetization/client-onboarding-checklist.md`)
 - 2026-02-22: BIZ-109 완료 (`/projects/service-monetization/delivery-sop.md`)
 - 2026-02-22: BIZ-110 완료 (`/projects/service-monetization/regional-go-to-market.md`)
+- 2026-02-22: BIZ-111 완료 (`/projects/service-monetization/content-calendar-4weeks.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
