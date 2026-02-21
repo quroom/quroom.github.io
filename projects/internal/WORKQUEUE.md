@@ -21,7 +21,7 @@
   - docs/index 링크 반영
 
 ### [BGL-012] 운영진 댓글 대응 30문구 확장본
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/moderation-replies-30.md`
   - docs/index 링크 반영
@@ -87,3 +87,4 @@
 - 2026-02-21: cron 주기 60분 -> 10분 변경
 - 2026-02-21: BGL-015~019 작업 큐 추가
 - 2026-02-21: OPS-002 대시보드 작업 시작
+- 2026-02-21: BGL-012 완료 (`/projects/bogle-ops/moderation-replies-30.md`, commit: 61b40ad)
