@@ -198,7 +198,7 @@
   - `/projects/service-monetization/sow-contract-templates.md`
 
 ### [BIZ-108] 온보딩 체크리스트(고객 자료 수집/킥오프)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/client-onboarding-checklist.md`
 
@@ -324,5 +324,6 @@
 - 2026-02-21: BIZ-105 완료 (`/projects/service-monetization/landing-copy-faq.md`)
 - 2026-02-21: BIZ-106 완료 (`/projects/service-monetization/sales-call-script.md`)
 - 2026-02-21: BIZ-107 완료 (`/projects/service-monetization/sow-contract-templates.md`)
+- 2026-02-22: BIZ-108 완료 (`/projects/service-monetization/client-onboarding-checklist.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
