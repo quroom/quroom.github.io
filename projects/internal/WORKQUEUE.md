@@ -157,6 +157,81 @@
 - Output:
   - `/projects/retire-sim/monday-summary.md`
 
+### [BIZ-100] 즉시수익화 오퍼 구조 설계 (자동화/코칭/세팅)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/offer-architecture.md`
+
+### [BIZ-101] 상품 3종 상세 스펙/범위/산출물 정의
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/packages-spec.md`
+
+### [BIZ-102] 가격정책/할인/업셀/월구독 모델 설계
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/pricing-model.md`
+
+### [BIZ-103] 리드 수집형 무료 줌강의 기획안 + 신청폼 문항
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/free-webinar-plan.md`
+
+### [BIZ-104] 줌강의 60분 스크립트/데모 흐름/CTA 문구
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/webinar-script-60m.md`
+
+### [BIZ-105] 랜딩페이지 카피 + FAQ + 전환 CTA 설계
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/landing-copy-faq.md`
+
+### [BIZ-106] 상담콜 스크립트(진단→제안→클로징)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/sales-call-script.md`
+
+### [BIZ-107] 견적서/SOW/계약 템플릿 초안
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/sow-contract-templates.md`
+
+### [BIZ-108] 온보딩 체크리스트(고객 자료 수집/킥오프)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/client-onboarding-checklist.md`
+
+### [BIZ-109] 프로젝트 실행 SOP (주간 운영/리포트/장애대응)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/delivery-sop.md`
+
+### [BIZ-110] 지역(전라도권) 오프라인+온라인 영업 플랜
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/regional-go-to-market.md`
+
+### [BIZ-111] 콘텐츠 마케팅 캘린더 4주 (Threads/LinkedIn/카페)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/content-calendar-4weeks.md`
+
+### [BIZ-112] 첫 10고객 확보 실행계획 (주차별 KPI)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/first-10-customers-plan.md`
+
+### [BIZ-113] 수익성 대시보드(매출/마진/시간당수익)
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/unit-economics-dashboard.md`
+
+### [BIZ-114] 월요일 런치체크리스트 + 실행 요약본
+- Status: PENDING
+- Output:
+  - `/projects/service-monetization/monday-launch-checklist.md`
+
 ### [OPS-001] 주기 실행 구조(heartbeat cron) 구축
 - Status: DONE
 - Output:
@@ -200,3 +275,4 @@
 - 2026-02-21: BGL-032 완료 (`/projects/retire-sim/engine-spec.md`)
 - 2026-02-21: BGL-033 완료 (`/projects/retire-sim/scenarios-20.md`)
 - 2026-02-21: BGL-034 완료 (`/projects/retire-sim/data-schema.md`)
+- 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
