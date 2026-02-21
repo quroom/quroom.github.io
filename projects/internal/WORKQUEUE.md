@@ -58,7 +58,7 @@
   - `/projects/bogle-ops/onboarding-ab-test-pack.md`
 
 ### [BGL-019] 카페 글 품질 30초 체크리스트
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/post-quality-check-30s.md`
 
@@ -111,3 +111,4 @@
 - 2026-02-21: BGL-020 추가 (스레드용 보글 유머 카피라이팅 팩)
 - 2026-02-21: BGL-018 완료 (`/projects/bogle-ops/onboarding-ab-test-pack.md`, commit: ed07019)
 - 2026-02-21: BGL-021 완료 (`/bogle-ops/tac-playwright/*`, Playwright 수집 스캐폴드)
+- 2026-02-21: BGL-019 완료 (`/projects/bogle-ops/post-quality-check-30s.md`, commit: 53ade7d)
