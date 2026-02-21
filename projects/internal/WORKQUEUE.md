@@ -148,7 +148,7 @@
   - `/projects/retire-sim/landing-copy.md`
 
 ### [BGL-044] 가격정책/수익모델 실험안
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/pricing-experiments.md`
 
@@ -314,5 +314,6 @@
 - 2026-02-21: BGL-041 완료 (`/projects/retire-sim/qa-testplan.md`)
 - 2026-02-21: BGL-042 완료 (`/projects/retire-sim/gtm-marketing.md`)
 - 2026-02-21: BGL-043 완료 (`/projects/retire-sim/landing-copy.md`)
+- 2026-02-21: BGL-044 완료 (`/projects/retire-sim/pricing-experiments.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
