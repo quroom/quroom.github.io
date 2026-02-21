@@ -128,7 +128,7 @@
   - `/projects/retire-sim/ops-policy.md`
 
 ### [BGL-040] 개발 백로그 (에픽/스토리/작업단위)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/dev-backlog.md`
 
@@ -310,5 +310,6 @@
 - 2026-02-21: BGL-037 완료 (`/projects/retire-sim/wireframe-text.md`)
 - 2026-02-21: BGL-038 완료 (`/projects/retire-sim/risk-compliance.md`)
 - 2026-02-21: BGL-039 완료 (`/projects/retire-sim/ops-policy.md`)
+- 2026-02-21: BGL-040 완료 (`/projects/retire-sim/dev-backlog.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
