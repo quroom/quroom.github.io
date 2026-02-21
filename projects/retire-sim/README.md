@@ -13,3 +13,4 @@
 - [계산엔진 스펙](./engine-spec.md)
 - [시나리오 20개](./scenarios-20.md)
 - [데이터 모델/입력 스키마](./data-schema.md)
+- [MVP 우선순위](./mvp-priority.md)

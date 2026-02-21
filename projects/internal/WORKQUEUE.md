@@ -103,7 +103,7 @@
   - `/projects/retire-sim/data-schema.md`
 
 ### [BGL-035] MVP 기능 우선순위 (MoSCoW)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/mvp-priority.md`
 
@@ -275,4 +275,5 @@
 - 2026-02-21: BGL-032 완료 (`/projects/retire-sim/engine-spec.md`)
 - 2026-02-21: BGL-033 완료 (`/projects/retire-sim/scenarios-20.md`)
 - 2026-02-21: BGL-034 완료 (`/projects/retire-sim/data-schema.md`)
+- 2026-02-21: BGL-035 완료 (`/projects/retire-sim/mvp-priority.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
