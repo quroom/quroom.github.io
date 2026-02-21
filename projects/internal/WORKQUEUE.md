@@ -248,17 +248,17 @@
   - [`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md)
 
 ### [BIZ-118] 1:1 진단콜 이후 후속 접촉 시나리오(관계 유지형)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md)
 
 ### [BIZ-119] 커뮤니티 참여 루프 설계 (신규→활동→기여)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md)
 
 ### [BIZ-120] 월 1회 오프라인/온라인 하이브리드 데모데이 기획
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md)
 
@@ -336,3 +336,7 @@
 - 2026-02-22: BIZ-115 완료 ([`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md), commit: 7c14e10)`
 - 2026-02-22: BIZ-116 완료 ([`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md), commit: 24c99f6)`
 - 2026-02-22: BIZ-117 완료 ([`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md), commit: 384f95f)`
+
+- 2026-02-22: BIZ-118 완료 ([`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), commit: PENDING118)`
+- 2026-02-22: BIZ-119 완료 ([`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md), commit: PENDING119)`
+- 2026-02-22: BIZ-120 완료 ([`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md), commit: PENDING120)`

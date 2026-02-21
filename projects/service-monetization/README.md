@@ -21,6 +21,9 @@
 - [사회적 연결 중심 운영원칙](./social-connection-principles.md)
 - [오프라인 밋업 파일럿](./local-meetup-pilot.md)
 - [주간 오피스아워 운영안](./weekly-office-hours.md)
+- [하이브리드 데모데이 기획](./hybrid-demo-day.md)
+- [커뮤니티 참여 루프](./community-engagement-loop.md)
+- [후속 접촉 시나리오](./followup-retention-flow.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`

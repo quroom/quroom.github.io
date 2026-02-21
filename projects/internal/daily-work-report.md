@@ -30,3 +30,25 @@
   - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 주간 운영 루틴(월 공지-수 취합-금 진행-토 후속) 반영
+
+- 처리 작업: **BIZ-118 1:1 진단콜 이후 후속 접촉 시나리오(관계 유지형)**
+- 결과 파일: [`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md)
+- 보강 작업:
+  - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: D+0/D+1/D+3/D+7/D+14 후속 접촉 루틴 정리
+
+- 처리 작업: **BIZ-119 커뮤니티 참여 루프 설계 (신규→활동→기여)**
+- 결과 파일: [`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md)
+- 보강 작업:
+  - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 신규→활동→기여 전환 루프 및 KPI 정의
+
+- 처리 작업: **BIZ-120 월 1회 오프라인/온라인 하이브리드 데모데이 기획**
+- 결과 파일: [`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md)
+- 보강 작업:
+  - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 월 1회 하이브리드 데모데이 운영안/전환 퍼널 확정
+
