@@ -42,6 +42,29 @@
         })
         .then(md => {
           content.innerHTML = marked.parse(md);
+
+          // 문서 내 링크 표준화:
+          // - *.md 링크는 항상 md-viewer로 라우팅
+          // - /md-viewer.html?file=... 형식도 file 값을 안전하게 인코딩
+          content.querySelectorAll('a[href]').forEach(a => {
+            const raw = a.getAttribute('href') || '';
+            if (!raw) return;
+
+            // 1) 직접 markdown 파일을 가리키는 링크
+            if (/^\/(projects|bogle-ops)\/.+\.md($|[?#])/.test(raw)) {
+              const filePath = raw.split('#')[0].split('?')[0];
+              a.setAttribute('href', `/md-viewer.html?file=${encodeURIComponent(filePath)}`);
+              return;
+            }
+
+            // 2) 기존 md-viewer 링크의 file 파라미터 정규화
+            if (raw.startsWith('/md-viewer.html?file=')) {
+              const q = raw.slice('/md-viewer.html?file='.length);
+              const decoded = decodeURIComponent(q);
+              a.setAttribute('href', `/md-viewer.html?file=${encodeURIComponent(decoded)}`);
+            }
+          });
+
           document.title = file.split('/').pop() + ' - Markdown Viewer';
         })
         .catch(err => {
