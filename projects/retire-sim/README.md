@@ -23,3 +23,4 @@
 - [GTM/마케팅 플랜](./gtm-marketing.md)
 - [랜딩/온보딩 카피](./landing-copy.md)
 - [가격/수익모델 실험](./pricing-experiments.md)
+- [월요일 점검 리포트](./monday-summary.md)

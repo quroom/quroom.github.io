@@ -153,7 +153,7 @@
   - `/projects/retire-sim/pricing-experiments.md`
 
 ### [BGL-045] 월요일 점검 리포트(주말 산출물 요약)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/monday-summary.md`
 
@@ -315,5 +315,6 @@
 - 2026-02-21: BGL-042 완료 (`/projects/retire-sim/gtm-marketing.md`)
 - 2026-02-21: BGL-043 완료 (`/projects/retire-sim/landing-copy.md`)
 - 2026-02-21: BGL-044 완료 (`/projects/retire-sim/pricing-experiments.md`)
+- 2026-02-21: BGL-045 완료 (`/projects/retire-sim/monday-summary.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
