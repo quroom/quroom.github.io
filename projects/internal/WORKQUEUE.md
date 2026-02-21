@@ -43,7 +43,7 @@
   - `/projects/bogle-ops/notice-refactor-short-long.md`
 
 ### [BGL-016] 운영진 대응 매크로 50개
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/moderation-replies-50.md`
 
@@ -91,3 +91,4 @@
 - 2026-02-21: BGL-013 완료 (`/projects/bogle-ops/onboarding-ab-test.md`, commit: 14579e1)
 - 2026-02-21: BGL-014 완료 (`/projects/bogle-ops/kpi-dashboard-template.md`, commit: 7b4b393)
 - 2026-02-21: BGL-015 완료 (`/projects/bogle-ops/notice-refactor-short-long.md`, commit: 7a01cb0)
+- 2026-02-21: BGL-016 완료 (`/projects/bogle-ops/moderation-replies-50.md`, commit: 421ef2b)
