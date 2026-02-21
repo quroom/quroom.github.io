@@ -88,7 +88,7 @@
   - `/projects/retire-sim/personas-problems.md`
 
 ### [BGL-032] 핵심 계산엔진 스펙 (적립/인출/물가/세금)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/engine-spec.md`
 
@@ -197,3 +197,4 @@
 - 2026-02-21: BGL-030~045 추가 (노후준비 시뮬레이션 서비스 주말 태스크팩)
 - 2026-02-21: BGL-030 완료 (`/projects/retire-sim/prd-v1.md`)
 - 2026-02-21: BGL-031 완료 (`/projects/retire-sim/personas-problems.md`)
+- 2026-02-21: BGL-032 완료 (`/projects/retire-sim/engine-spec.md`)
