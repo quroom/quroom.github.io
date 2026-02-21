@@ -69,6 +69,14 @@
   - 톤: 초보/중수/고수/보글 4단 구성, 짧은 풍자형
   - 수량: 최소 100개 (시리즈형)
 
+### [BGL-021] Playwright 기반 TAC 동적수집 파이프라인 구축
+- Status: DONE
+- Output:
+  - `/bogle-ops/tac-playwright/README.md`
+  - `/bogle-ops/tac-playwright/fetch_tac.mjs`
+  - `/bogle-ops/tac-playwright/package.json`
+  - 결과를 `tac_overrides.csv`에 병합하는 가이드
+
 ### [OPS-001] 주기 실행 구조(heartbeat cron) 구축
 - Status: DONE
 - Output:
@@ -102,3 +110,4 @@
 - 2026-02-21: BGL-017 완료 (`/projects/bogle-ops/monthly-report-generator-format.md`, commit: 00c1c5f)
 - 2026-02-21: BGL-020 추가 (스레드용 보글 유머 카피라이팅 팩)
 - 2026-02-21: BGL-018 완료 (`/projects/bogle-ops/onboarding-ab-test-pack.md`, commit: ed07019)
+- 2026-02-21: BGL-021 완료 (`/bogle-ops/tac-playwright/*`, Playwright 수집 스캐폴드)
