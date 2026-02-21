@@ -188,7 +188,7 @@
   - `/projects/service-monetization/landing-copy-faq.md`
 
 ### [BIZ-106] 상담콜 스크립트(진단→제안→클로징)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/sales-call-script.md`
 
@@ -322,5 +322,6 @@
 - 2026-02-21: BIZ-103 완료 (`/projects/service-monetization/free-webinar-plan.md`)
 - 2026-02-21: BIZ-104 완료 (`/projects/service-monetization/webinar-script-60m.md`)
 - 2026-02-21: BIZ-105 완료 (`/projects/service-monetization/landing-copy-faq.md`)
+- 2026-02-21: BIZ-106 완료 (`/projects/service-monetization/sales-call-script.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
