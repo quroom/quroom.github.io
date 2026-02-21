@@ -8,6 +8,7 @@
 - [가격/업셀 모델](./pricing-model.md)
 - [무료 줌강의 기획](./free-webinar-plan.md)
 - [줌강의 60분 스크립트](./webinar-script-60m.md)
+- [랜딩 카피/FAQ](./landing-copy-faq.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`
