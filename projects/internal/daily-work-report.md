@@ -7,19 +7,19 @@
 - 결과 파일: [`/projects/service-monetization/monday-launch-checklist.md`](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md)
 - 보강 작업:
   - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
-  - `WORKQUEUE.md` 상태 `PENDING → DONE` 반영
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 일일 보고 페이지 생성 시작
 
 - 처리 작업: **BIZ-115 고립은둔 완화형 운영원칙 설계 (사회적 연결 중심)**
 - 결과 파일: [`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md)
 - 보강 작업:
   - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
-  - `WORKQUEUE.md` 상태 `PENDING → DONE` 반영
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 커뮤니티 안전감/반복 접점 중심 운영원칙 정리
 
 - 처리 작업: **BIZ-116 오프라인 소규모 밋업 파일럿 기획 (전라도권)**
 - 결과 파일: [`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)
 - 보강 작업:
   - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
-  - `WORKQUEUE.md` 상태 `PENDING → DONE` 반영
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 지역 기반 소규모 파일럿 운영안(90분/8~15명) 확정
