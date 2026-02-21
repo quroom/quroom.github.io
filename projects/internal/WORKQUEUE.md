@@ -48,7 +48,7 @@
   - `/projects/bogle-ops/moderation-replies-50.md`
 
 ### [BGL-017] 월간 리포트 자동 생성 포맷
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/monthly-report-generator-format.md`
 
@@ -92,3 +92,4 @@
 - 2026-02-21: BGL-014 완료 (`/projects/bogle-ops/kpi-dashboard-template.md`, commit: 7b4b393)
 - 2026-02-21: BGL-015 완료 (`/projects/bogle-ops/notice-refactor-short-long.md`, commit: 7a01cb0)
 - 2026-02-21: BGL-016 완료 (`/projects/bogle-ops/moderation-replies-50.md`, commit: 421ef2b)
+- 2026-02-21: BGL-017 완료 (`/projects/bogle-ops/monthly-report-generator-format.md`, commit: 00c1c5f)
