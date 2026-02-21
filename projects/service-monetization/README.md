@@ -19,6 +19,7 @@
 - [수익성 대시보드](./unit-economics-dashboard.md)
 - [월요일 런치 체크리스트](./monday-launch-checklist.md)
 - [사회적 연결 중심 운영원칙](./social-connection-principles.md)
+- [오프라인 밋업 파일럿](./local-meetup-pilot.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`

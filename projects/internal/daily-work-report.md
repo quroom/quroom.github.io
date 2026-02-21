@@ -16,3 +16,10 @@
   - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
   - `WORKQUEUE.md` 상태 `PENDING → DONE` 반영
 - 비고: 커뮤니티 안전감/반복 접점 중심 운영원칙 정리
+
+- 처리 작업: **BIZ-116 오프라인 소규모 밋업 파일럿 기획 (전라도권)**
+- 결과 파일: [`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)
+- 보강 작업:
+  - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
+  - `WORKQUEUE.md` 상태 `PENDING → DONE` 반영
+- 비고: 지역 기반 소규모 파일럿 운영안(90분/8~15명) 확정

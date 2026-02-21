@@ -238,7 +238,7 @@
   - [`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md)
 
 ### [BIZ-116] 오프라인 소규모 밋업 파일럿 기획 (전라도권)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)
 
@@ -334,3 +334,4 @@
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
 - 2026-02-22: BIZ-114 완료 ([`/projects/service-monetization/monday-launch-checklist.md`](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md), commit: d6eb919)`
 - 2026-02-22: BIZ-115 완료 ([`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md), commit: 7c14e10)`
+- 2026-02-22: BIZ-116 완료 ([`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md), commit: PENDING_HASH)`
