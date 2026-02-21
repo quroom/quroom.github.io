@@ -77,6 +77,86 @@
   - `/bogle-ops/tac-playwright/package.json`
   - 결과를 `tac_overrides.csv`에 병합하는 가이드
 
+### [BGL-030] 노후준비 시뮬레이션 서비스 PRD v1 작성
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/prd-v1.md`
+
+### [BGL-031] 사용자 페르소나/문제정의(지수투자 관점)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/personas-problems.md`
+
+### [BGL-032] 핵심 계산엔진 스펙 (적립/인출/물가/세금)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/engine-spec.md`
+
+### [BGL-033] 시뮬레이션 시나리오 20개 설계
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/scenarios-20.md`
+
+### [BGL-034] 데이터 모델/입력 스키마 정의
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/data-schema.md`
+
+### [BGL-035] MVP 기능 우선순위 (MoSCoW)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/mvp-priority.md`
+
+### [BGL-036] 기술 아키텍처 초안 (웹앱/API/배치)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/architecture.md`
+
+### [BGL-037] 화면설계 와이어프레임 텍스트 버전
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/wireframe-text.md`
+
+### [BGL-038] 리스크/컴플라이언스 체크리스트
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/risk-compliance.md`
+
+### [BGL-039] 운영 정책 (고객문의/장애/버전관리)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/ops-policy.md`
+
+### [BGL-040] 개발 백로그 (에픽/스토리/작업단위)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/dev-backlog.md`
+
+### [BGL-041] QA 테스트플랜 + 수치 검증 케이스
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/qa-testplan.md`
+
+### [BGL-042] GTM/마케팅 플랜 (콘텐츠/채널/지표)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/gtm-marketing.md`
+
+### [BGL-043] 온보딩 카피/랜딩페이지 문안
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/landing-copy.md`
+
+### [BGL-044] 가격정책/수익모델 실험안
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/pricing-experiments.md`
+
+### [BGL-045] 월요일 점검 리포트(주말 산출물 요약)
+- Status: PENDING
+- Output:
+  - `/projects/retire-sim/monday-summary.md`
+
 ### [OPS-001] 주기 실행 구조(heartbeat cron) 구축
 - Status: DONE
 - Output:
@@ -114,3 +194,4 @@
 - 2026-02-21: BGL-021 후속 성공 (ETF CHECK `getEtpLatestFee`로 실비용 자동수집, commit: 96cfb62 / pages: 0e7af08)
 - 2026-02-21: BGL-019 완료 (`/projects/bogle-ops/post-quality-check-30s.md`, commit: 53ade7d)
 - 2026-02-21: BGL-020 완료 (`/projects/bogle-ops/threads-humor-pack-001.md`, commit: 5ad2fa7)
+- 2026-02-21: BGL-030~045 추가 (노후준비 시뮬레이션 서비스 주말 태스크팩)
