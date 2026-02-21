@@ -168,7 +168,7 @@
   - `/projects/service-monetization/packages-spec.md`
 
 ### [BIZ-102] 가격정책/할인/업셀/월구독 모델 설계
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/service-monetization/pricing-model.md`
 
@@ -318,5 +318,6 @@
 - 2026-02-21: BGL-045 완료 (`/projects/retire-sim/monday-summary.md`)
 - 2026-02-21: BIZ-100 완료 (`/projects/service-monetization/offer-architecture.md`)
 - 2026-02-21: BIZ-101 완료 (`/projects/service-monetization/packages-spec.md`)
+- 2026-02-21: BIZ-102 완료 (`/projects/service-monetization/pricing-model.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
