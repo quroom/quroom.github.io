@@ -23,3 +23,10 @@
   - [[`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
   - [[`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 지역 기반 소규모 파일럿 운영안(90분/8~15명) 확정
+
+- 처리 작업: **BIZ-117 무료 줌 스터디/오피스아워 주간 운영안**
+- 결과 파일: [`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md)
+- 보강 작업:
+  - [`/projects/service-monetization/README.md`](/md-viewer.html?file=/projects/service-monetization/README.md)에 문서 링크 추가
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 주간 운영 루틴(월 공지-수 취합-금 진행-토 후속) 반영

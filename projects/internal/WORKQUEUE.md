@@ -17,250 +17,250 @@
 ### [BGL-011] 4주 연재 업로드 순서표 + 게시 캘린더 문서화
 - Status: DOING
 - Output:
-  - [[`/projects[`/bogle-ops/publishing-calendar.md`](/md-viewer.html?file=/bogle-ops/publishing-calendar.md)`](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md)](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md)
+  - [`/projects/bogle-ops/publishing-calendar.md`](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md)
   - docs/index 링크 반영
 
 ### [BGL-012] 운영진 댓글 대응 30문구 확장본
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/moderation-replies-30.md`](/md-viewer.html?file=/bogle-ops/moderation-replies-30.md)`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-30.md)](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-30.md)
+  - [`/projects/bogle-ops/moderation-replies-30.md`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-30.md)
   - docs/index 링크 반영
 
 ### [BGL-013] 온보딩 A/B 실험 설계 문서
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/onboarding-ab-test.md`](/md-viewer.html?file=/bogle-ops/onboarding-ab-test.md)`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test.md)](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test.md)
+  - [`/projects/bogle-ops/onboarding-ab-test.md`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test.md)
   - KPI 측정 필드 포함
 
 ### [BGL-014] 월간 KPI 대시보드 템플릿 (운영용)
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/kpi-dashboard-template.md`](/md-viewer.html?file=/bogle-ops/kpi-dashboard-template.md)`](/md-viewer.html?file=/projects/bogle-ops/kpi-dashboard-template.md)](/md-viewer.html?file=/projects/bogle-ops/kpi-dashboard-template.md)
+  - [`/projects/bogle-ops/kpi-dashboard-template.md`](/md-viewer.html?file=/projects/bogle-ops/kpi-dashboard-template.md)
 
 ### [BGL-015] 카페 필독 공지 리팩토링 (짧은/긴 버전)
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/notice-refactor-short-long.md`](/md-viewer.html?file=/bogle-ops/notice-refactor-short-long.md)`](/md-viewer.html?file=/projects/bogle-ops/notice-refactor-short-long.md)](/md-viewer.html?file=/projects/bogle-ops/notice-refactor-short-long.md)
+  - [`/projects/bogle-ops/notice-refactor-short-long.md`](/md-viewer.html?file=/projects/bogle-ops/notice-refactor-short-long.md)
 
 ### [BGL-016] 운영진 대응 매크로 50개
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/moderation-replies-50.md`](/md-viewer.html?file=/bogle-ops/moderation-replies-50.md)`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-50.md)](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-50.md)
+  - [`/projects/bogle-ops/moderation-replies-50.md`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-50.md)
 
 ### [BGL-017] 월간 리포트 자동 생성 포맷
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/monthly-report-generator-format.md`](/md-viewer.html?file=/bogle-ops/monthly-report-generator-format.md)`](/md-viewer.html?file=/projects/bogle-ops/monthly-report-generator-format.md)](/md-viewer.html?file=/projects/bogle-ops/monthly-report-generator-format.md)
+  - [`/projects/bogle-ops/monthly-report-generator-format.md`](/md-viewer.html?file=/projects/bogle-ops/monthly-report-generator-format.md)
 
 ### [BGL-018] 신규회원 7일 온보딩 A/B 실험안
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/onboarding-ab-test-pack.md`](/md-viewer.html?file=/bogle-ops/onboarding-ab-test-pack.md)`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test-pack.md)](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test-pack.md)
+  - [`/projects/bogle-ops/onboarding-ab-test-pack.md`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test-pack.md)
 
 ### [BGL-019] 카페 글 품질 30초 체크리스트
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/post-quality-check-30s.md`](/md-viewer.html?file=/bogle-ops/post-quality-check-30s.md)`](/md-viewer.html?file=/projects/bogle-ops/post-quality-check-30s.md)](/md-viewer.html?file=/projects/bogle-ops/post-quality-check-30s.md)
+  - [`/projects/bogle-ops/post-quality-check-30s.md`](/md-viewer.html?file=/projects/bogle-ops/post-quality-check-30s.md)
 
 ### [BGL-020] 스레드용 보글 유머 카피라이팅 팩 (대량 생성)
 - Status: DONE
 - Output:
-  - [[`/projects[`/bogle-ops/threads-humor-pack-001.md`](/md-viewer.html?file=/bogle-ops/threads-humor-pack-001.md)`](/md-viewer.html?file=/projects/bogle-ops/threads-humor-pack-001.md)](/md-viewer.html?file=/projects/bogle-ops/threads-humor-pack-001.md)
+  - [`/projects/bogle-ops/threads-humor-pack-001.md`](/md-viewer.html?file=/projects/bogle-ops/threads-humor-pack-001.md)
   - 톤: 초보/중수/고수/보글 4단 구성, 짧은 풍자형
   - 수량: 최소 100개 (시리즈형)
 
 ### [BGL-021] Playwright 기반 TAC 동적수집 파이프라인 구축
 - Status: DONE
 - Output:
-  - [[`/bogle-ops/tac-playwright/README.md`](/md-viewer.html?file=/bogle-ops/tac-playwright/README.md)](/md-viewer.html?file=/bogle-ops/tac-playwright/README.md)
-  - [[`/bogle-ops/tac-playwright/fetch_tac.mjs`](/bogle-ops/tac-playwright/fetch_tac.mjs)](/bogle-ops/tac-playwright/fetch_tac.mjs)
-  - [[`/bogle-ops/tac-playwright/package.json`](/bogle-ops/tac-playwright/package.json)](/bogle-ops/tac-playwright/package.json)
+  - [`/bogle-ops/tac-playwright/README.md`](/md-viewer.html?file=/bogle-ops/tac-playwright/README.md)
+  - [`/bogle-ops/tac-playwright/fetch_tac.mjs`](/bogle-ops/tac-playwright/fetch_tac.mjs)
+  - [`/bogle-ops/tac-playwright/package.json`](/bogle-ops/tac-playwright/package.json)
   - 결과를 `tac_overrides.csv`에 병합하는 가이드
 
 ### [BGL-030] 노후준비 시뮬레이션 서비스 PRD v1 작성
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/prd-v1.md`](/md-viewer.html?file=/projects/retire-sim/prd-v1.md)](/md-viewer.html?file=/projects/retire-sim/prd-v1.md)
+  - [`/projects/retire-sim/prd-v1.md`](/md-viewer.html?file=/projects/retire-sim/prd-v1.md)
 
 ### [BGL-031] 사용자 페르소나/문제정의(지수투자 관점)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/personas-problems.md`](/md-viewer.html?file=/projects/retire-sim/personas-problems.md)](/md-viewer.html?file=/projects/retire-sim/personas-problems.md)
+  - [`/projects/retire-sim/personas-problems.md`](/md-viewer.html?file=/projects/retire-sim/personas-problems.md)
 
 ### [BGL-032] 핵심 계산엔진 스펙 (적립/인출/물가/세금)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/engine-spec.md`](/md-viewer.html?file=/projects/retire-sim/engine-spec.md)](/md-viewer.html?file=/projects/retire-sim/engine-spec.md)
+  - [`/projects/retire-sim/engine-spec.md`](/md-viewer.html?file=/projects/retire-sim/engine-spec.md)
 
 ### [BGL-033] 시뮬레이션 시나리오 20개 설계
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/scenarios-20.md`](/md-viewer.html?file=/projects/retire-sim/scenarios-20.md)](/md-viewer.html?file=/projects/retire-sim/scenarios-20.md)
+  - [`/projects/retire-sim/scenarios-20.md`](/md-viewer.html?file=/projects/retire-sim/scenarios-20.md)
 
 ### [BGL-034] 데이터 모델/입력 스키마 정의
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/data-schema.md`](/md-viewer.html?file=/projects/retire-sim/data-schema.md)](/md-viewer.html?file=/projects/retire-sim/data-schema.md)
+  - [`/projects/retire-sim/data-schema.md`](/md-viewer.html?file=/projects/retire-sim/data-schema.md)
 
 ### [BGL-035] MVP 기능 우선순위 (MoSCoW)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/mvp-priority.md`](/md-viewer.html?file=/projects/retire-sim/mvp-priority.md)](/md-viewer.html?file=/projects/retire-sim/mvp-priority.md)
+  - [`/projects/retire-sim/mvp-priority.md`](/md-viewer.html?file=/projects/retire-sim/mvp-priority.md)
 
 ### [BGL-036] 기술 아키텍처 초안 (웹앱/API/배치)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/architecture.md`](/md-viewer.html?file=/projects/retire-sim/architecture.md)](/md-viewer.html?file=/projects/retire-sim/architecture.md)
+  - [`/projects/retire-sim/architecture.md`](/md-viewer.html?file=/projects/retire-sim/architecture.md)
 
 ### [BGL-037] 화면설계 와이어프레임 텍스트 버전
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/wireframe-text.md`](/md-viewer.html?file=/projects/retire-sim/wireframe-text.md)](/md-viewer.html?file=/projects/retire-sim/wireframe-text.md)
+  - [`/projects/retire-sim/wireframe-text.md`](/md-viewer.html?file=/projects/retire-sim/wireframe-text.md)
 
 ### [BGL-038] 리스크/컴플라이언스 체크리스트
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/risk-compliance.md`](/md-viewer.html?file=/projects/retire-sim/risk-compliance.md)](/md-viewer.html?file=/projects/retire-sim/risk-compliance.md)
+  - [`/projects/retire-sim/risk-compliance.md`](/md-viewer.html?file=/projects/retire-sim/risk-compliance.md)
 
 ### [BGL-039] 운영 정책 (고객문의/장애/버전관리)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/ops-policy.md`](/md-viewer.html?file=/projects/retire-sim/ops-policy.md)](/md-viewer.html?file=/projects/retire-sim/ops-policy.md)
+  - [`/projects/retire-sim/ops-policy.md`](/md-viewer.html?file=/projects/retire-sim/ops-policy.md)
 
 ### [BGL-040] 개발 백로그 (에픽/스토리/작업단위)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/dev-backlog.md`](/md-viewer.html?file=/projects/retire-sim/dev-backlog.md)](/md-viewer.html?file=/projects/retire-sim/dev-backlog.md)
+  - [`/projects/retire-sim/dev-backlog.md`](/md-viewer.html?file=/projects/retire-sim/dev-backlog.md)
 
 ### [BGL-041] QA 테스트플랜 + 수치 검증 케이스
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/qa-testplan.md`](/md-viewer.html?file=/projects/retire-sim/qa-testplan.md)](/md-viewer.html?file=/projects/retire-sim/qa-testplan.md)
+  - [`/projects/retire-sim/qa-testplan.md`](/md-viewer.html?file=/projects/retire-sim/qa-testplan.md)
 
 ### [BGL-042] GTM/마케팅 플랜 (콘텐츠/채널/지표)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/gtm-marketing.md`](/md-viewer.html?file=/projects/retire-sim/gtm-marketing.md)](/md-viewer.html?file=/projects/retire-sim/gtm-marketing.md)
+  - [`/projects/retire-sim/gtm-marketing.md`](/md-viewer.html?file=/projects/retire-sim/gtm-marketing.md)
 
 ### [BGL-043] 온보딩 카피/랜딩페이지 문안
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/landing-copy.md`](/md-viewer.html?file=/projects/retire-sim/landing-copy.md)](/md-viewer.html?file=/projects/retire-sim/landing-copy.md)
+  - [`/projects/retire-sim/landing-copy.md`](/md-viewer.html?file=/projects/retire-sim/landing-copy.md)
 
 ### [BGL-044] 가격정책/수익모델 실험안
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/pricing-experiments.md`](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md)](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md)
+  - [`/projects/retire-sim/pricing-experiments.md`](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md)
 
 ### [BGL-045] 월요일 점검 리포트(주말 산출물 요약)
 - Status: DONE
 - Output:
-  - [[`/projects/retire-sim/monday-summary.md`](/md-viewer.html?file=/projects/retire-sim/monday-summary.md)](/md-viewer.html?file=/projects/retire-sim/monday-summary.md)
+  - [`/projects/retire-sim/monday-summary.md`](/md-viewer.html?file=/projects/retire-sim/monday-summary.md)
 
 ### [BIZ-100] 즉시수익화 오퍼 구조 설계 (자동화/코칭/세팅)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/offer-architecture.md`](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md)](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md)
+  - [`/projects/service-monetization/offer-architecture.md`](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md)
 
 ### [BIZ-101] 상품 3종 상세 스펙/범위/산출물 정의
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/packages-spec.md`](/md-viewer.html?file=/projects/service-monetization/packages-spec.md)](/md-viewer.html?file=/projects/service-monetization/packages-spec.md)
+  - [`/projects/service-monetization/packages-spec.md`](/md-viewer.html?file=/projects/service-monetization/packages-spec.md)
 
 ### [BIZ-102] 가격정책/할인/업셀/월구독 모델 설계
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/pricing-model.md`](/md-viewer.html?file=/projects/service-monetization/pricing-model.md)](/md-viewer.html?file=/projects/service-monetization/pricing-model.md)
+  - [`/projects/service-monetization/pricing-model.md`](/md-viewer.html?file=/projects/service-monetization/pricing-model.md)
 
 ### [BIZ-103] 리드 수집형 무료 줌강의 기획안 + 신청폼 문항
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/free-webinar-plan.md`](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md)](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md)
+  - [`/projects/service-monetization/free-webinar-plan.md`](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md)
 
 ### [BIZ-104] 줌강의 60분 스크립트/데모 흐름/CTA 문구
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/webinar-script-60m.md`](/md-viewer.html?file=/projects/service-monetization/webinar-script-60m.md)](/md-viewer.html?file=/projects/service-monetization/webinar-script-60m.md)
+  - [`/projects/service-monetization/webinar-script-60m.md`](/md-viewer.html?file=/projects/service-monetization/webinar-script-60m.md)
 
 ### [BIZ-105] 랜딩페이지 카피 + FAQ + 전환 CTA 설계
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/landing-copy-faq.md`](/md-viewer.html?file=/projects/service-monetization/landing-copy-faq.md)](/md-viewer.html?file=/projects/service-monetization/landing-copy-faq.md)
+  - [`/projects/service-monetization/landing-copy-faq.md`](/md-viewer.html?file=/projects/service-monetization/landing-copy-faq.md)
 
 ### [BIZ-106] 상담콜 스크립트(진단→제안→클로징)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/sales-call-script.md`](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md)](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md)
+  - [`/projects/service-monetization/sales-call-script.md`](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md)
 
 ### [BIZ-107] 견적서/SOW/계약 템플릿 초안
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/sow-contract-templates.md`](/md-viewer.html?file=/projects/service-monetization/sow-contract-templates.md)](/md-viewer.html?file=/projects/service-monetization/sow-contract-templates.md)
+  - [`/projects/service-monetization/sow-contract-templates.md`](/md-viewer.html?file=/projects/service-monetization/sow-contract-templates.md)
 
 ### [BIZ-108] 온보딩 체크리스트(고객 자료 수집/킥오프)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/client-onboarding-checklist.md`](/md-viewer.html?file=/projects/service-monetization/client-onboarding-checklist.md)](/md-viewer.html?file=/projects/service-monetization/client-onboarding-checklist.md)
+  - [`/projects/service-monetization/client-onboarding-checklist.md`](/md-viewer.html?file=/projects/service-monetization/client-onboarding-checklist.md)
 
 ### [BIZ-109] 프로젝트 실행 SOP (주간 운영/리포트/장애대응)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/delivery-sop.md`](/md-viewer.html?file=/projects/service-monetization/delivery-sop.md)](/md-viewer.html?file=/projects/service-monetization/delivery-sop.md)
+  - [`/projects/service-monetization/delivery-sop.md`](/md-viewer.html?file=/projects/service-monetization/delivery-sop.md)
 
 ### [BIZ-110] 지역(전라도권) 오프라인+온라인 영업 플랜
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/regional-go-to-market.md`](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md)](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md)
+  - [`/projects/service-monetization/regional-go-to-market.md`](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md)
 
 ### [BIZ-111] 콘텐츠 마케팅 캘린더 4주 (Threads/LinkedIn/카페)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/content-calendar-4weeks.md`](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md)](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md)
+  - [`/projects/service-monetization/content-calendar-4weeks.md`](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md)
 
 ### [BIZ-112] 첫 10고객 확보 실행계획 (주차별 KPI)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/first-10-customers-plan.md`](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md)](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md)
+  - [`/projects/service-monetization/first-10-customers-plan.md`](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md)
 
 ### [BIZ-113] 수익성 대시보드(매출/마진/시간당수익)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/unit-economics-dashboard.md`](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md)](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md)
+  - [`/projects/service-monetization/unit-economics-dashboard.md`](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md)
 
 ### [BIZ-114] 월요일 런치체크리스트 + 실행 요약본
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/monday-launch-checklist.md`](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md)](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md)
+  - [`/projects/service-monetization/monday-launch-checklist.md`](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md)
 
 ### [BIZ-115] 고립은둔 완화형 운영원칙 설계 (사회적 연결 중심)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md)](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md)
+  - [`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md)
 
 ### [BIZ-116] 오프라인 소규모 밋업 파일럿 기획 (전라도권)
 - Status: DONE
 - Output:
-  - [[`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)
+  - [`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)
 
 ### [BIZ-117] 무료 줌 스터디/오피스아워 주간 운영안
-- Status: PENDING
+- Status: DONE
 - Output:
-  - [[`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md)](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md)
+  - [`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md)
 
 ### [BIZ-118] 1:1 진단콜 이후 후속 접촉 시나리오(관계 유지형)
 - Status: PENDING
 - Output:
-  - [[`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md)](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md)
+  - [`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md)
 
 ### [BIZ-119] 커뮤니티 참여 루프 설계 (신규→활동→기여)
 - Status: PENDING
 - Output:
-  - [[`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md)](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md)
+  - [`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md)
 
 ### [BIZ-120] 월 1회 오프라인/온라인 하이브리드 데모데이 기획
 - Status: PENDING
 - Output:
-  - [[`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md)](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md)
+  - [`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md)
 
 ### [OPS-001] 주기 실행 구조(heartbeat cron) 구축
 - Status: DONE
@@ -270,8 +270,8 @@
 ### [OPS-002] WORKQUEUE 대시보드 구축
 - Status: DOING
 - Output:
-  - [[`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)](/projects/internal/workqueue-dashboard.html)
-  - [[`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)와 연동
+  - [`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)와 연동
 
 ---
 
@@ -287,51 +287,52 @@
 - 2026-02-21: cron 주기 60분 -> 10분 변경
 - 2026-02-21: BGL-015~019 작업 큐 추가
 - 2026-02-21: OPS-002 대시보드 작업 시작
-- 2026-02-21: BGL-012 완료 ([[`/projects[`/bogle-ops/moderation-replies-30.md`](/md-viewer.html?file=/bogle-ops/moderation-replies-30.md)`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-30.md)](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-30.md), commit: 61b40ad)
-- 2026-02-21: BGL-013 완료 ([[`/projects[`/bogle-ops/onboarding-ab-test.md`](/md-viewer.html?file=/bogle-ops/onboarding-ab-test.md)`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test.md)](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test.md), commit: 14579e1)
-- 2026-02-21: BGL-014 완료 ([[`/projects[`/bogle-ops/kpi-dashboard-template.md`](/md-viewer.html?file=/bogle-ops/kpi-dashboard-template.md)`](/md-viewer.html?file=/projects/bogle-ops/kpi-dashboard-template.md)](/md-viewer.html?file=/projects/bogle-ops/kpi-dashboard-template.md), commit: 7b4b393)
-- 2026-02-21: BGL-015 완료 ([[`/projects[`/bogle-ops/notice-refactor-short-long.md`](/md-viewer.html?file=/bogle-ops/notice-refactor-short-long.md)`](/md-viewer.html?file=/projects/bogle-ops/notice-refactor-short-long.md)](/md-viewer.html?file=/projects/bogle-ops/notice-refactor-short-long.md), commit: 7a01cb0)
-- 2026-02-21: BGL-016 완료 ([[`/projects[`/bogle-ops/moderation-replies-50.md`](/md-viewer.html?file=/bogle-ops/moderation-replies-50.md)`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-50.md)](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-50.md), commit: 421ef2b)
-- 2026-02-21: BGL-017 완료 ([[`/projects[`/bogle-ops/monthly-report-generator-format.md`](/md-viewer.html?file=/bogle-ops/monthly-report-generator-format.md)`](/md-viewer.html?file=/projects/bogle-ops/monthly-report-generator-format.md)](/md-viewer.html?file=/projects/bogle-ops/monthly-report-generator-format.md), commit: 00c1c5f)
+- 2026-02-21: BGL-012 완료 ([`/projects/bogle-ops/moderation-replies-30.md`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-30.md), commit: 61b40ad)
+- 2026-02-21: BGL-013 완료 ([`/projects/bogle-ops/onboarding-ab-test.md`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test.md), commit: 14579e1)
+- 2026-02-21: BGL-014 완료 ([`/projects/bogle-ops/kpi-dashboard-template.md`](/md-viewer.html?file=/projects/bogle-ops/kpi-dashboard-template.md), commit: 7b4b393)
+- 2026-02-21: BGL-015 완료 ([`/projects/bogle-ops/notice-refactor-short-long.md`](/md-viewer.html?file=/projects/bogle-ops/notice-refactor-short-long.md), commit: 7a01cb0)
+- 2026-02-21: BGL-016 완료 ([`/projects/bogle-ops/moderation-replies-50.md`](/md-viewer.html?file=/projects/bogle-ops/moderation-replies-50.md), commit: 421ef2b)
+- 2026-02-21: BGL-017 완료 ([`/projects/bogle-ops/monthly-report-generator-format.md`](/md-viewer.html?file=/projects/bogle-ops/monthly-report-generator-format.md), commit: 00c1c5f)
 - 2026-02-21: BGL-020 추가 (스레드용 보글 유머 카피라이팅 팩)
-- 2026-02-21: BGL-018 완료 ([[`/projects[`/bogle-ops/onboarding-ab-test-pack.md`](/md-viewer.html?file=/bogle-ops/onboarding-ab-test-pack.md)`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test-pack.md)](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test-pack.md), commit: ed07019)
-- 2026-02-21: BGL-021 완료 ([[`/bogle-ops/tac-playwright/*`](/bogle-ops/tac-playwright/*)](/bogle-ops/tac-playwright/*), Playwright 수집 스캐폴드)
+- 2026-02-21: BGL-018 완료 ([`/projects/bogle-ops/onboarding-ab-test-pack.md`](/md-viewer.html?file=/projects/bogle-ops/onboarding-ab-test-pack.md), commit: ed07019)
+- 2026-02-21: BGL-021 완료 ([`/bogle-ops/tac-playwright/*`](/bogle-ops/tac-playwright/*), Playwright 수집 스캐폴드)
 - 2026-02-21: BGL-021 후속 성공 (ETF CHECK `getEtpLatestFee`로 실비용 자동수집, commit: 96cfb62 / pages: 0e7af08)
-- 2026-02-21: BGL-019 완료 ([[`/projects[`/bogle-ops/post-quality-check-30s.md`](/md-viewer.html?file=/bogle-ops/post-quality-check-30s.md)`](/md-viewer.html?file=/projects/bogle-ops/post-quality-check-30s.md)](/md-viewer.html?file=/projects/bogle-ops/post-quality-check-30s.md), commit: 53ade7d)
-- 2026-02-21: BGL-020 완료 ([[`/projects[`/bogle-ops/threads-humor-pack-001.md`](/md-viewer.html?file=/bogle-ops/threads-humor-pack-001.md)`](/md-viewer.html?file=/projects/bogle-ops/threads-humor-pack-001.md)](/md-viewer.html?file=/projects/bogle-ops/threads-humor-pack-001.md), commit: 5ad2fa7)
+- 2026-02-21: BGL-019 완료 ([`/projects/bogle-ops/post-quality-check-30s.md`](/md-viewer.html?file=/projects/bogle-ops/post-quality-check-30s.md), commit: 53ade7d)
+- 2026-02-21: BGL-020 완료 ([`/projects/bogle-ops/threads-humor-pack-001.md`](/md-viewer.html?file=/projects/bogle-ops/threads-humor-pack-001.md), commit: 5ad2fa7)
 - 2026-02-21: BGL-030~045 추가 (노후준비 시뮬레이션 서비스 주말 태스크팩)
-- 2026-02-21: BGL-030 완료 ([[`/projects/retire-sim/prd-v1.md`](/md-viewer.html?file=/projects/retire-sim/prd-v1.md)](/md-viewer.html?file=/projects/retire-sim/prd-v1.md))
-- 2026-02-21: BGL-031 완료 ([[`/projects/retire-sim/personas-problems.md`](/md-viewer.html?file=/projects/retire-sim/personas-problems.md)](/md-viewer.html?file=/projects/retire-sim/personas-problems.md))
-- 2026-02-21: BGL-032 완료 ([[`/projects/retire-sim/engine-spec.md`](/md-viewer.html?file=/projects/retire-sim/engine-spec.md)](/md-viewer.html?file=/projects/retire-sim/engine-spec.md))
-- 2026-02-21: BGL-033 완료 ([[`/projects/retire-sim/scenarios-20.md`](/md-viewer.html?file=/projects/retire-sim/scenarios-20.md)](/md-viewer.html?file=/projects/retire-sim/scenarios-20.md))
-- 2026-02-21: BGL-034 완료 ([[`/projects/retire-sim/data-schema.md`](/md-viewer.html?file=/projects/retire-sim/data-schema.md)](/md-viewer.html?file=/projects/retire-sim/data-schema.md))
-- 2026-02-21: BGL-035 완료 ([[`/projects/retire-sim/mvp-priority.md`](/md-viewer.html?file=/projects/retire-sim/mvp-priority.md)](/md-viewer.html?file=/projects/retire-sim/mvp-priority.md))
-- 2026-02-21: BGL-036 완료 ([[`/projects/retire-sim/architecture.md`](/md-viewer.html?file=/projects/retire-sim/architecture.md)](/md-viewer.html?file=/projects/retire-sim/architecture.md))
-- 2026-02-21: BGL-037 완료 ([[`/projects/retire-sim/wireframe-text.md`](/md-viewer.html?file=/projects/retire-sim/wireframe-text.md)](/md-viewer.html?file=/projects/retire-sim/wireframe-text.md))
-- 2026-02-21: BGL-038 완료 ([[`/projects/retire-sim/risk-compliance.md`](/md-viewer.html?file=/projects/retire-sim/risk-compliance.md)](/md-viewer.html?file=/projects/retire-sim/risk-compliance.md))
-- 2026-02-21: BGL-039 완료 ([[`/projects/retire-sim/ops-policy.md`](/md-viewer.html?file=/projects/retire-sim/ops-policy.md)](/md-viewer.html?file=/projects/retire-sim/ops-policy.md))
-- 2026-02-21: BGL-040 완료 ([[`/projects/retire-sim/dev-backlog.md`](/md-viewer.html?file=/projects/retire-sim/dev-backlog.md)](/md-viewer.html?file=/projects/retire-sim/dev-backlog.md))
-- 2026-02-21: BGL-041 완료 ([[`/projects/retire-sim/qa-testplan.md`](/md-viewer.html?file=/projects/retire-sim/qa-testplan.md)](/md-viewer.html?file=/projects/retire-sim/qa-testplan.md))
-- 2026-02-21: BGL-042 완료 ([[`/projects/retire-sim/gtm-marketing.md`](/md-viewer.html?file=/projects/retire-sim/gtm-marketing.md)](/md-viewer.html?file=/projects/retire-sim/gtm-marketing.md))
-- 2026-02-21: BGL-043 완료 ([[`/projects/retire-sim/landing-copy.md`](/md-viewer.html?file=/projects/retire-sim/landing-copy.md)](/md-viewer.html?file=/projects/retire-sim/landing-copy.md))
-- 2026-02-21: BGL-044 완료 ([[`/projects/retire-sim/pricing-experiments.md`](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md)](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md))
-- 2026-02-21: BGL-045 완료 ([[`/projects/retire-sim/monday-summary.md`](/md-viewer.html?file=/projects/retire-sim/monday-summary.md)](/md-viewer.html?file=/projects/retire-sim/monday-summary.md))
-- 2026-02-21: BIZ-100 완료 ([[`/projects/service-monetization/offer-architecture.md`](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md)](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md))
-- 2026-02-21: BIZ-101 완료 ([[`/projects/service-monetization/packages-spec.md`](/md-viewer.html?file=/projects/service-monetization/packages-spec.md)](/md-viewer.html?file=/projects/service-monetization/packages-spec.md))
-- 2026-02-21: BIZ-102 완료 ([[`/projects/service-monetization/pricing-model.md`](/md-viewer.html?file=/projects/service-monetization/pricing-model.md)](/md-viewer.html?file=/projects/service-monetization/pricing-model.md))
-- 2026-02-21: BIZ-103 완료 ([[`/projects/service-monetization/free-webinar-plan.md`](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md)](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md))
-- 2026-02-21: BIZ-104 완료 ([[`/projects/service-monetization/webinar-script-60m.md`](/md-viewer.html?file=/projects/service-monetization/webinar-script-60m.md)](/md-viewer.html?file=/projects/service-monetization/webinar-script-60m.md))
-- 2026-02-21: BIZ-105 완료 ([[`/projects/service-monetization/landing-copy-faq.md`](/md-viewer.html?file=/projects/service-monetization/landing-copy-faq.md)](/md-viewer.html?file=/projects/service-monetization/landing-copy-faq.md))
-- 2026-02-21: BIZ-106 완료 ([[`/projects/service-monetization/sales-call-script.md`](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md)](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md))
-- 2026-02-21: BIZ-107 완료 ([[`/projects/service-monetization/sow-contract-templates.md`](/md-viewer.html?file=/projects/service-monetization/sow-contract-templates.md)](/md-viewer.html?file=/projects/service-monetization/sow-contract-templates.md))
-- 2026-02-22: BIZ-108 완료 ([[`/projects/service-monetization/client-onboarding-checklist.md`](/md-viewer.html?file=/projects/service-monetization/client-onboarding-checklist.md)](/md-viewer.html?file=/projects/service-monetization/client-onboarding-checklist.md))
-- 2026-02-22: BIZ-109 완료 ([[`/projects/service-monetization/delivery-sop.md`](/md-viewer.html?file=/projects/service-monetization/delivery-sop.md)](/md-viewer.html?file=/projects/service-monetization/delivery-sop.md))
-- 2026-02-22: BIZ-110 완료 ([[`/projects/service-monetization/regional-go-to-market.md`](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md)](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md))
-- 2026-02-22: BIZ-111 완료 ([[`/projects/service-monetization/content-calendar-4weeks.md`](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md)](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md))
-- 2026-02-22: BIZ-112 완료 ([[`/projects/service-monetization/first-10-customers-plan.md`](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md)](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md))
-- 2026-02-22: BIZ-113 완료 ([[`/projects/service-monetization/unit-economics-dashboard.md`](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md)](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md))
+- 2026-02-21: BGL-030 완료 ([`/projects/retire-sim/prd-v1.md`](/md-viewer.html?file=/projects/retire-sim/prd-v1.md))
+- 2026-02-21: BGL-031 완료 ([`/projects/retire-sim/personas-problems.md`](/md-viewer.html?file=/projects/retire-sim/personas-problems.md))
+- 2026-02-21: BGL-032 완료 ([`/projects/retire-sim/engine-spec.md`](/md-viewer.html?file=/projects/retire-sim/engine-spec.md))
+- 2026-02-21: BGL-033 완료 ([`/projects/retire-sim/scenarios-20.md`](/md-viewer.html?file=/projects/retire-sim/scenarios-20.md))
+- 2026-02-21: BGL-034 완료 ([`/projects/retire-sim/data-schema.md`](/md-viewer.html?file=/projects/retire-sim/data-schema.md))
+- 2026-02-21: BGL-035 완료 ([`/projects/retire-sim/mvp-priority.md`](/md-viewer.html?file=/projects/retire-sim/mvp-priority.md))
+- 2026-02-21: BGL-036 완료 ([`/projects/retire-sim/architecture.md`](/md-viewer.html?file=/projects/retire-sim/architecture.md))
+- 2026-02-21: BGL-037 완료 ([`/projects/retire-sim/wireframe-text.md`](/md-viewer.html?file=/projects/retire-sim/wireframe-text.md))
+- 2026-02-21: BGL-038 완료 ([`/projects/retire-sim/risk-compliance.md`](/md-viewer.html?file=/projects/retire-sim/risk-compliance.md))
+- 2026-02-21: BGL-039 완료 ([`/projects/retire-sim/ops-policy.md`](/md-viewer.html?file=/projects/retire-sim/ops-policy.md))
+- 2026-02-21: BGL-040 완료 ([`/projects/retire-sim/dev-backlog.md`](/md-viewer.html?file=/projects/retire-sim/dev-backlog.md))
+- 2026-02-21: BGL-041 완료 ([`/projects/retire-sim/qa-testplan.md`](/md-viewer.html?file=/projects/retire-sim/qa-testplan.md))
+- 2026-02-21: BGL-042 완료 ([`/projects/retire-sim/gtm-marketing.md`](/md-viewer.html?file=/projects/retire-sim/gtm-marketing.md))
+- 2026-02-21: BGL-043 완료 ([`/projects/retire-sim/landing-copy.md`](/md-viewer.html?file=/projects/retire-sim/landing-copy.md))
+- 2026-02-21: BGL-044 완료 ([`/projects/retire-sim/pricing-experiments.md`](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md))
+- 2026-02-21: BGL-045 완료 ([`/projects/retire-sim/monday-summary.md`](/md-viewer.html?file=/projects/retire-sim/monday-summary.md))
+- 2026-02-21: BIZ-100 완료 ([`/projects/service-monetization/offer-architecture.md`](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md))
+- 2026-02-21: BIZ-101 완료 ([`/projects/service-monetization/packages-spec.md`](/md-viewer.html?file=/projects/service-monetization/packages-spec.md))
+- 2026-02-21: BIZ-102 완료 ([`/projects/service-monetization/pricing-model.md`](/md-viewer.html?file=/projects/service-monetization/pricing-model.md))
+- 2026-02-21: BIZ-103 완료 ([`/projects/service-monetization/free-webinar-plan.md`](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md))
+- 2026-02-21: BIZ-104 완료 ([`/projects/service-monetization/webinar-script-60m.md`](/md-viewer.html?file=/projects/service-monetization/webinar-script-60m.md))
+- 2026-02-21: BIZ-105 완료 ([`/projects/service-monetization/landing-copy-faq.md`](/md-viewer.html?file=/projects/service-monetization/landing-copy-faq.md))
+- 2026-02-21: BIZ-106 완료 ([`/projects/service-monetization/sales-call-script.md`](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md))
+- 2026-02-21: BIZ-107 완료 ([`/projects/service-monetization/sow-contract-templates.md`](/md-viewer.html?file=/projects/service-monetization/sow-contract-templates.md))
+- 2026-02-22: BIZ-108 완료 ([`/projects/service-monetization/client-onboarding-checklist.md`](/md-viewer.html?file=/projects/service-monetization/client-onboarding-checklist.md))
+- 2026-02-22: BIZ-109 완료 ([`/projects/service-monetization/delivery-sop.md`](/md-viewer.html?file=/projects/service-monetization/delivery-sop.md))
+- 2026-02-22: BIZ-110 완료 ([`/projects/service-monetization/regional-go-to-market.md`](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md))
+- 2026-02-22: BIZ-111 완료 ([`/projects/service-monetization/content-calendar-4weeks.md`](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md))
+- 2026-02-22: BIZ-112 완료 ([`/projects/service-monetization/first-10-customers-plan.md`](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md))
+- 2026-02-22: BIZ-113 완료 ([`/projects/service-monetization/unit-economics-dashboard.md`](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md))
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)
-- 2026-02-22: BIZ-114 완료 ([[`/projects/service-monetization/monday-launch-checklist.md`](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md)](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md), commit: d6eb919)`
-- 2026-02-22: BIZ-115 완료 ([[`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md)](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md), commit: 7c14e10)`
-- 2026-02-22: BIZ-116 완료 ([[`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md)](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md), commit: 24c99f6)`
+- 2026-02-22: BIZ-114 완료 ([`/projects/service-monetization/monday-launch-checklist.md`](/md-viewer.html?file=/projects/service-monetization/monday-launch-checklist.md), commit: d6eb919)`
+- 2026-02-22: BIZ-115 완료 ([`/projects/service-monetization/social-connection-principles.md`](/md-viewer.html?file=/projects/service-monetization/social-connection-principles.md), commit: 7c14e10)`
+- 2026-02-22: BIZ-116 완료 ([`/projects/service-monetization/local-meetup-pilot.md`](/md-viewer.html?file=/projects/service-monetization/local-meetup-pilot.md), commit: 24c99f6)`
+- 2026-02-22: BIZ-117 완료 ([`/projects/service-monetization/weekly-office-hours.md`](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md), commit: PENDING_HASH)`
