@@ -93,7 +93,7 @@
   - `/projects/retire-sim/engine-spec.md`
 
 ### [BGL-033] 시뮬레이션 시나리오 20개 설계
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/scenarios-20.md`
 
@@ -198,3 +198,4 @@
 - 2026-02-21: BGL-030 완료 (`/projects/retire-sim/prd-v1.md`)
 - 2026-02-21: BGL-031 완료 (`/projects/retire-sim/personas-problems.md`)
 - 2026-02-21: BGL-032 완료 (`/projects/retire-sim/engine-spec.md`)
+- 2026-02-21: BGL-033 완료 (`/projects/retire-sim/scenarios-20.md`)
