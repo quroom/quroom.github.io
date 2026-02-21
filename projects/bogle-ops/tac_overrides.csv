@@ -1,6 +1,6 @@
 code,tac_pct,source,updated_at,note
-069500,,,,
-360750,,,,
-379800,,,,
-133690,,,,
-102110,,,,
+069500,0.18570,etfcheck(getEtpLatestFee),2026-02-21,TER=0.16000; tradeDate=202601
+360750,0.10960,etfcheck(getEtpLatestFee),2026-02-21,TER=0.07000; tradeDate=202601
+379800,0.10850,etfcheck(getEtpLatestFee),2026-02-21,TER=0.07000; tradeDate=202601
+133690,0.14040,etfcheck(getEtpLatestFee),2026-02-21,TER=0.10000; tradeDate=202601
+102110,0.08830,etfcheck(getEtpLatestFee),2026-02-21,TER=0.07000; tradeDate=202601
