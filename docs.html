@@ -82,7 +82,9 @@ const docs = {
   ],
   "Internal Ops": [
     "/projects/internal/WORKQUEUE.md",
-    "/projects/internal/HEARTBEAT.md"
+    "/projects/internal/HEARTBEAT.md",
+    "/projects/internal/daily-work-report.md",
+    "/projects/internal/overall-work-summary.md"
   ],
   "Retire Sim": [
     "/projects/retire-sim/README.md",
@@ -139,7 +141,7 @@ function renderNav(selected){
     box.appendChild(h);
     files.forEach(f => {
       const a = document.createElement('a');
-      a.href = `?file=${encodeURIComponent(f)}`;
+      a.href = `/md-viewer.html?file=${encodeURIComponent(f)}`;
       a.className = 'file' + (f===selected ? ' active':'');
       a.textContent = baseName(f);
       box.appendChild(a);
@@ -164,7 +166,7 @@ function buildToc(){
 
 async function loadFile(file){
   renderNav(file);
-  meta.innerHTML = `문서: <a href="${file}">${file}</a>`;
+  meta.innerHTML = `문서: <a href="/md-viewer.html?file=${encodeURIComponent(file)}">${file}</a>`;
   try {
     const res = await fetch(file);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
