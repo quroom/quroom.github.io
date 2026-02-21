@@ -63,7 +63,7 @@
   - `/projects/bogle-ops/post-quality-check-30s.md`
 
 ### [BGL-020] 스레드용 보글 유머 카피라이팅 팩 (대량 생성)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/bogle-ops/threads-humor-pack-001.md`
   - 톤: 초보/중수/고수/보글 4단 구성, 짧은 풍자형
@@ -112,3 +112,4 @@
 - 2026-02-21: BGL-018 완료 (`/projects/bogle-ops/onboarding-ab-test-pack.md`, commit: ed07019)
 - 2026-02-21: BGL-021 완료 (`/bogle-ops/tac-playwright/*`, Playwright 수집 스캐폴드)
 - 2026-02-21: BGL-019 완료 (`/projects/bogle-ops/post-quality-check-30s.md`, commit: 53ade7d)
+- 2026-02-21: BGL-020 완료 (`/projects/bogle-ops/threads-humor-pack-001.md`, commit: 5ad2fa7)
