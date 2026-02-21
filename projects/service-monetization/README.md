@@ -17,6 +17,7 @@
 - [콘텐츠 4주 캘린더](./content-calendar-4weeks.md)
 - [첫 10고객 실행계획](./first-10-customers-plan.md)
 - [수익성 대시보드](./unit-economics-dashboard.md)
+- [월요일 런치 체크리스트](./monday-launch-checklist.md)
 
 진행 큐:
 - WORKQUEUE의 `BIZ-100 ~ BIZ-120`
