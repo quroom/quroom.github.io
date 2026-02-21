@@ -83,7 +83,7 @@
   - `/projects/retire-sim/prd-v1.md`
 
 ### [BGL-031] 사용자 페르소나/문제정의(지수투자 관점)
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/personas-problems.md`
 
@@ -196,3 +196,4 @@
 - 2026-02-21: BGL-020 완료 (`/projects/bogle-ops/threads-humor-pack-001.md`, commit: 5ad2fa7)
 - 2026-02-21: BGL-030~045 추가 (노후준비 시뮬레이션 서비스 주말 태스크팩)
 - 2026-02-21: BGL-030 완료 (`/projects/retire-sim/prd-v1.md`)
+- 2026-02-21: BGL-031 완료 (`/projects/retire-sim/personas-problems.md`)

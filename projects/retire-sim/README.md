@@ -9,3 +9,4 @@
 
 문서:
 - [PRD v1](./prd-v1.md)
+- [페르소나/문제정의](./personas-problems.md)
