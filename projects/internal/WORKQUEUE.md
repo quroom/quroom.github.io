@@ -113,7 +113,7 @@
   - `/projects/retire-sim/architecture.md`
 
 ### [BGL-037] 화면설계 와이어프레임 텍스트 버전
-- Status: PENDING
+- Status: DONE
 - Output:
   - `/projects/retire-sim/wireframe-text.md`
 
@@ -307,5 +307,6 @@
 - 2026-02-21: BGL-034 완료 (`/projects/retire-sim/data-schema.md`)
 - 2026-02-21: BGL-035 완료 (`/projects/retire-sim/mvp-priority.md`)
 - 2026-02-21: BGL-036 완료 (`/projects/retire-sim/architecture.md`)
+- 2026-02-21: BGL-037 완료 (`/projects/retire-sim/wireframe-text.md`)
 - 2026-02-21: BIZ-100~114 추가 (즉시수익화 프로젝트 태스크팩)
 - 2026-02-21: BIZ-115~120 추가 (고립은둔 완화형 사회적 연결 태스크팩)

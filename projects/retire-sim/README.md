@@ -15,3 +15,4 @@
 - [데이터 모델/입력 스키마](./data-schema.md)
 - [MVP 우선순위](./mvp-priority.md)
 - [기술 아키텍처](./architecture.md)
+- [와이어프레임(텍스트)](./wireframe-text.md)
