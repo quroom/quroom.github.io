@@ -494,4 +494,5 @@
 - 2026-02-22: REV-214 완료 ([`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md), commit: 624a60d)`
 - 2026-02-22: REV-206 완료 ([`/projects/revenue-sprint/inbound-sales-scripts-40.md`](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md), commit: 0effff3)`
 - 2026-02-22: BGL-201~210 추가 (네이버 존보글 카페 초보자용 복붙 자료 스프린트)
+- 2026-02-22: Bogleheads 철학 반영 작성가이드 추가 ([`/projects/bogle-beginner-kit/STYLE-GUIDE.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/STYLE-GUIDE.md))
 - 2026-02-22: REV-207 완료 ([`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md), commit: 700201e)`
