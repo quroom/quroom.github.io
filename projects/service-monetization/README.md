@@ -13,7 +13,7 @@
 - [견적/SOW/계약 템플릿](./sow-contract-templates.md)
 - [고객 온보딩 체크리스트](./client-onboarding-checklist.md)
 - [프로젝트 실행 SOP](./delivery-sop.md)
-- [전라도권 GTM 플랜](./regional-go-to-market.md)
+- [전라도권 GTM 플랜 (상세)](./regional-go-to-market.md)
 - [콘텐츠 4주 캘린더](./content-calendar-4weeks.md)
 - [첫 10고객 실행계획](./first-10-customers-plan.md)
 - [수익성 대시보드](./unit-economics-dashboard.md)
@@ -24,6 +24,7 @@
 - [하이브리드 데모데이 기획](./hybrid-demo-day.md)
 - [월요일 빌드업 런치 플랜](./monday-launch-plan.md)
 - [실행 통합 플레이북](./execution-playbook.md)
+- [문서 읽는 순서](./reading-order.md)
 - [커뮤니티 참여 루프](./community-engagement-loop.md)
 - [후속 접촉 시나리오](./followup-retention-flow.md)
 
