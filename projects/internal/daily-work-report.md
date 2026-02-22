@@ -182,4 +182,9 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: Bogleheads 원칙 기반 4주 온보딩 포스트 구성
+- 처리 작업: **BGL-206 ETF 선택 기준 카드뉴스 원고 30개**
+- 결과 파일: [`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: Bogleheads 원칙 기반 카드뉴스 원고 30개
 
