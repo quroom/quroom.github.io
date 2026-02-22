@@ -498,4 +498,4 @@
 - 2026-02-22: Bogleheads 철학 반영 작성가이드 추가 ([`/projects/bogle-beginner-kit/STYLE-GUIDE.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/STYLE-GUIDE.md))
 - 2026-02-22: REV-207 완료 ([`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md), commit: 700201e)`
 - 2026-02-22: REV-208 완료 ([`/projects/revenue-sprint/landing-restructure-onepage.md`](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md), commit: ce27137)`
-- 2026-02-22: REV-209 완료 ([`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md), commit: PENDING_REV209)`
+- 2026-02-22: REV-209 완료 ([`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md), commit: 5c27c0c)`
