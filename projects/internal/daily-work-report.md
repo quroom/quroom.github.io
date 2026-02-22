@@ -82,3 +82,10 @@
 - 결과 파일: [/projects/revenue-sprint/free-hook-productivity-checklist-10min.md](/md-viewer.html?file=/projects/revenue-sprint/free-hook-productivity-checklist-10min.md), [/projects/revenue-sprint/offer-copy-90min-setup-session.md](/md-viewer.html?file=/projects/revenue-sprint/offer-copy-90min-setup-session.md), [/projects/revenue-sprint/proposal-2week-productivity-sprint.md](/md-viewer.html?file=/projects/revenue-sprint/proposal-2week-productivity-sprint.md)
 - 보강 작업: [/projects/revenue-sprint/README.md](/md-viewer.html?file=/projects/revenue-sprint/README.md) 생성
 - 비고: 무료 훅 문서/90분 세션 카피/2주 스프린트 제안서 생성
+
+- 처리 작업: **REV-204 리드 자석(무료 템플릿) 5종 기획**
+- 결과 파일: [`/projects/revenue-sprint/lead-magnet-pack-5.md`](/md-viewer.html?file=/projects/revenue-sprint/lead-magnet-pack-5.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 무료 훅 5종 + 채널/전환동선/KPI 정의
+
