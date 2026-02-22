@@ -177,4 +177,9 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: Bogleheads 원칙 기반 댓글 대응 100개 정리
+- 처리 작업: **BGL-205 주차별 온보딩 포스트 4주치 (복붙형)**
+- 결과 파일: [`/projects/bogle-beginner-kit/onboarding-4weeks.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/onboarding-4weeks.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: Bogleheads 원칙 기반 4주 온보딩 포스트 구성
 

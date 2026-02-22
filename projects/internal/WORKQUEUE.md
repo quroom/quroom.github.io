@@ -387,7 +387,7 @@
   - [`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md)
 
 ### [BGL-205] 주차별 온보딩 포스트 4주치 (복붙형)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/onboarding-4weeks.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/onboarding-4weeks.md)
 
@@ -507,3 +507,4 @@
 - 2026-02-22: BGL-202 완료 ([`/projects/bogle-beginner-kit/faq-50.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/faq-50.md), commit: 97d7dc3)`
 - 2026-02-22: BGL-203 완료 ([`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md), commit: cf3b50b)`
 - 2026-02-22: BGL-204 완료 ([`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md), commit: 38eeecc)`
+- 2026-02-22: BGL-205 완료 ([`/projects/bogle-beginner-kit/onboarding-4weeks.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/onboarding-4weeks.md), commit: PENDING_BGL205)`
