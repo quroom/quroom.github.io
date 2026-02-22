@@ -1,5 +1,8 @@
 # 중요 파일 인덱스 (랜딩/수익화)
 
+## 개인 강점/채널 자산
+- [founder-strengths-and-channels.md](/md-viewer.html?file=/projects/internal/founder-strengths-and-channels.md)
+
 ## 랜딩 구축 핵심
 - [unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
 - [solo-product-engineer-monetization-framework.md](/md-viewer.html?file=/projects/service-monetization/solo-product-engineer-monetization-framework.md)
