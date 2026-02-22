@@ -117,3 +117,10 @@
 - 결과 파일: [/projects/bogle-beginner-kit/README.md](/md-viewer.html?file=/projects/bogle-beginner-kit/README.md), [/projects/bogle-beginner-kit/001-start-here.md](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
 - 보강 작업: [/projects/internal/WORKQUEUE.md](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 큐 확장
 - 비고: 월요일까지 자동 생성 목표
+
+- 처리 작업: **REV-207 상담콜 클로징 플로우 (진단→결제)**
+- 결과 파일: [`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 2옵션 제안/이의처리/후속루틴 + 배려 원칙 포함
+
