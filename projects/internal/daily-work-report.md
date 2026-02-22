@@ -226,6 +226,13 @@
   - [/projects/internal/important-files-index.md](/md-viewer.html?file=/projects/internal/important-files-index.md) 인덱스 반영
 - 비고: 인지→구매 전환을 위한 A-I-C-E 카피 구조와 7일 실행안 포함
 
+- 처리 작업: **Unified Go-To-Cash Plan 업데이트 (최우선 프로젝트 + 4주 디테일)**
+- 결과 파일: [/projects/service-monetization/unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
+- 보강 작업:
+  - 최우선 프로젝트 선택 근거 추가
+  - 4주 KPI 기반 실행 계획 추가
+- 비고: 1인기업가 대상 S/W+AX 스프린트를 최우선 트랙으로 고정
+
 - 처리 작업: **Service Monetization 통합 실행본 작성 (명함 영업용)**
 - 결과 파일: [/projects/service-monetization/unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
 - 보강 작업:
