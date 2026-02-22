@@ -308,7 +308,7 @@
   - [`/projects/revenue-sprint/lead-magnet-pack-5.md`](/md-viewer.html?file=/projects/revenue-sprint/lead-magnet-pack-5.md)
 
 ### [REV-205] 7일 콘텐츠 캘린더 (신뢰→상담 전환)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md)
 
@@ -421,3 +421,4 @@
 - 2026-02-22: REV-203 완료 ([`/projects/revenue-sprint/mvp-dev-backlog-2weeks.md`](/md-viewer.html?file=/projects/revenue-sprint/mvp-dev-backlog-2weeks.md), commit: 2877017)`
 - 2026-02-22: 수익화 핵심 판매자료 3종 문서화 ([`/projects/revenue-sprint/free-hook-productivity-checklist-10min.md`](/md-viewer.html?file=/projects/revenue-sprint/free-hook-productivity-checklist-10min.md), [`/projects/revenue-sprint/offer-copy-90min-setup-session.md`](/md-viewer.html?file=/projects/revenue-sprint/offer-copy-90min-setup-session.md), [`/projects/revenue-sprint/proposal-2week-productivity-sprint.md`](/md-viewer.html?file=/projects/revenue-sprint/proposal-2week-productivity-sprint.md))
 - 2026-02-22: REV-204 완료 ([`/projects/revenue-sprint/lead-magnet-pack-5.md`](/md-viewer.html?file=/projects/revenue-sprint/lead-magnet-pack-5.md), commit: 0828ba2)`
+- 2026-02-22: REV-205 완료 ([`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md), commit: PENDING_REV205)`

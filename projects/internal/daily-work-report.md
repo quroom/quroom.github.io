@@ -89,3 +89,9 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 무료 훅 5종 + 채널/전환동선/KPI 정의
 
+- 처리 작업: **REV-205 7일 콘텐츠 캘린더 (신뢰→상담 전환)**
+- 결과 파일: [`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 7일 전환형 콘텐츠 + 고립은둔(예비) 배려 주제 포함
+
