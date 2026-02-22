@@ -508,4 +508,4 @@
 - 2026-02-22: BGL-203 완료 ([`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md), commit: cf3b50b)`
 - 2026-02-22: BGL-204 완료 ([`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md), commit: 38eeecc)`
 - 2026-02-22: BGL-205 완료 ([`/projects/bogle-beginner-kit/onboarding-4weeks.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/onboarding-4weeks.md), commit: 7906633)`
-- 2026-02-22: BGL-206 완료 ([`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md), commit: PENDING_BGL206)`
+- 2026-02-22: BGL-206 완료 ([`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md), commit: 17479e8)`
