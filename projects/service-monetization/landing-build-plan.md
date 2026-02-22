@@ -64,3 +64,6 @@
 - Wanted: https://www.wanted.co.kr
 - Upwork Agency 프로필 참고: https://www.upwork.com/agencies/
 
+## 통합 실행 문서
+- [unified-go-to-cash-plan.md](./unified-go-to-cash-plan.md)
+

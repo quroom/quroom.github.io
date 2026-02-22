@@ -1,6 +1,7 @@
 # 중요 파일 인덱스 (랜딩/수익화)
 
 ## 랜딩 구축 핵심
+- [unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
 - [landing-build-plan.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan.md)
 - [landing-build-plan-v2-from-spec.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan-v2-from-spec.md)
 - [landing-persona-solopreneur.md](/md-viewer.html?file=/projects/service-monetization/landing-persona-solopreneur.md)

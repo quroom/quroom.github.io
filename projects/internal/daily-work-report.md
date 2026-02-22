@@ -212,3 +212,11 @@
 - 보강 작업: [/projects/internal/index.html](/projects/internal/) 링크 추가
 - 비고: 연내 1~2천만원 외주 1건 목표를 랜딩 계획에 명시
 
+- 처리 작업: **Service Monetization 통합 실행본 작성 (명함 영업용)**
+- 결과 파일: [/projects/service-monetization/unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
+- 보강 작업:
+  - [/projects/service-monetization/landing-build-plan.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan.md)에서 통합 문서 연계
+  - [/projects/service-monetization/reading-order.md](/md-viewer.html?file=/projects/service-monetization/reading-order.md) 우선순위 반영
+  - [/projects/internal/important-files-index.md](/md-viewer.html?file=/projects/internal/important-files-index.md) 인덱스 반영
+- 비고: 단기/중기/장기 + 외주/에이전시 + 명함 접점 스크립트 통합
+

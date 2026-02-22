@@ -23,6 +23,7 @@
 - [주간 오피스아워 운영안](./weekly-office-hours.md)
 - [하이브리드 데모데이 기획](./hybrid-demo-day.md)
 - [월요일 빌드업 런치 플랜](./monday-launch-plan.md)
+- [Unified Go-To-Cash Plan](./unified-go-to-cash-plan.md)
 - [실행 통합 플레이북](./execution-playbook.md)
 - [문서 읽는 순서](./reading-order.md)
 - [랜딩 구축 실행계획 (통합)](./landing-build-plan.md)

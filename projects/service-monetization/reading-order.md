@@ -3,8 +3,9 @@
 처음 보는 기준으로 **이 순서대로 보면 실행이 가장 빠름**.
 
 ## 0) 전체 맥락
-1. [실행 통합 플레이북](./execution-playbook.md)
-2. [월요일 빌드업 런치 플랜](./monday-launch-plan.md)
+1. [Unified Go-To-Cash Plan](./unified-go-to-cash-plan.md)
+2. [실행 통합 플레이북](./execution-playbook.md)
+3. [월요일 빌드업 런치 플랜](./monday-launch-plan.md)
 
 ## 1) 상품/가격 구조
 3. [오퍼 구조 설계](./offer-architecture.md)
