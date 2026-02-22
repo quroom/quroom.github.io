@@ -25,3 +25,4 @@
 - [가격/수익모델 실험](./pricing-experiments.md)
 - [월요일 점검 리포트](./monday-summary.md)
 - [가치 서비스 맵 (투자 x 개발/AX)](./value-services-map.md)
+- [4주 실행 플랜 (Retire Sim 파일럿)](./4week-execution-plan-retire-sim-pilot.md)

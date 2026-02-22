@@ -202,6 +202,13 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: Bogleheads 원칙 기반 공지/필독 문안 20세트 작성
+
+- 처리 작업: **4주 디테일 실행계획 수립 (AX/외주 + Retire Sim 파일럿)**
+- 결과 파일: [/projects/service-monetization/4week-execution-plan-ax-outsourcing.md](/md-viewer.html?file=/projects/service-monetization/4week-execution-plan-ax-outsourcing.md), [/projects/retire-sim/4week-execution-plan-retire-sim-pilot.md](/md-viewer.html?file=/projects/retire-sim/4week-execution-plan-retire-sim-pilot.md)
+- 보강 작업:
+  - [/projects/service-monetization/README.md](/md-viewer.html?file=/projects/service-monetization/README.md) 링크 반영
+  - [/projects/retire-sim/README.md](/md-viewer.html?file=/projects/retire-sim/README.md) 링크 반영
+- 비고: 4주 내 매출/파일럿 달성을 위한 주차별 실행안 확정
 - 처리 작업: **BGL-210 월요일까지 게시 가능한 복붙 패킷 v1**
 - 결과 파일: [`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md)
 - 보강 작업:

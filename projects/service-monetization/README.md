@@ -32,6 +32,7 @@
 - [랜딩 구축 실행계획 v1](./landing-build-plan-v1.md)
 - [랜딩 구축 실행계획 v2 (spec 반영)](./landing-build-plan-v2-from-spec.md)
 - [커뮤니티 참여 루프](./community-engagement-loop.md)
+- [4주 실행 플랜 (AX/외주)](./4week-execution-plan-ax-outsourcing.md)
 - [후속 접촉 시나리오](./followup-retention-flow.md)
 
 진행 큐:
