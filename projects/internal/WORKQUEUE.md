@@ -501,4 +501,4 @@
 - 2026-02-22: REV-209 완료 ([`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md), commit: 5c27c0c)`
 - 2026-02-22: REV-210 완료 ([`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md), commit: 877e805)`
 - 2026-02-22: REV-211 완료 ([`/projects/revenue-sprint/launch-sequence-10days-solo.md`](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md), commit: a2a595e)`
-- 2026-02-22: REV-212 완료 ([`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md), commit: PENDING_REV212)`
+- 2026-02-22: REV-212 완료 ([`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md), commit: 4a7f065)`
