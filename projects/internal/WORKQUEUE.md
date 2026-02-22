@@ -361,7 +361,7 @@
 
 
 ### [CHK-001] 월요일 디테일 계획 확정 미팅
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md)
 
@@ -502,3 +502,4 @@
 - 2026-02-22: REV-210 완료 ([`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md), commit: 877e805)`
 - 2026-02-22: REV-211 완료 ([`/projects/revenue-sprint/launch-sequence-10days-solo.md`](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md), commit: a2a595e)`
 - 2026-02-22: REV-212 완료 ([`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md), commit: 4a7f065)`
+- 2026-02-22: CHK-001 완료 ([`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md), commit: PENDING_CHK001)`

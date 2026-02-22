@@ -151,4 +151,10 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 인터뷰 질문 15개 + 주간 개선 루프 정리
+- 처리 작업: **CHK-001 월요일 디테일 계획 확정 미팅**
+- 결과 파일: [`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md)
+- 보강 작업:
+  - 월요일 확정 체크리스트 상태 점검
+  - 진행 상태 `PENDING → DONE` 반영
+- 비고: 월요일 핵심 의사결정 항목 확인 완료
 
