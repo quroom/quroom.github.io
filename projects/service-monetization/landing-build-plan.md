@@ -46,6 +46,18 @@
 - 트랙 B: 제품 개발 대행(MVP~운영)
 - 트랙 C: 외국인 개발자 연계(호남권 취업/협업 매칭)
 
+## 외주/에이전시 확장 문서 연계 (필수 참조)
+- 고액 외주 제안서 템플릿:
+  - [high-ticket-outsourcing-proposal-template.md](../revenue-sprint/high-ticket-outsourcing-proposal-template.md)
+- 월요일 디테일 실행계획(1,000~2,000만원 트랙 포함):
+  - [monday-detail-plan-outsourcing-10m-20m.md](../revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md)
+
+### 랜딩에 어떻게 반영할지
+1. Services 섹션에 `고액 외주(4~8주)` 카드 추가
+2. Contact 섹션에 `고액 외주 상담` CTA 분리
+3. FAQ에 `범위/지불조건/변경관리` 항목 추가 (제안서 템플릿 기준)
+4. Hero 하단 보조문구에 `연내 1~2천만원 외주 1건 목표` 내부 운영 KPI로 명시
+
 ## 레퍼런스 사이트 (랜딩 참고)
 - Notion Korea: https://www.notion.so/ko-KR
 - Toss: https://toss.im
