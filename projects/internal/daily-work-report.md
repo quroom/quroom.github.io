@@ -124,3 +124,9 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 2옵션 제안/이의처리/후속루틴 + 배려 원칙 포함
 
+- 처리 작업: **REV-208 랜딩페이지 구조 리팩터링 (1페이지 판매형)**
+- 결과 파일: [`/projects/revenue-sprint/landing-restructure-onepage.md`](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 1페이지 전환 구조 + 저가/외주 CTA 분리
+

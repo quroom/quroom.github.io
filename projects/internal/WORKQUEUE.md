@@ -324,7 +324,7 @@
   - [`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md)
 
 ### [REV-208] 랜딩페이지 구조 리팩터링 (1페이지 판매형)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/landing-restructure-onepage.md`](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md)
 
@@ -497,3 +497,4 @@
 - 2026-02-22: BGL-201~210 추가 (네이버 존보글 카페 초보자용 복붙 자료 스프린트)
 - 2026-02-22: Bogleheads 철학 반영 작성가이드 추가 ([`/projects/bogle-beginner-kit/STYLE-GUIDE.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/STYLE-GUIDE.md))
 - 2026-02-22: REV-207 완료 ([`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md), commit: 700201e)`
+- 2026-02-22: REV-208 완료 ([`/projects/revenue-sprint/landing-restructure-onepage.md`](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md), commit: PENDING_REV208)`
