@@ -358,6 +358,12 @@
 - Output:
   - [`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md)
 
+
+### [CHK-001] 월요일 디테일 계획 확정 미팅
+- Status: PENDING
+- Output:
+  - [`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md)
+
 ---
 
 ## 주기 실행 구조
