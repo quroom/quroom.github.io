@@ -298,7 +298,7 @@
   - [`/projects/revenue-sprint/offer-stack-fast-close.md`](/md-viewer.html?file=/projects/revenue-sprint/offer-stack-fast-close.md)
 
 ### [REV-203] 2주 MVP 개발 백로그 (수익 우선)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/mvp-dev-backlog-2weeks.md`](/md-viewer.html?file=/projects/revenue-sprint/mvp-dev-backlog-2weeks.md)
 
@@ -418,3 +418,4 @@
 - 2026-02-22: REV-201~212 추가 (즉시수익화 스프린트: 기획/개발/마케팅/판매 통합 큐)
 - 2026-02-22: REV-201 완료 ([`/projects/revenue-sprint/differentiation-onepager.md`](/md-viewer.html?file=/projects/revenue-sprint/differentiation-onepager.md), commit: e2cc195)`
 - 2026-02-22: REV-202 완료 ([`/projects/revenue-sprint/offer-stack-fast-close.md`](/md-viewer.html?file=/projects/revenue-sprint/offer-stack-fast-close.md), commit: 5d8cb93)`
+- 2026-02-22: REV-203 완료 ([`/projects/revenue-sprint/mvp-dev-backlog-2weeks.md`](/md-viewer.html?file=/projects/revenue-sprint/mvp-dev-backlog-2weeks.md), commit: PENDING_REV203)`

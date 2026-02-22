@@ -71,3 +71,9 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 고립은둔(예비) 당사자 배려 가이드 포함
 
+- 처리 작업: **REV-203 2주 MVP 개발 백로그 (수익 우선)**
+- 결과 파일: [`/projects/revenue-sprint/mvp-dev-backlog-2weeks.md`](/md-viewer.html?file=/projects/revenue-sprint/mvp-dev-backlog-2weeks.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 무료 훅→저가세션→스프린트 퍼널 + 고립은둔(예비) 배려 원칙 포함
+
