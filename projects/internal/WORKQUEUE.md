@@ -407,7 +407,7 @@
   - [`/projects/bogle-beginner-kit/no-go-checklist-200.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/no-go-checklist-200.md)
 
 ### [BGL-209] 카페 공지/필독 리팩토링(짧은/긴) 20세트
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md)
 
@@ -511,3 +511,4 @@
 - 2026-02-22: BGL-206 완료 ([`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md), commit: 17479e8)`
 - 2026-02-22: BGL-207 완료 ([`/projects/bogle-beginner-kit/monthly-check-template-12m.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/monthly-check-template-12m.md), commit: f436584)`
 - 2026-02-22: BGL-208 완료 ([`/projects/bogle-beginner-kit/no-go-checklist-200.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/no-go-checklist-200.md), commit: fe8820b)`
+- 2026-02-22: BGL-209 완료 ([`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md), commit: PENDING_BGL209)`

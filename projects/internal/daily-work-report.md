@@ -197,4 +197,9 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: Bogleheads 원칙 위반 금지행동 200 체크리스트 작성
+- 처리 작업: **BGL-209 카페 공지/필독 리팩토링(짧은/긴) 20세트**
+- 결과 파일: [`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: Bogleheads 원칙 기반 공지/필독 문안 20세트 작성
 
