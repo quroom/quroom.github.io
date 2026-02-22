@@ -377,7 +377,7 @@
   - [`/projects/bogle-beginner-kit/faq-50.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/faq-50.md)
 
 ### [BGL-203] 하락장 멘탈관리 카피 100선
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md)
 
@@ -505,3 +505,4 @@
 - 2026-02-22: CHK-001 완료 ([`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md), commit: af72cbf)`
 - 2026-02-22: BGL-201 완료 ([`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md), commit: 6955273)`
 - 2026-02-22: BGL-202 완료 ([`/projects/bogle-beginner-kit/faq-50.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/faq-50.md), commit: 97d7dc3)`
+- 2026-02-22: BGL-203 완료 ([`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md), commit: PENDING_BGL203)`
