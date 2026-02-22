@@ -77,3 +77,8 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 무료 훅→저가세션→스프린트 퍼널 + 고립은둔(예비) 배려 원칙 포함
 
+
+- 처리 작업: **수익화 핵심 판매자료 3종 문서화**
+- 결과 파일: [/projects/revenue-sprint/free-hook-productivity-checklist-10min.md](/md-viewer.html?file=/projects/revenue-sprint/free-hook-productivity-checklist-10min.md), [/projects/revenue-sprint/offer-copy-90min-setup-session.md](/md-viewer.html?file=/projects/revenue-sprint/offer-copy-90min-setup-session.md), [/projects/revenue-sprint/proposal-2week-productivity-sprint.md](/md-viewer.html?file=/projects/revenue-sprint/proposal-2week-productivity-sprint.md)
+- 보강 작업: [/projects/revenue-sprint/README.md](/md-viewer.html?file=/projects/revenue-sprint/README.md) 생성
+- 비고: 무료 훅 문서/90분 세션 카피/2주 스프린트 제안서 생성
