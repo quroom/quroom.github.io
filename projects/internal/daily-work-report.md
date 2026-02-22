@@ -130,3 +130,9 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 1페이지 전환 구조 + 저가/외주 CTA 분리
 
+- 처리 작업: **REV-209 가격/할인/긴급성 룰북 (과장없는 전환형)**
+- 결과 파일: [`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 허위 마감/공포마케팅 금지, 슬롯 기반 긴급성 기준화
+
