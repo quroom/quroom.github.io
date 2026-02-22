@@ -344,7 +344,7 @@
   - [`/projects/revenue-sprint/launch-sequence-10days-solo.md`](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md)
 
 ### [REV-212] 고객 인터뷰 질문지 + 오퍼 개선 루프
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md)
 
@@ -501,3 +501,4 @@
 - 2026-02-22: REV-209 완료 ([`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md), commit: 5c27c0c)`
 - 2026-02-22: REV-210 완료 ([`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md), commit: 877e805)`
 - 2026-02-22: REV-211 완료 ([`/projects/revenue-sprint/launch-sequence-10days-solo.md`](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md), commit: a2a595e)`
+- 2026-02-22: REV-212 완료 ([`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md), commit: PENDING_REV212)`

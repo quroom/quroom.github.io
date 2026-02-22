@@ -146,4 +146,9 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 10일 실행 루프 + 배려형 커뮤니케이션 기준 포함
+- 처리 작업: **REV-212 고객 인터뷰 질문지 + 오퍼 개선 루프**
+- 결과 파일: [`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 인터뷰 질문 15개 + 주간 개선 루프 정리
 
