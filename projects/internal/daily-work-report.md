@@ -157,4 +157,9 @@
   - 월요일 확정 체크리스트 상태 점검
   - 진행 상태 `PENDING → DONE` 반영
 - 비고: 월요일 핵심 의사결정 항목 확인 완료
+- 처리 작업: **BGL-201 카페 초보자용 지수투자 시작 가이드 10편**
+- 결과 파일: [`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: Bogleheads 원칙 기반 복붙형 10편 구성
 

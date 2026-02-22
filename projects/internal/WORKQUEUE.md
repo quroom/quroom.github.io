@@ -367,7 +367,7 @@
 
 
 ### [BGL-201] 카페 초보자용 지수투자 시작 가이드 10편
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
 
@@ -503,3 +503,4 @@
 - 2026-02-22: REV-211 완료 ([`/projects/revenue-sprint/launch-sequence-10days-solo.md`](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md), commit: a2a595e)`
 - 2026-02-22: REV-212 완료 ([`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md), commit: 4a7f065)`
 - 2026-02-22: CHK-001 완료 ([`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md), commit: af72cbf)`
+- 2026-02-22: BGL-201 완료 ([`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md), commit: PENDING_BGL201)`
