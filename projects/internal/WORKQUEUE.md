@@ -412,7 +412,7 @@
   - [`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md)
 
 ### [BGL-210] 월요일까지 게시 가능한 복붙 패킷 v1
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md)
 
@@ -512,3 +512,4 @@
 - 2026-02-22: BGL-207 완료 ([`/projects/bogle-beginner-kit/monthly-check-template-12m.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/monthly-check-template-12m.md), commit: f436584)`
 - 2026-02-22: BGL-208 완료 ([`/projects/bogle-beginner-kit/no-go-checklist-200.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/no-go-checklist-200.md), commit: fe8820b)`
 - 2026-02-22: BGL-209 완료 ([`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md), commit: 82ac781)`
+- 2026-02-22: BGL-210 완료 ([`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md), commit: PENDING_BGL210)`

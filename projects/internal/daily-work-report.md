@@ -202,4 +202,9 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: Bogleheads 원칙 기반 공지/필독 문안 20세트 작성
+- 처리 작업: **BGL-210 월요일까지 게시 가능한 복붙 패킷 v1**
+- 결과 파일: [`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 월요일 즉시 게시 가능한 공지/댓글/FAQ/체크리스트 패킷 구성
 
