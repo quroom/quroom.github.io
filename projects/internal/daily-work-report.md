@@ -112,3 +112,8 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 배려형 커뮤니케이션(고립은둔 예비 당사자) 문구 포함
 
+
+- 처리 작업: **BGL-201~210 큐 추가 (카페 초보자용 복붙 자료 스프린트)**
+- 결과 파일: [/projects/bogle-beginner-kit/README.md](/md-viewer.html?file=/projects/bogle-beginner-kit/README.md), [/projects/bogle-beginner-kit/001-start-here.md](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
+- 보강 작업: [/projects/internal/WORKQUEUE.md](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 큐 확장
+- 비고: 월요일까지 자동 생성 목표

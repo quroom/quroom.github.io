@@ -18,9 +18,9 @@
 - [OPS-002] WORKQUEUE 대시보드 단일화/정비
 
 ### NEXT (최대 3개)
-- [REV-201] 나만의 차별점 포지셔닝 원페이지
-- [REV-202] 즉시수익화 오퍼 3종 재정의 (빠른판매형)
-- [REV-203] 2주 MVP 개발 백로그 (수익 우선)
+- [BGL-201] 카페 초보자용 지수투자 시작 가이드 10편
+- [BGL-202] 초보자 FAQ 50문답 (복붙형)
+- [BGL-204] 카페 댓글 대응 매크로(초보자 질문형) 100개
 
 ### LATER
 - 나머지 DONE 문서는 아카이브로 유지 (실행 대상 아님)
@@ -364,6 +364,57 @@
 - Output:
   - [`/projects/internal/must-check-items.md`](/md-viewer.html?file=/projects/internal/must-check-items.md)
 
+
+### [BGL-201] 카페 초보자용 지수투자 시작 가이드 10편
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
+
+### [BGL-202] 초보자 FAQ 50문답 (복붙형)
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/faq-50.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/faq-50.md)
+
+### [BGL-203] 하락장 멘탈관리 카피 100선
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md)
+
+### [BGL-204] 카페 댓글 대응 매크로(초보자 질문형) 100개
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md)
+
+### [BGL-205] 주차별 온보딩 포스트 4주치 (복붙형)
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/onboarding-4weeks.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/onboarding-4weeks.md)
+
+### [BGL-206] ETF 선택 기준 카드뉴스 원고 30개
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md)
+
+### [BGL-207] 월간 점검 템플릿 + 예시 12개월
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/monthly-check-template-12m.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/monthly-check-template-12m.md)
+
+### [BGL-208] 초보자 금지행동 체크리스트 200
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/no-go-checklist-200.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/no-go-checklist-200.md)
+
+### [BGL-209] 카페 공지/필독 리팩토링(짧은/긴) 20세트
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md)
+
+### [BGL-210] 월요일까지 게시 가능한 복붙 패킷 v1
+- Status: PENDING
+- Output:
+  - [`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md)
+
 ---
 
 ## 주기 실행 구조
@@ -442,3 +493,4 @@
 - 2026-02-22: REV-213 완료 ([`/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md`](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md), commit: 624a60d)`
 - 2026-02-22: REV-214 완료 ([`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md), commit: 624a60d)`
 - 2026-02-22: REV-206 완료 ([`/projects/revenue-sprint/inbound-sales-scripts-40.md`](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md), commit: 0effff3)`
+- 2026-02-22: BGL-201~210 추가 (네이버 존보글 카페 초보자용 복붙 자료 스프린트)
