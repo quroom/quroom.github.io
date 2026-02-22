@@ -334,7 +334,7 @@
   - [`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md)
 
 ### [REV-210] 파이프라인 대시보드 (리드→상담→결제)
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md)
 
@@ -499,3 +499,4 @@
 - 2026-02-22: REV-207 완료 ([`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md), commit: 700201e)`
 - 2026-02-22: REV-208 완료 ([`/projects/revenue-sprint/landing-restructure-onepage.md`](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md), commit: ce27137)`
 - 2026-02-22: REV-209 완료 ([`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md), commit: 5c27c0c)`
+- 2026-02-22: REV-210 완료 ([`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md), commit: PENDING_REV210)`

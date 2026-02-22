@@ -136,3 +136,9 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 허위 마감/공포마케팅 금지, 슬롯 기반 긴급성 기준화
 
+- 처리 작업: **REV-210 파이프라인 대시보드 (리드→상담→결제)**
+- 결과 파일: [`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 단계별 전환률/가중 매출 추적 템플릿 정리
+
