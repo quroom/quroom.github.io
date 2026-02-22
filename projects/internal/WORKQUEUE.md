@@ -397,7 +397,7 @@
   - [`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md)
 
 ### [BGL-207] 월간 점검 템플릿 + 예시 12개월
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/monthly-check-template-12m.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/monthly-check-template-12m.md)
 
@@ -509,3 +509,4 @@
 - 2026-02-22: BGL-204 완료 ([`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md), commit: 38eeecc)`
 - 2026-02-22: BGL-205 완료 ([`/projects/bogle-beginner-kit/onboarding-4weeks.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/onboarding-4weeks.md), commit: 7906633)`
 - 2026-02-22: BGL-206 완료 ([`/projects/bogle-beginner-kit/etf-selection-cards-30.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/etf-selection-cards-30.md), commit: 17479e8)`
+- 2026-02-22: BGL-207 완료 ([`/projects/bogle-beginner-kit/monthly-check-template-12m.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/monthly-check-template-12m.md), commit: PENDING_BGL207)`
