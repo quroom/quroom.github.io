@@ -18,9 +18,9 @@
 - [OPS-002] WORKQUEUE 대시보드 단일화/정비
 
 ### NEXT (최대 3개)
-- [BGL-011] 4주 연재 업로드 순서표 + 게시 캘린더 문서화
-- [월요일 계획] 빌드업 런치 플랜 확정 및 실행
-- [운영 최적화] 일일보고 최소 템플릿 유지
+- [REV-201] 나만의 차별점 포지셔닝 원페이지
+- [REV-202] 즉시수익화 오퍼 3종 재정의 (빠른판매형)
+- [REV-203] 2주 MVP 개발 백로그 (수익 우선)
 
 ### LATER
 - 나머지 DONE 문서는 아카이브로 유지 (실행 대상 아님)
@@ -286,6 +286,67 @@
   - [`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)와 연동
 
+
+### [REV-201] 나만의 차별점 포지셔닝 원페이지
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/differentiation-onepager.md`](/md-viewer.html?file=/projects/revenue-sprint/differentiation-onepager.md)
+
+### [REV-202] 즉시수익화 오퍼 3종 재정의 (빠른판매형)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/offer-stack-fast-close.md`](/md-viewer.html?file=/projects/revenue-sprint/offer-stack-fast-close.md)
+
+### [REV-203] 2주 MVP 개발 백로그 (수익 우선)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/mvp-dev-backlog-2weeks.md`](/md-viewer.html?file=/projects/revenue-sprint/mvp-dev-backlog-2weeks.md)
+
+### [REV-204] 리드 자석(무료 템플릿) 5종 기획
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/lead-magnet-pack-5.md`](/md-viewer.html?file=/projects/revenue-sprint/lead-magnet-pack-5.md)
+
+### [REV-205] 7일 콘텐츠 캘린더 (신뢰→상담 전환)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md)
+
+### [REV-206] DM/댓글 인바운드 세일즈 스크립트 40개
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/inbound-sales-scripts-40.md`](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md)
+
+### [REV-207] 상담콜 클로징 플로우 (진단→결제)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/call-closing-flow.md`](/md-viewer.html?file=/projects/revenue-sprint/call-closing-flow.md)
+
+### [REV-208] 랜딩페이지 구조 리팩터링 (1페이지 판매형)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/landing-restructure-onepage.md`](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md)
+
+### [REV-209] 가격/할인/긴급성 룰북 (과장없는 전환형)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/pricing-urgency-rulebook.md`](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md)
+
+### [REV-210] 파이프라인 대시보드 (리드→상담→결제)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/pipeline-dashboard-template.md`](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md)
+
+### [REV-211] 10일 런치 실행 시퀀스 (1인기업 한정)
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/launch-sequence-10days-solo.md`](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md)
+
+### [REV-212] 고객 인터뷰 질문지 + 오퍼 개선 루프
+- Status: PENDING
+- Output:
+  - [`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md)
+
 ---
 
 ## 주기 실행 구조
@@ -353,3 +414,5 @@
 - 2026-02-22: BIZ-118 완료 ([`/projects/service-monetization/followup-retention-flow.md`](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), commit: 1726f61)`
 - 2026-02-22: BIZ-119 완료 ([`/projects/service-monetization/community-engagement-loop.md`](/md-viewer.html?file=/projects/service-monetization/community-engagement-loop.md), commit: 1726f61)`
 - 2026-02-22: BIZ-120 완료 ([`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md), commit: 1726f61)`
+
+- 2026-02-22: REV-201~212 추가 (즉시수익화 스프린트: 기획/개발/마케팅/판매 통합 큐)
