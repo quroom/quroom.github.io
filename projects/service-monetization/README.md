@@ -25,6 +25,7 @@
 - [월요일 빌드업 런치 플랜](./monday-launch-plan.md)
 - [실행 통합 플레이북](./execution-playbook.md)
 - [문서 읽는 순서](./reading-order.md)
+- [랜딩 구축 실행계획 v1](./landing-build-plan-v1.md)
 - [커뮤니티 참여 루프](./community-engagement-loop.md)
 - [후속 접촉 시나리오](./followup-retention-flow.md)
 
