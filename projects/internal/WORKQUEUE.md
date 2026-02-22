@@ -11,7 +11,7 @@
   3. 변경 요약 기록
 - 막히면 `BLOCKED`로 전환하고, 필요한 입력만 요청
 - 승인 없이 하지 말 것: 외부 메시지 발송, 삭제성 작업, 민감정보 처리
-- **Bogle/BGL 계열 작업 작성 원칙:** Bogleheads 철학(저비용·광범위 분산·장기보유·규칙적 투자·단순 포트폴리오)을 반드시 반영한다. (참조: [`/projects/bogle-beginner-kit/STYLE-GUIDE.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/STYLE-GUIDE.md))
+- **카페 콘텐츠 작업 작성 원칙:** 카페 게시용 콘텐츠(게시글/FAQ/댓글매크로/온보딩 문안 등)에 한해 Bogleheads 철학(저비용·광범위 분산·장기보유·규칙적 투자·단순 포트폴리오)을 반드시 반영한다. (참조: [`/projects/bogle-beginner-kit/STYLE-GUIDE.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/STYLE-GUIDE.md))
 
 ## 실행 보드 (1인 기업 모드)
 
