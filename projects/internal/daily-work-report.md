@@ -52,3 +52,10 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 월 1회 하이브리드 데모데이 운영안/전환 퍼널 확정
 
+- 처리 작업: **운영체계 리팩터링 (1인 기업 모드)**
+- 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/monday-launch-plan.md](/md-viewer.html?file=/projects/service-monetization/monday-launch-plan.md)
+- 보강 작업:
+  - [/projects/internal/WORKQUEUE.md](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)에 NOW/NEXT/LATER 섹션 추가
+  - [/projects/service-monetization/README.md](/md-viewer.html?file=/projects/service-monetization/README.md) 링크 반영
+- 비고: 실행 문서 통합 + WIP=1 원칙 적용
+

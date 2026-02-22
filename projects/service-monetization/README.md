@@ -22,6 +22,8 @@
 - [오프라인 밋업 파일럿](./local-meetup-pilot.md)
 - [주간 오피스아워 운영안](./weekly-office-hours.md)
 - [하이브리드 데모데이 기획](./hybrid-demo-day.md)
+- [월요일 빌드업 런치 플랜](./monday-launch-plan.md)
+- [실행 통합 플레이북](./execution-playbook.md)
 - [커뮤니티 참여 루프](./community-engagement-loop.md)
 - [후속 접촉 시나리오](./followup-retention-flow.md)
 
