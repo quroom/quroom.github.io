@@ -313,7 +313,7 @@
   - [`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md)
 
 ### [REV-206] DM/댓글 인바운드 세일즈 스크립트 40개
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/inbound-sales-scripts-40.md`](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md)
 
@@ -435,3 +435,4 @@
 - 2026-02-22: REV-205 완료 ([`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md), commit: 59ccd00)`
 - 2026-02-22: REV-213 완료 ([`/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md`](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md), commit: 624a60d)`
 - 2026-02-22: REV-214 완료 ([`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md), commit: 624a60d)`
+- 2026-02-22: REV-206 완료 ([`/projects/revenue-sprint/inbound-sales-scripts-40.md`](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md), commit: PENDING_REV206)`

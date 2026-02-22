@@ -105,3 +105,10 @@
 - 결과 파일: [`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md)
 - 보강 작업: [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) DONE 반영
 - 비고: 범위/제외범위/변경관리/지불조건 구조화
+
+- 처리 작업: **REV-206 DM/댓글 인바운드 세일즈 스크립트 40개**
+- 결과 파일: [`/projects/revenue-sprint/inbound-sales-scripts-40.md`](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 배려형 커뮤니케이션(고립은둔 예비 당사자) 문구 포함
+
