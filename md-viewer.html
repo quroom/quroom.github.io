@@ -46,15 +46,30 @@
           // 문서 내 링크 표준화:
           // - *.md 링크는 항상 md-viewer로 라우팅
           // - /md-viewer.html?file=... 형식도 file 값을 안전하게 인코딩
+          const currentDir = file.includes('/') ? file.substring(0, file.lastIndexOf('/')) : '';
+          const resolveRelative = (href) => {
+            const clean = href.split('#')[0].split('?')[0];
+            if (clean.startsWith('/')) return clean;
+            const stack = currentDir.split('/').filter(Boolean);
+            clean.split('/').forEach(part => {
+              if (!part || part === '.') return;
+              if (part === '..') stack.pop();
+              else stack.push(part);
+            });
+            return '/' + stack.join('/');
+          };
+
           content.querySelectorAll('a[href]').forEach(a => {
             const raw = a.getAttribute('href') || '';
-            if (!raw) return;
+            if (!raw || raw.startsWith('http://') || raw.startsWith('https://') || raw.startsWith('mailto:')) return;
 
-            // 1) 직접 markdown 파일을 가리키는 링크
-            if (/^\/(projects|bogle-ops)\/.+\.md($|[?#])/.test(raw)) {
-              const filePath = raw.split('#')[0].split('?')[0];
-              a.setAttribute('href', `/md-viewer.html?file=${encodeURIComponent(filePath)}`);
-              return;
+            // 1) 상대/절대 markdown 링크를 md-viewer로 라우팅
+            if (raw.endsWith('.md') || raw.includes('.md?') || raw.includes('.md#') || raw.startsWith('./') || raw.startsWith('../')) {
+              const resolved = resolveRelative(raw);
+              if (resolved.endsWith('.md')) {
+                a.setAttribute('href', `/md-viewer.html?file=${encodeURIComponent(resolved)}`);
+                return;
+              }
             }
 
             // 2) 기존 md-viewer 링크의 file 파라미터 정규화
@@ -62,6 +77,12 @@
               const q = raw.slice('/md-viewer.html?file='.length);
               const decoded = decodeURIComponent(q);
               a.setAttribute('href', `/md-viewer.html?file=${encodeURIComponent(decoded)}`);
+              return;
+            }
+
+            // 3) 상대경로 일반 링크(html/csv 등) 보정
+            if (!raw.startsWith('/')) {
+              a.setAttribute('href', resolveRelative(raw));
             }
           });
 
