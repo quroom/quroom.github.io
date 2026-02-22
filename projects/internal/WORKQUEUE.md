@@ -382,7 +382,7 @@
   - [`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md)
 
 ### [BGL-204] 카페 댓글 대응 매크로(초보자 질문형) 100개
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md)
 
@@ -506,3 +506,4 @@
 - 2026-02-22: BGL-201 완료 ([`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md), commit: 6955273)`
 - 2026-02-22: BGL-202 완료 ([`/projects/bogle-beginner-kit/faq-50.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/faq-50.md), commit: 97d7dc3)`
 - 2026-02-22: BGL-203 완료 ([`/projects/bogle-beginner-kit/bear-market-copies-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/bear-market-copies-100.md), commit: cf3b50b)`
+- 2026-02-22: BGL-204 완료 ([`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md), commit: PENDING_BGL204)`

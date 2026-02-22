@@ -172,4 +172,9 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: Bogleheads 철학 기반 하락장 대응 문구 100선
+- 처리 작업: **BGL-204 카페 댓글 대응 매크로(초보자 질문형) 100개**
+- 결과 파일: [`/projects/bogle-beginner-kit/comment-macros-100.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/comment-macros-100.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: Bogleheads 원칙 기반 댓글 대응 100개 정리
 
