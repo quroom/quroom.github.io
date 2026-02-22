@@ -219,6 +219,13 @@
 - 보강 작업: [/projects/internal/index.html](/projects/internal/) 링크 추가
 - 비고: 연내 1~2천만원 외주 1건 목표를 랜딩 계획에 명시
 
+- 처리 작업: **1인 프로덕트 엔지니어 수익화 프레임워크 상세 문서화**
+- 결과 파일: [/projects/service-monetization/solo-product-engineer-monetization-framework.md](/md-viewer.html?file=/projects/service-monetization/solo-product-engineer-monetization-framework.md)
+- 보강 작업:
+  - [/projects/service-monetization/README.md](/md-viewer.html?file=/projects/service-monetization/README.md) 링크 반영
+  - [/projects/internal/important-files-index.md](/md-viewer.html?file=/projects/internal/important-files-index.md) 인덱스 반영
+- 비고: 인지→구매 전환을 위한 A-I-C-E 카피 구조와 7일 실행안 포함
+
 - 처리 작업: **Service Monetization 통합 실행본 작성 (명함 영업용)**
 - 결과 파일: [/projects/service-monetization/unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
 - 보강 작업:

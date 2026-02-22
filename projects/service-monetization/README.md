@@ -26,6 +26,7 @@
 - [Unified Go-To-Cash Plan](./unified-go-to-cash-plan.md)
 - [실행 통합 플레이북](./execution-playbook.md)
 - [문서 읽는 순서](./reading-order.md)
+- [1인 프로덕트 엔지니어 수익화 프레임워크](./solo-product-engineer-monetization-framework.md)
 - [랜딩 구축 실행계획 (통합)](./landing-build-plan.md)
 - [페르소나 랜딩: 1인기업가](./landing-persona-solopreneur.md)
 - [페르소나 랜딩: 외국인 개발자(호남권)](./landing-persona-foreign-developer-honam.md)

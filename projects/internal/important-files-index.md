@@ -2,6 +2,7 @@
 
 ## 랜딩 구축 핵심
 - [unified-go-to-cash-plan.md](/md-viewer.html?file=/projects/service-monetization/unified-go-to-cash-plan.md)
+- [solo-product-engineer-monetization-framework.md](/md-viewer.html?file=/projects/service-monetization/solo-product-engineer-monetization-framework.md)
 - [landing-build-plan.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan.md)
 - [landing-build-plan-v2-from-spec.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan-v2-from-spec.md)
 - [landing-persona-solopreneur.md](/md-viewer.html?file=/projects/service-monetization/landing-persona-solopreneur.md)
