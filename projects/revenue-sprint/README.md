@@ -6,3 +6,5 @@
 - [차별점 포지셔닝 원페이지](./differentiation-onepager.md)
 - [오퍼 3종 재정의](./offer-stack-fast-close.md)
 - [2주 MVP 개발 백로그](./mvp-dev-backlog-2weeks.md)
+- [월요일 디테일 실행계획 (고액 외주 포함)](./monday-detail-plan-outsourcing-10m-20m.md)
+- [고액 외주 제안서 템플릿](./high-ticket-outsourcing-proposal-template.md)

@@ -95,3 +95,13 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 7일 전환형 콘텐츠 + 고립은둔(예비) 배려 주제 포함
 
+
+- 처리 작업: **REV-213 월요일 디테일 실행계획 (고액 외주 포함)**
+- 결과 파일: [`/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md`](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md)
+- 보강 작업: [`/projects/revenue-sprint/README.md`](/md-viewer.html?file=/projects/revenue-sprint/README.md) 링크 반영
+- 비고: 1,000~2,000만원 외주 파이프라인 포함
+
+- 처리 작업: **REV-214 고액 외주 제안서 템플릿 v1**
+- 결과 파일: [`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md)
+- 보강 작업: [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) DONE 반영
+- 비고: 범위/제외범위/변경관리/지불조건 구조화

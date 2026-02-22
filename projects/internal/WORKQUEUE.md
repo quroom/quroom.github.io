@@ -347,6 +347,17 @@
 - Output:
   - [`/projects/revenue-sprint/customer-interview-loop.md`](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md)
 
+
+### [REV-213] 월요일 디테일 실행계획 (고액 외주 포함)
+- Status: DONE
+- Output:
+  - [`/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md`](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md)
+
+### [REV-214] 고액 외주 제안서 템플릿 v1
+- Status: DONE
+- Output:
+  - [`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md)
+
 ---
 
 ## 주기 실행 구조
@@ -422,3 +433,5 @@
 - 2026-02-22: 수익화 핵심 판매자료 3종 문서화 ([`/projects/revenue-sprint/free-hook-productivity-checklist-10min.md`](/md-viewer.html?file=/projects/revenue-sprint/free-hook-productivity-checklist-10min.md), [`/projects/revenue-sprint/offer-copy-90min-setup-session.md`](/md-viewer.html?file=/projects/revenue-sprint/offer-copy-90min-setup-session.md), [`/projects/revenue-sprint/proposal-2week-productivity-sprint.md`](/md-viewer.html?file=/projects/revenue-sprint/proposal-2week-productivity-sprint.md))
 - 2026-02-22: REV-204 완료 ([`/projects/revenue-sprint/lead-magnet-pack-5.md`](/md-viewer.html?file=/projects/revenue-sprint/lead-magnet-pack-5.md), commit: 0828ba2)`
 - 2026-02-22: REV-205 완료 ([`/projects/revenue-sprint/content-calendar-7days.md`](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md), commit: 59ccd00)`
+- 2026-02-22: REV-213 완료 ([`/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md`](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md), commit: PENDING_REV213)`
+- 2026-02-22: REV-214 완료 ([`/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md`](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md), commit: PENDING_REV214)`
