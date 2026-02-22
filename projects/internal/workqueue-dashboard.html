@@ -18,6 +18,8 @@
     .DOING{background:#eff6ff;color:#1d4ed8}
     .DONE{background:#ecfdf5;color:#047857}
     .BLOCKED{background:#fef2f2;color:#b91c1c}
+    .card a{color:inherit;text-decoration:none;display:block}
+    .card a:hover{text-decoration:underline}
   </style>
 </head>
 <body>
@@ -62,7 +64,9 @@ async function run(){
     const next = md.indexOf('\n### [', start + 1);
     const block = md.slice(start, next === -1 ? md.length : next);
     const statusMatch = block.match(/- Status: (PENDING|DOING|DONE|BLOCKED)/);
-    tasks.push({ id: m[1], title: m[2], status: statusMatch ? statusMatch[1] : 'PENDING' });
+    const outMatch = block.match(/\]\((\/md-viewer\.html\?file=[^)]+|\/[^)\s]+)\)/);
+    const primaryUrl = outMatch ? outMatch[1] : `/md-viewer.html?file=/projects/internal/WORKQUEUE.md`;
+    tasks.push({ id: m[1], title: m[2], status: statusMatch ? statusMatch[1] : 'PENDING', primaryUrl });
   }
 
   const counts = {PENDING:0, DOING:0, DONE:0, BLOCKED:0};
@@ -72,11 +76,11 @@ async function run(){
 
   const summary = document.getElementById('summary');
   summary.innerHTML = `
-    <div class="card"><div class="num">${tasks.length}</div><div>전체 작업</div></div>
-    <div class="card"><div class="num">${counts.PENDING}</div><div>PENDING</div></div>
-    <div class="card"><div class="num">${counts.DOING}</div><div>DOING</div></div>
-    <div class="card"><div class="num">${counts.DONE}</div><div>DONE</div></div>
-    <div class="card"><div class="num">${counts.BLOCKED}</div><div>BLOCKED</div></div>
+    <div class="card"><a href="#status=ALL"><div class="num">${tasks.length}</div><div>전체 작업</div></a></div>
+    <div class="card"><a href="#status=PENDING"><div class="num">${counts.PENDING}</div><div>PENDING</div></a></div>
+    <div class="card"><a href="#status=DOING"><div class="num">${counts.DOING}</div><div>DOING</div></a></div>
+    <div class="card"><a href="#status=DONE"><div class="num">${counts.DONE}</div><div>DONE</div></a></div>
+    <div class="card"><a href="#status=BLOCKED"><div class="num">${counts.BLOCKED}</div><div>BLOCKED</div></a></div>
   `;
 
   const boardRows = document.getElementById('boardRows');
@@ -87,16 +91,20 @@ async function run(){
     </tr>
   `).join('');
 
+  const statusFilter = (location.hash.match(/status=(ALL|PENDING|DOING|DONE|BLOCKED)/) || [,'ALL'])[1];
+  const filtered = statusFilter === 'ALL' ? tasks : tasks.filter(t => t.status === statusFilter);
+
   const rows = document.getElementById('rows');
-  rows.innerHTML = tasks.map(t => `
+  rows.innerHTML = filtered.map(t => `
     <tr>
       <td><code>${t.id}</code></td>
-      <td>${t.title}</td>
-      <td><span class="badge ${t.status}">${t.status}</span></td>
+      <td><a href="${t.primaryUrl}">${t.title}</a></td>
+      <td><a href="${t.primaryUrl}"><span class="badge ${t.status}">${t.status}</span></a></td>
     </tr>
   `).join('');
 }
 run();
+window.addEventListener('hashchange', run);
 setInterval(run, 60000);
 </script>
 </body>
