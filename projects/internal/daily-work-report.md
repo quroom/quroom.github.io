@@ -207,4 +207,8 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 월요일 즉시 게시 가능한 공지/댓글/FAQ/체크리스트 패킷 구성
+- 처리 작업: **랜딩/외주 목표 통합 업데이트 + 중요 파일 인덱스 생성**
+- 결과 파일: [/projects/service-monetization/landing-build-plan.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan.md), [/projects/internal/important-files-index.md](/md-viewer.html?file=/projects/internal/important-files-index.md)
+- 보강 작업: [/projects/internal/index.html](/projects/internal/) 링크 추가
+- 비고: 연내 1~2천만원 외주 1건 목표를 랜딩 계획에 명시
 
