@@ -288,7 +288,7 @@
 
 
 ### [REV-201] 나만의 차별점 포지셔닝 원페이지
-- Status: PENDING
+- Status: DONE
 - Output:
   - [`/projects/revenue-sprint/differentiation-onepager.md`](/md-viewer.html?file=/projects/revenue-sprint/differentiation-onepager.md)
 
@@ -416,3 +416,4 @@
 - 2026-02-22: BIZ-120 완료 ([`/projects/service-monetization/hybrid-demo-day.md`](/md-viewer.html?file=/projects/service-monetization/hybrid-demo-day.md), commit: 1726f61)`
 
 - 2026-02-22: REV-201~212 추가 (즉시수익화 스프린트: 기획/개발/마케팅/판매 통합 큐)
+- 2026-02-22: REV-201 완료 ([`/projects/revenue-sprint/differentiation-onepager.md`](/md-viewer.html?file=/projects/revenue-sprint/differentiation-onepager.md), commit: PENDING_REV201)`

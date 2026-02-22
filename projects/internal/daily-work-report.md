@@ -59,3 +59,9 @@
   - [/projects/service-monetization/README.md](/md-viewer.html?file=/projects/service-monetization/README.md) 링크 반영
 - 비고: 실행 문서 통합 + WIP=1 원칙 적용
 
+- 처리 작업: **REV-201 나만의 차별점 포지셔닝 원페이지**
+- 결과 파일: [`/projects/revenue-sprint/differentiation-onepager.md`](/md-viewer.html?file=/projects/revenue-sprint/differentiation-onepager.md)
+- 보강 작업:
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
+- 비고: 1인기업 즉시수익화 관점 차별점 메시지/오퍼 연결 정리
+
