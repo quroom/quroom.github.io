@@ -92,6 +92,7 @@
 
 ## 추가 자료 (학부모/혼공)
 - [예비 초5 영어 혼공 운영서 (파닉스/리딩 회복)](./elementary-phonics-selfstudy-playbook.md)
+- [2026 영어 일일 계획표 + 보상 시스템](./annual-english-daily-plan-and-reward-system-2026.md)
 
 ## 다음 단계 (원하면 내가 바로 구축)
 
