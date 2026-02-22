@@ -23,9 +23,17 @@
 <body>
   <div class="top"><a href="/">← 홈</a> · <a href="/projects/internal/">internal</a> · <a href="/md-viewer.html?file=/projects/internal/WORKQUEUE.md">원문 보기</a></div>
   <h1>WORKQUEUE Dashboard</h1>
-  <p class="muted">소스: <a href="/md-viewer.html?file=/projects/internal/WORKQUEUE.md"><code>/projects/internal/WORKQUEUE.md</code></a></p>
+  <p class="muted">소스: <a href="/md-viewer.html?file=/projects/internal/WORKQUEUE.md"><code>/projects/internal/WORKQUEUE.md</code></a> · <span id="updatedAt">업데이트 확인 중...</span></p>
 
   <div class="cards" id="summary"></div>
+
+  <h2>실행 보드 (1인 기업 모드)</h2>
+  <table>
+    <thead><tr><th>구분</th><th>항목</th></tr></thead>
+    <tbody id="boardRows"></tbody>
+  </table>
+
+  <h2>Queue 상태</h2>
   <table>
     <thead><tr><th>ID</th><th>작업</th><th>Status</th></tr></thead>
     <tbody id="rows"></tbody>
@@ -33,8 +41,18 @@
 
 <script>
 async function run(){
-  const res = await fetch('/projects/internal/WORKQUEUE.md');
+  const res = await fetch('/projects/internal/WORKQUEUE.md', { cache: 'no-store' });
   const md = await res.text();
+
+  const board = { NOW: [], NEXT: [], LATER: [] };
+  let current = null;
+  md.split('\n').forEach(line => {
+    if (line.startsWith('### NOW')) current = 'NOW';
+    else if (line.startsWith('### NEXT')) current = 'NEXT';
+    else if (line.startsWith('### LATER')) current = 'LATER';
+    else if (current && line.trim().startsWith('- ')) board[current].push(line.replace(/^-\s*/, '').trim());
+    else if (line.startsWith('## Queue')) current = null;
+  });
 
   const taskRegex = /^### \[(.+?)\] (.+)$/gm;
   const tasks = [];
@@ -50,6 +68,8 @@ async function run(){
   const counts = {PENDING:0, DOING:0, DONE:0, BLOCKED:0};
   tasks.forEach(t => counts[t.status] = (counts[t.status]||0)+1);
 
+  document.getElementById('updatedAt').textContent = `최근 갱신: ${new Date().toLocaleString('ko-KR')}`;
+
   const summary = document.getElementById('summary');
   summary.innerHTML = `
     <div class="card"><div class="num">${tasks.length}</div><div>전체 작업</div></div>
@@ -58,6 +78,14 @@ async function run(){
     <div class="card"><div class="num">${counts.DONE}</div><div>DONE</div></div>
     <div class="card"><div class="num">${counts.BLOCKED}</div><div>BLOCKED</div></div>
   `;
+
+  const boardRows = document.getElementById('boardRows');
+  boardRows.innerHTML = ['NOW','NEXT','LATER'].map(k => `
+    <tr>
+      <td><strong>${k}</strong></td>
+      <td>${(board[k].length ? board[k] : ['-']).join('<br/>')}</td>
+    </tr>
+  `).join('');
 
   const rows = document.getElementById('rows');
   rows.innerHTML = tasks.map(t => `
@@ -69,6 +97,7 @@ async function run(){
   `).join('');
 }
 run();
+setInterval(run, 60000);
 </script>
 </body>
 </html>
