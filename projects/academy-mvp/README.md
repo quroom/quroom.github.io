@@ -94,7 +94,7 @@
 - [초5 집공부 통합 플랜 (수학/한국사/독서·논술/영어)](./home-selfstudy-plan-grade5.md)
 - [초5 파닉스 왕초보 보강팩 (듣기/말하기 기초 포함)](./phonics-beginner-pack-grade5.md)
 - [Teach Your Monster 2주 루틴표 (초5)](./teach-your-monster-2week-routine-grade5.md)
-- [초5 매일 공부 계획표 v1](./daily-study-planner-grade5-v1.md)
+- [초5 매일 공부 계획표 v1 (단꿈e 일일분량 + 영어 별도루틴)](./daily-study-planner-grade5-v1.md)
 - [예비 초5 영어 혼공 운영서 (파닉스/리딩 회복)](./elementary-phonics-selfstudy-playbook.md)
 - [2026 영어 일일 계획표 + 보상 시스템](./annual-english-daily-plan-and-reward-system-2026.md)
 
