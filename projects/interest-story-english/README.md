@@ -11,6 +11,8 @@
 - [프로토타입 렌더 결과 (실사 에셋)](./prototype/rendered-real-assets-sample.html)
 - [프로토타입 렌더 결과 (만화 템플릿)](./prototype/rendered-cartoon-template-sample.html)
 - [프로토타입 렌더 결과 (만화 아바타/No Emoji)](./prototype/rendered-cartoon-avatar-sample.html)
+- [캐릭터5+표정6+배경10 키트 샘플](./prototype/rendered-cartoon-assets-kit-sample.html)
+- [카툰 에셋 스펙 JSON](./prototype/cartoon-assets-spec-v1.json)
 
 ## 비고
 - 기존 Academy MVP의 기획 문서는 본 프로젝트로 분리/통합했습니다.

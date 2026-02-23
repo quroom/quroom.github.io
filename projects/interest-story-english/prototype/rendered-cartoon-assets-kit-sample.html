@@ -1,0 +1,45 @@
+<!doctype html>
+<html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Cartoon Assets Kit v1</title>
+<style>
+body{font-family:system-ui;max-width:1100px;margin:24px auto;padding:0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.card{border:1px solid #ddd;border-radius:10px;padding:10px}
+.avatar{width:100%;height:150px;background:#f8fafc;border-radius:8px;display:flex;align-items:center;justify-content:center}
+.avatar img{width:110px;height:110px;border-radius:50%}
+.badge{display:inline-block;background:#eef2ff;border:1px solid #c7d2fe;padding:2px 8px;border-radius:999px;font-size:12px;margin:2px}
+.bg{height:90px;border-radius:8px;border:1px solid #ddd}
+</style>
+</head><body>
+<h1>캐릭터 5명 + 표정 6종 + 배경 10종 키트 (v1)</h1>
+<p>무료 아바타 API(DiceBear) 기반 템플릿 킷 샘플</p>
+
+<h2>Characters (5)</h2>
+<div class='grid'>
+  <div class='card'><div class='avatar'><img src='https://api.dicebear.com/7.x/adventurer/svg?seed=Leo-curious&backgroundColor=b6e3f4,c0aede,d1d4f9'></div><b>leo</b><br><small>주인공 탐험가</small></div>
+  <div class='card'><div class='avatar'><img src='https://api.dicebear.com/7.x/adventurer/svg?seed=Mina-happy&backgroundColor=b6e3f4,c0aede,d1d4f9'></div><b>mina</b><br><small>아이디어 메이커</small></div>
+  <div class='card'><div class='avatar'><img src='https://api.dicebear.com/7.x/adventurer/svg?seed=TeacherJ-calm&backgroundColor=b6e3f4,c0aede,d1d4f9'></div><b>teacher_j</b><br><small>가이드 선생님</small></div>
+  <div class='card'><div class='avatar'><img src='https://api.dicebear.com/7.x/adventurer/svg?seed=Kai-brave&backgroundColor=b6e3f4,c0aede,d1d4f9'></div><b>explorer_kai</b><br><small>탐사 파트너</small></div>
+  <div class='card'><div class='avatar'><img src='https://api.dicebear.com/7.x/adventurer/svg?seed=Noa-thinking&backgroundColor=b6e3f4,c0aede,d1d4f9'></div><b>friend_noa</b><br><small>질문 많은 친구</small></div>
+</div>
+
+<h2>Emotions (6)</h2>
+<div>
+  <span class='badge'>curious</span><span class='badge'>happy</span><span class='badge'>thinking</span>
+  <span class='badge'>surprised</span><span class='badge'>brave</span><span class='badge'>calm</span>
+</div>
+
+<h2>Backgrounds (10)</h2>
+<div class='grid'>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#bfdbfe,#fde68a)'></div><small>city_morning</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#ddd6fe,#e9d5ff)'></div><small>library_light</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#1e293b,#334155)'></div><small>night_desk</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#fef3c7,#fde68a)'></div><small>museum_hall</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#d1fae5,#a7f3d0)'></div><small>old_map_room</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#bae6fd,#7dd3fc)'></div><small>river_bridge</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#fee2e2,#fecaca)'></div><small>village_square</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#e2e8f0,#cbd5e1)'></div><small>train_station</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#e0f2fe,#cffafe)'></div><small>cloudy_hill</small></div>
+  <div class='card'><div class='bg' style='background:linear-gradient(135deg,#fed7aa,#fdba74)'></div><small>sunset_field</small></div>
+</div>
+</body></html>

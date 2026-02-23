@@ -33,6 +33,8 @@
 | [/projects/interest-story-english/prototype/rendered-real-assets-sample.html](/projects/interest-story-english/prototype/rendered-real-assets-sample.html) | 미확인 | 실사 에셋 렌더 테스트 결과물 |
 | [/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html](/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html) | 미확인 | 만화 템플릿 렌더 테스트 결과물 |
 | [/projects/interest-story-english/prototype/rendered-cartoon-avatar-sample.html](/projects/interest-story-english/prototype/rendered-cartoon-avatar-sample.html) | 미확인 | 만화 아바타(이모지 제외) 렌더 테스트 결과물 |
+| [/projects/interest-story-english/prototype/rendered-cartoon-assets-kit-sample.html](/projects/interest-story-english/prototype/rendered-cartoon-assets-kit-sample.html) | 미확인 | 캐릭터5+표정6+배경10 키트 샘플 |
+| [/projects/interest-story-english/prototype/cartoon-assets-spec-v1.json](/md-viewer.html?file=/projects/interest-story-english/prototype/cartoon-assets-spec-v1.json) | 미확인 | 카툰 에셋 스펙 JSON |
 
 ---
 

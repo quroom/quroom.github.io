@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {"id":"leo","label":"주인공 탐험가","seed":"Leo"},
+    {"id":"mina","label":"아이디어 메이커","seed":"Mina"},
+    {"id":"teacher_j","label":"가이드 선생님","seed":"TeacherJ"},
+    {"id":"explorer_kai","label":"탐사 파트너","seed":"Kai"},
+    {"id":"friend_noa","label":"질문 많은 친구","seed":"Noa"}
+  ],
+  "emotions": ["curious","happy","thinking","surprised","brave","calm"],
+  "backgrounds": [
+    "city_morning","library_light","night_desk","museum_hall","old_map_room",
+    "river_bridge","village_square","train_station","cloudy_hill","sunset_field"
+  ],
+  "layoutPresets": ["image-top-text-bottom","left-image-right-text"],
+  "avatarApiTemplate": "https://api.dicebear.com/7.x/adventurer/svg?seed={seed}-{emotion}&backgroundColor=b6e3f4,c0aede,d1d4f9"
+}
