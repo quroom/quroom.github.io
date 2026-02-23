@@ -17,10 +17,10 @@
 | [/projects/service-monetization/consolidation-map.md](/md-viewer.html?file=/projects/service-monetization/consolidation-map.md) | 미확인 | 중복 문서 통합 기준(canonical) |
 | [/projects/service-monetization/file-search.html](/projects/service-monetization/file-search.html) | 미확인 | 외주/코칭/자동화 파일 검색·필터 대시보드 |
 | [/search.html](/search.html) | 미확인 | 홈 진입용 전체 카테고리 파일 검색 |
-| [/projects/academy-mvp/home-selfstudy-plan-grade5.md](/md-viewer.html?file=/projects/academy-mvp/home-selfstudy-plan-grade5.md) | 미확인 | 초5 집공부 통합 플랜 |
-| [/projects/academy-mvp/phonics-beginner-pack-grade5.md](/md-viewer.html?file=/projects/academy-mvp/phonics-beginner-pack-grade5.md) | 미확인 | 초5 파닉스 왕초보 보강팩 |
-| [/projects/academy-mvp/teach-your-monster-2week-routine-grade5.md](/md-viewer.html?file=/projects/academy-mvp/teach-your-monster-2week-routine-grade5.md) | 미확인 | TYM 기준 2주 파닉스 루틴 |
-| [/projects/academy-mvp/daily-study-planner-grade5-v1.md](/md-viewer.html?file=/projects/academy-mvp/daily-study-planner-grade5-v1.md) | 미확인 | 초5 매일 공부 계획표 |
+| [/projects/home-study/README.md](/md-viewer.html?file=/projects/home-study/README.md) | 미확인 | 집공부 전용 허브 |
+| [/projects/home-study/grade5-home-learning-master-plan.md](/md-viewer.html?file=/projects/home-study/grade5-home-learning-master-plan.md) | 미확인 | 초5 집공부 통합 마스터 플랜 |
+| [/projects/home-study/phonics-tym-master-pack.md](/md-viewer.html?file=/projects/home-study/phonics-tym-master-pack.md) | 미확인 | 파닉스 + Teach Your Monster 통합팩 |
+| [/projects/home-study/weekly-check-template.md](/md-viewer.html?file=/projects/home-study/weekly-check-template.md) | 미확인 | 집공부 주간 체크 템플릿 |
 | [/projects/academy-mvp/suneung-english-item-generator-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/suneung-english-item-generator-plan-v1.md) | 미확인 | 수능 영어 문항 생성 서비스 큰 틀 계획 |
 | [/projects/academy-mvp/interest-based-bilingual-story-english-service-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/interest-based-bilingual-story-english-service-plan-v1.md) | 미확인 | 관심사 기반 이중언어 스토리 영어학습 계획 |
 

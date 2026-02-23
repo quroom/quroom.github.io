@@ -1,41 +1,7 @@
-# 초5 매일 공부 계획표 v1 (집혼공)
+# 아카이브 안내
 
-## 과목 구성 (운영 확정)
-- 수학/한국사: **단꿈e 일일학습 분량만 수행**
-- 영어: 별도 루틴(Teach Your Monster + 단어 + 짧은 읽기/말하기)
+이 문서는 집공부 자료 분리/중복 통합으로 이동되었습니다.
 
-## 평일(월~금) 기본 템플릿 — 실전형
-1. 단꿈e 일일학습(수학/한국사) 완료 체크
-2. 영어 20~30분
-   - Teach Your Monster 15분
-   - 클래스카드(학교 단어/워드마스터) 10분
-   - 짧은 읽기/따라말하기 5분
-
-## 주말 템플릿
-- 토요일: 영어 가벼운 복습 15~20분
-- 일요일: 휴식 또는 영어 동화책 10분
-
----
-
-## 월~금 (요일 동일 루틴)
-- 단꿈e: 그날 제시 분량만 수행
-- 영어: TYM 15 + 단어 10 + 읽기/말하기 5
-
-## 토요일
-- 영어 복습 15~20분 (부담 없이)
-
-## 일요일
-- 휴식 또는 영어 동화책 10분
-
----
-
-## 매일 체크표 (복붙)
-| 날짜 | 단꿈e(일일분량) | 영어(TYM15+단어10+읽기5) | 총완료 | 스트레스(1~5) | 메모 |
-|---|---|---|---|---:|---|
-| 월 |  |  |  |  |  |
-| 화 |  |  |  |  |  |
-| 수 |  |  |  |  |  |
-| 목 |  |  |  |  |  |
-| 금 |  |  |  |  |  |
-| 토 |  |  |  |  |  |
-| 일 |  |  |  |  |  |
+- 통합 문서: [/projects/home-study/grade5-home-learning-master-plan.md](/md-viewer.html?file=/projects/home-study/grade5-home-learning-master-plan.md)
+- 체크표: [/projects/home-study/weekly-check-template.md](/md-viewer.html?file=/projects/home-study/weekly-check-template.md)
+- 집공부 허브: [/projects/home-study/README.md](/md-viewer.html?file=/projects/home-study/README.md)
