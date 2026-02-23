@@ -19,6 +19,8 @@
 | [/search.html](/search.html) | 미확인 | 홈 진입용 전체 카테고리 파일 검색 |
 | [/projects/academy-mvp/home-selfstudy-plan-grade5.md](/md-viewer.html?file=/projects/academy-mvp/home-selfstudy-plan-grade5.md) | 미확인 | 초5 집공부 통합 플랜 |
 | [/projects/academy-mvp/phonics-beginner-pack-grade5.md](/md-viewer.html?file=/projects/academy-mvp/phonics-beginner-pack-grade5.md) | 미확인 | 초5 파닉스 왕초보 보강팩 |
+| [/projects/academy-mvp/teach-your-monster-2week-routine-grade5.md](/md-viewer.html?file=/projects/academy-mvp/teach-your-monster-2week-routine-grade5.md) | 미확인 | TYM 기준 2주 파닉스 루틴 |
+| [/projects/academy-mvp/daily-study-planner-grade5-v1.md](/md-viewer.html?file=/projects/academy-mvp/daily-study-planner-grade5-v1.md) | 미확인 | 초5 매일 공부 계획표 |
 
 ---
 
