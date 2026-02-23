@@ -28,6 +28,8 @@
 | [/projects/interest-story-english/PRD.md](/md-viewer.html?file=/projects/interest-story-english/PRD.md) | 미확인 | 관심사 기반 이중언어 스토리 서비스 PRD v2 (초입문 모드 포함) |
 | [/projects/interest-story-english/competitor-and-market-gap-analysis.md](/md-viewer.html?file=/projects/interest-story-english/competitor-and-market-gap-analysis.md) | 미확인 | 경쟁 앱 및 시장 틈새 분석 |
 | [/projects/interest-story-english/tech-stack-and-implementation-research.md](/md-viewer.html?file=/projects/interest-story-english/tech-stack-and-implementation-research.md) | 미확인 | 기술스택 및 구현 방법 조사 |
+| [/projects/interest-story-english/hybrid-image-pipeline-implementation.md](/md-viewer.html?file=/projects/interest-story-english/hybrid-image-pipeline-implementation.md) | 미확인 | 하이브리드 이미지 파이프라인 구현안 |
+| [/projects/interest-story-english/prototype/rendered-sample.html](/projects/interest-story-english/prototype/rendered-sample.html) | 미확인 | 하이브리드 렌더 테스트 결과물 |
 
 ---
 

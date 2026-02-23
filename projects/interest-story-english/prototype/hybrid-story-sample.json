@@ -1,0 +1,27 @@
+{
+  "bookId": "sample-history-001",
+  "title": "The Secret Map",
+  "pages": [
+    {
+      "page": 1,
+      "layout": "image-top-text-bottom",
+      "layers": {"background": "bg-sky", "character": "kid-blue", "props": ["book"]},
+      "text": {"en": "Leo opens an old map.", "ko": "레오는 오래된 지도를 펼쳤어요."},
+      "sourceType": "template"
+    },
+    {
+      "page": 2,
+      "layout": "left-image-right-text",
+      "layers": {"background": "bg-field", "character": "kid-point", "props": ["flag", "cloud"]},
+      "text": {"en": "He asks, \"What if history changed?\"", "ko": "레오는 \"역사가 바뀌면 어떨까?\"라고 물었어요."},
+      "sourceType": "template"
+    },
+    {
+      "page": 3,
+      "layout": "left-image-right-text",
+      "layers": {"background": "bg-night", "character": "kid-think", "props": ["star"]},
+      "text": {"en": "Leo writes his own idea.", "ko": "레오는 자기 생각을 적기 시작했어요."},
+      "sourceType": "template"
+    }
+  ]
+}
