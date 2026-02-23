@@ -93,7 +93,7 @@
 ## 추가 자료
 - [집공부 전용 허브 (분리/통합본)](/md-viewer.html?file=/projects/home-study/README.md)
 - [수능 영어 지문 기반 문항 생성 서비스 계획 v1](./suneung-english-item-generator-plan-v1.md)
-- [관심사 기반 이중언어 스토리 영어학습 서비스 계획 v1](./interest-based-bilingual-story-english-service-plan-v1.md)
+- [관심사 기반 이중언어 스토리 영어학습 서비스 (독립 프로젝트)](/md-viewer.html?file=/projects/interest-story-english/README.md)
 
 ## 다음 단계 (원하면 내가 바로 구축)
 

@@ -23,7 +23,8 @@
 | [/projects/home-study/weekly-check-template.md](/md-viewer.html?file=/projects/home-study/weekly-check-template.md) | 미확인 | 집공부 주간 체크 템플릿(업데이트) |
 | [/projects/home-study/monthly-check-template.md](/md-viewer.html?file=/projects/home-study/monthly-check-template.md) | 미확인 | 집공부 월간 체크 템플릿 |
 | [/projects/academy-mvp/suneung-english-item-generator-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/suneung-english-item-generator-plan-v1.md) | 미확인 | 수능 영어 문항 생성 서비스 큰 틀 계획 |
-| [/projects/academy-mvp/interest-based-bilingual-story-english-service-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/interest-based-bilingual-story-english-service-plan-v1.md) | 미확인 | 관심사 기반 이중언어 스토리 영어학습 계획 |
+| [/projects/interest-story-english/README.md](/md-viewer.html?file=/projects/interest-story-english/README.md) | 미확인 | 관심사 기반 이중언어 스토리 영어학습 프로젝트 허브 |
+| [/projects/interest-story-english/PRD.md](/md-viewer.html?file=/projects/interest-story-english/PRD.md) | 미확인 | 관심사 기반 이중언어 스토리 서비스 PRD 초안 |
 
 ---
 
