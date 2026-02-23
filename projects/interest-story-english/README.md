@@ -15,6 +15,8 @@
 - [카툰 에셋 스펙 JSON](./prototype/cartoon-assets-spec-v1.json)
 - [혼합 모드 결과 (10p: 템플릿7+실사3)](./prototype/rendered-hybrid-mixed-sample.html)
 - [혼합 모드 샘플 JSON](./prototype/hybrid-mixed-sample.json)
+- [WW2 초5 샘플 (혼합 10p)](./prototype/rendered-hybrid-ww2-grade5-sample.html)
+- [WW2 초5 샘플 JSON](./prototype/hybrid-mixed-ww2-grade5-sample.json)
 - [10페이지 삽화 제작 파이프라인 (무료+AI 혼합)](./illustration-production-pipeline-10p.md)
 
 ## 비고

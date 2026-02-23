@@ -1,0 +1,26 @@
+{
+  "bookId": "ww2-grade5-001",
+  "title": "The Time Compass: World War II (Grade 5 Friendly)",
+  "policy": {
+    "templatePages": [1,2,4,5,7,8,10],
+    "aiOrStockPages": [3,6,9],
+    "note": "혼합 모드: 템플릿 7 + 실사/생성 3"
+  },
+  "safety": {
+    "age": "grade5",
+    "violentDetails": "minimal",
+    "factVsWhatIfLabel": true
+  },
+  "pages": [
+    {"page":1,"sourceType":"template","layout":"image-top-text-bottom","template":"city_morning","character":"leo","emotion":"curious","label":"FACT","text":{"en":"Leo finds a time compass in his school library.","ko":"레오는 학교 도서관에서 시간 나침반을 발견했어요."}},
+    {"page":2,"sourceType":"template","layout":"left-image-right-text","template":"library_light","character":"teacher_j","emotion":"calm","label":"FACT","text":{"en":"Teacher J says World War II happened from 1939 to 1945.","ko":"선생님은 제2차 세계대전이 1939년부터 1945년까지 있었다고 설명해요."}},
+    {"page":3,"sourceType":"stock-photo","layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1200&q=80","label":"FACT","text":{"en":"Leo learns that many countries worked together to stop the war.","ko":"레오는 많은 나라가 함께 전쟁을 멈추기 위해 노력했다는 것을 배워요."}},
+    {"page":4,"sourceType":"template","layout":"left-image-right-text","template":"museum_hall","character":"mina","emotion":"thinking","label":"FACT","text":{"en":"Mina asks, \"How did teamwork change history?\"","ko":"미나는 \"협력이 역사를 어떻게 바꿨을까?\"라고 물어요."}},
+    {"page":5,"sourceType":"template","layout":"left-image-right-text","template":"old_map_room","character":"explorer_kai","emotion":"brave","label":"WHAT-IF","text":{"en":"The compass opens a safe what-if simulation.","ko":"나침반은 안전한 가상 시나리오를 열어줘요."}},
+    {"page":6,"sourceType":"stock-photo","layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1526779259212-939e64788e3c?auto=format&fit=crop&w=1200&q=80","label":"WHAT-IF","text":{"en":"What if countries did not share information quickly?", "ko":"만약 나라들이 정보를 빠르게 공유하지 않았다면 어땠을까요?"}},
+    {"page":7,"sourceType":"template","layout":"left-image-right-text","template":"river_bridge","character":"friend_noa","emotion":"surprised","label":"WHAT-IF","text":{"en":"Noa says, \"Then peace might take longer.\"", "ko":"노아는 \"그럼 평화가 더 늦게 왔을 수도 있어\"라고 말해요."}},
+    {"page":8,"sourceType":"template","layout":"left-image-right-text","template":"cloudy_hill","character":"leo","emotion":"thinking","label":"REFLECT","text":{"en":"Leo writes: \"Sharing facts can protect people.\"", "ko":"레오는 \"사실을 공유하는 일은 사람을 지킬 수 있다\"고 적어요."}},
+    {"page":9,"sourceType":"stock-photo","layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80","label":"REFLECT","text":{"en":"He chooses his next mission: build peace in his class team.", "ko":"레오는 다음 미션으로 반 친구들과 평화로운 팀 만들기를 선택해요."}},
+    {"page":10,"sourceType":"template","layout":"left-image-right-text","template":"sunset_field","character":"mina","emotion":"happy","label":"END","text":{"en":"The story ends with one rule: learn history, choose kindness.", "ko":"이야기는 한 문장으로 끝나요. 역사를 배우고, 친절을 선택하자."}}
+  ]
+}
