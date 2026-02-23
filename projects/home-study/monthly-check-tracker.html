@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>집공부 월간 체크 트래커</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1200px;margin:24px auto;padding:0 16px}
+    table{width:100%;border-collapse:collapse;font-size:14px}
+    th,td{border:1px solid #e5e7eb;padding:6px;text-align:center}
+    th{background:#f9fafb;position:sticky;top:0}
+    input[type='number']{width:70px}
+    input[type='text']{width:100%}
+    .top a{color:#0b57d0;text-decoration:none}
+    .row-left{text-align:left}
+    .summary{margin:12px 0;padding:10px;border:1px solid #ddd;border-radius:8px;background:#fafafa}
+    .week{margin-top:14px}
+    .week textarea{width:100%;min-height:70px}
+    .btns{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+    button{padding:8px 10px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer}
+  </style>
+</head>
+<body>
+  <div class="top"><a href="/">← 홈</a> · <a href="/md-viewer.html?file=/projects/home-study/README.md">Home Study 허브</a></div>
+  <h1>집공부 월간 체크 트래커 (1~31일)</h1>
+  <p>체크박스/숫자 입력 후 브라우저에 자동 저장됩니다(localStorage).</p>
+
+  <div class="btns">
+    <button onclick="saveData()">저장</button>
+    <button onclick="loadData()">불러오기</button>
+    <button onclick="clearData()">초기화</button>
+  </div>
+
+  <table id="tracker">
+    <thead>
+      <tr><th>일자</th><th>단꿈e</th><th>영어루틴</th><th>단어(개)</th><th>스트레스(1~5)</th><th class="row-left">메모</th></tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+  <div class="summary" id="summary"></div>
+
+  <div class="week">
+    <h3>주간 메모</h3>
+    <label>1주차</label><textarea id="w1"></textarea>
+    <label>2주차</label><textarea id="w2"></textarea>
+    <label>3주차</label><textarea id="w3"></textarea>
+    <label>4주차</label><textarea id="w4"></textarea>
+    <label>5주차(해당 월)</label><textarea id="w5"></textarea>
+  </div>
+
+<script>
+const key='home-study-monthly-check-v1';
+const tbody=document.getElementById('rows');
+for(let d=1; d<=31; d++){
+  const tr=document.createElement('tr');
+  tr.innerHTML=`
+    <td>${d}</td>
+    <td><input type="checkbox" data-k="d${d}_dk"/></td>
+    <td><input type="checkbox" data-k="d${d}_en"/></td>
+    <td><input type="number" min="0" max="999" data-k="d${d}_wd"/></td>
+    <td><input type="number" min="1" max="5" data-k="d${d}_st"/></td>
+    <td class="row-left"><input type="text" data-k="d${d}_memo"/></td>
+  `;
+  tbody.appendChild(tr);
+}
+
+document.addEventListener('input',()=>{updateSummary(); saveData();});
+
+function collect(){
+  const data={};
+  document.querySelectorAll('[data-k]').forEach(el=>{
+    data[el.dataset.k]=el.type==='checkbox'?el.checked:el.value;
+  });
+  ['w1','w2','w3','w4','w5'].forEach(id=>data[id]=document.getElementById(id).value);
+  return data;
+}
+function apply(data){
+  document.querySelectorAll('[data-k]').forEach(el=>{
+    const v=data[el.dataset.k];
+    if(el.type==='checkbox') el.checked=!!v;
+    else el.value=v??'';
+  });
+  ['w1','w2','w3','w4','w5'].forEach(id=>document.getElementById(id).value=data[id]||'');
+}
+function saveData(){ localStorage.setItem(key, JSON.stringify(collect())); }
+function loadData(){ const raw=localStorage.getItem(key); if(!raw) return; apply(JSON.parse(raw)); updateSummary(); }
+function clearData(){ if(!confirm('초기화할까요?')) return; localStorage.removeItem(key); location.reload(); }
+function updateSummary(){
+  let dk=0,en=0,words=0,stressSum=0,stressCnt=0;
+  for(let d=1; d<=31; d++){
+    if(document.querySelector(`[data-k="d${d}_dk"]`).checked) dk++;
+    if(document.querySelector(`[data-k="d${d}_en"]`).checked) en++;
+    const w=Number(document.querySelector(`[data-k="d${d}_wd"]`).value||0); words+=w;
+    const s=Number(document.querySelector(`[data-k="d${d}_st"]`).value||0); if(s){stressSum+=s;stressCnt++;}
+  }
+  const avg=stressCnt?(stressSum/stressCnt).toFixed(2):'-';
+  document.getElementById('summary').innerHTML=`단꿈e 완료일: <b>${dk}</b>일 · 영어루틴 완료일: <b>${en}</b>일 · 월간 단어 누적: <b>${words}</b>개 · 평균 스트레스: <b>${avg}</b>`;
+}
+loadData(); updateSummary();
+</script>
+</body>
+</html>

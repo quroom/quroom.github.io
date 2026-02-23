@@ -7,6 +7,7 @@
 - [초5 파닉스 + Teach Your Monster 통합팩](./phonics-tym-master-pack.md)
 - [주간 체크 템플릿](./weekly-check-template.md)
 - [월간 체크 템플릿](./monthly-check-template.md)
+- [월간 체크 트래커 (체크박스/입력형 HTML)](./monthly-check-tracker.html)
 
 ## 운영 원칙
 - 중복 내용은 위 3개 canonical 문서에만 반영
