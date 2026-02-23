@@ -70,9 +70,14 @@
 - 렌더 결과 HTML 생성 성공
 - 레이어 조합 + 한/영 텍스트 병렬 표시 확인
 
-샘플 결과물:
+샘플 결과물(이모지 mock):
 - [/projects/interest-story-english/prototype/hybrid-story-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-story-sample.json)
 - [/projects/interest-story-english/prototype/rendered-sample.html](/projects/interest-story-english/prototype/rendered-sample.html)
 
+실사 에셋 테스트 결과물(무료 스톡 이미지):
+- [/projects/interest-story-english/prototype/hybrid-story-real-assets-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-story-real-assets-sample.json)
+- [/projects/interest-story-english/prototype/rendered-real-assets-sample.html](/projects/interest-story-english/prototype/rendered-real-assets-sample.html)
+
 렌더 스크립트:
 - [/projects/interest-story-english/prototype/render_hybrid_sample.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_sample.py)
+- [/projects/interest-story-english/prototype/render_hybrid_real_assets.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_real_assets.py)
