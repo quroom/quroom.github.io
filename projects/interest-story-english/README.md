@@ -17,6 +17,8 @@
 - [혼합 모드 샘플 JSON](./prototype/hybrid-mixed-sample.json)
 - [WW2 초5 샘플 (혼합 10p)](./prototype/rendered-hybrid-ww2-grade5-sample.html)
 - [WW2 초5 샘플 JSON](./prototype/hybrid-mixed-ww2-grade5-sample.json)
+- [WW2 초5 샘플 (실사 10p)](./prototype/rendered-hybrid-all-real-10p-sample.html)
+- [WW2 초5 실사 10p JSON](./prototype/hybrid-all-real-10p-sample.json)
 - [10페이지 삽화 제작 파이프라인 (무료+AI 혼합)](./illustration-production-pipeline-10p.md)
 
 ## 비고

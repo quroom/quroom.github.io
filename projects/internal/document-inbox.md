@@ -39,6 +39,8 @@
 | [/projects/interest-story-english/prototype/hybrid-mixed-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-mixed-sample.json) | 미확인 | 혼합 모드 샘플 JSON |
 | [/projects/interest-story-english/prototype/rendered-hybrid-ww2-grade5-sample.html](/projects/interest-story-english/prototype/rendered-hybrid-ww2-grade5-sample.html) | 미확인 | WW2 초5 혼합 10페이지 렌더 결과 |
 | [/projects/interest-story-english/prototype/hybrid-mixed-ww2-grade5-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-mixed-ww2-grade5-sample.json) | 미확인 | WW2 초5 혼합 10페이지 JSON |
+| [/projects/interest-story-english/prototype/rendered-hybrid-all-real-10p-sample.html](/projects/interest-story-english/prototype/rendered-hybrid-all-real-10p-sample.html) | 미확인 | WW2 초5 실사 10페이지 렌더 결과 |
+| [/projects/interest-story-english/prototype/hybrid-all-real-10p-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-all-real-10p-sample.json) | 미확인 | WW2 초5 실사 10페이지 JSON |
 | [/projects/interest-story-english/illustration-production-pipeline-10p.md](/md-viewer.html?file=/projects/interest-story-english/illustration-production-pipeline-10p.md) | 미확인 | 10페이지 삽화 제작 파이프라인(무료+AI 혼합) |
 | [/projects/bogle-ops/kr-jepi-schd-bogle-simulation.html](/projects/bogle-ops/kr-jepi-schd-bogle-simulation.html) | 미확인 | JEPI/SCHD 성격 비교 시뮬레이션 차트 |
 | [/projects/bogle-ops/kr-jepi-schd-bogle-simulation.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-simulation.md) | 미확인 | 보글 철학 관점 해설 |

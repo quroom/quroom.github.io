@@ -1,0 +1,16 @@
+{
+  "bookId": "ww2-grade5-all-real-001",
+  "title": "The Time Compass: World War II (All Real Image 10p)",
+  "pages": [
+    {"page":1,"layout":"image-top-text-bottom","image":"https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1400&q=80","text":{"en":"Leo finds a time compass in the library.","ko":"레오는 도서관에서 시간 나침반을 발견했어요."}},
+    {"page":2,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1400&q=80","text":{"en":"Teacher J explains basic facts about World War II.","ko":"선생님은 제2차 세계대전의 기본 사실을 설명해요."}},
+    {"page":3,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1526779259212-939e64788e3c?auto=format&fit=crop&w=1400&q=80","text":{"en":"Leo and Mina study maps together.","ko":"레오와 미나는 지도를 함께 살펴봐요."}},
+    {"page":4,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1400&q=80","text":{"en":"They ask, 'How did teamwork change history?'","ko":"두 아이는 '협력이 역사를 어떻게 바꿨을까?'라고 물어요."}},
+    {"page":5,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1400&q=80","text":{"en":"The compass opens a safe what-if simulation.","ko":"나침반은 안전한 가상 시나리오를 열어줘요."}},
+    {"page":6,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=80","text":{"en":"What if information had moved more slowly?","ko":"만약 정보가 더 느리게 전달되었다면 어땠을까요?"}},
+    {"page":7,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1400&q=80","text":{"en":"Noa says peace might have taken longer.","ko":"노아는 평화가 더 늦게 왔을 수도 있다고 말해요."}},
+    {"page":8,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1400&q=80","text":{"en":"Leo writes his own opinion in English.","ko":"레오는 영어로 자기 의견을 적어요."}},
+    {"page":9,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1451188502541-13943edb6acb?auto=format&fit=crop&w=1400&q=80","text":{"en":"They choose the next peaceful mission.","ko":"두 아이는 다음 평화 미션을 선택해요."}},
+    {"page":10,"layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80","text":{"en":"They end with one rule: learn history, choose kindness.","ko":"마지막 규칙은 하나예요. 역사를 배우고 친절을 선택하자."}}
+  ]
+}
