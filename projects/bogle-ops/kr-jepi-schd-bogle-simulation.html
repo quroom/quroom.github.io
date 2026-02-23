@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>KR JEPI vs SCHD 시뮬레이션</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>body{font-family:system-ui;max-width:980px;margin:24px auto;padding:0 16px} .note{background:#fffbeb;border:1px solid #fde68a;padding:10px;border-radius:8px} canvas{max-height:420px}</style></head>
+<body>
+<h1>한국판 JEPI 성격 vs SCHD 성격 (보글 관점 시뮬레이션)</h1>
+<p class="note">설명용 가정 시뮬레이션입니다(실제 수익률 아님). 초기 1억원, 20년 복리, 세금/보수는 단순화해 순수익률에 반영.</p>
+<canvas id="c"></canvas>
+<script>
+const years=[...Array(21).keys()];
+const broad=[100000000,107900000,116424100,125621604,135545711,146253823,157807875,170274697,183726397,198240782,213901804,230799046,249027171,268685318,289877459,312712779,337306078,363778257,392256739,422875022,455773149];
+const schd=[100000000,107050000,114597025,122676115,131324781,140583179,150494287,161104156,172462008,184620435,197635178,211565459,226474840,242431534,259508958,277786334,297349230,318289977,340708080,364710633,390412703];
+const jepi=[100000000,105450000,111197025,117257263,123647784,130386589,137492658,144986003,152887740,161220123,170006619,179271980,189042302,199345109,210209412,221665831,233746630,246485738,259918793,274083182,289018077];
+const blend=[100000000,106570000,113571649,121033306,128985195,137459531,146490654,156115166,166371071,177297924,188936993,201331423,214526408,228569376,243510180,259401298,276298051,294258829,313345336,333622849,355160496];
+new Chart(document.getElementById('c'),{type:'line',data:{labels:years,datasets:[
+{label:'광범위 저비용 인덱스(보글 기본)',data:broad,borderColor:'#2563eb',tension:.15},
+{label:'SCHD 성격(배당성장 틸트)',data:schd,borderColor:'#16a34a',tension:.15},
+{label:'JEPI 성격(커버드콜 인컴)',data:jepi,borderColor:'#dc2626',tension:.15},
+{label:'혼합 70/30 (SCHD/JEPI)',data:blend,borderColor:'#7c3aed',tension:.15}
+]},options:{plugins:{legend:{position:'bottom'}},scales:{y:{ticks:{callback:v=>Math.round(v/1e8)+'억'}}}}});
+</script>
+</body></html>
