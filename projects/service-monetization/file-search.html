@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Service Monetization 파일 검색</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1100px;margin:28px auto;padding:0 16px;line-height:1.5}
+    .top a{color:#0b57d0;text-decoration:none}
+    .bar{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+    input,select{padding:8px 10px;border:1px solid #ddd;border-radius:8px}
+    table{width:100%;border-collapse:collapse;margin-top:10px}
+    th,td{border-bottom:1px solid #eee;padding:8px;text-align:left;vertical-align:top}
+    .tag{display:inline-block;padding:2px 8px;border-radius:999px;background:#f3f4f6;font-size:12px;margin-right:4px}
+    a{color:#0b57d0;text-decoration:none}
+    a:hover{text-decoration:underline}
+  </style>
+</head>
+<body>
+  <div class="top"><a href="/">← 홈</a> · <a href="/md-viewer.html?file=/projects/service-monetization/README.md">Service Monetization README</a></div>
+  <h1>Service Monetization 파일 검색</h1>
+  <p>외주 / 코칭 / 자동화 관련 문서를 한 번에 검색하고 필터링합니다.</p>
+
+  <div class="bar">
+    <input id="q" placeholder="파일명/설명 검색" />
+    <select id="track">
+      <option value="ALL">트랙: 전체</option>
+      <option value="외주">외주</option>
+      <option value="코칭">코칭</option>
+      <option value="자동화">자동화</option>
+      <option value="운영">운영</option>
+    </select>
+  </div>
+
+  <table>
+    <thead><tr><th>문서</th><th>트랙</th><th>설명</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+<script>
+const files = [
+  {p:'/projects/service-monetization/offer-architecture.md',t:['외주','코칭','자동화'],d:'오퍼 구조'},
+  {p:'/projects/service-monetization/packages-spec.md',t:['외주','코칭','자동화'],d:'상품 스펙'},
+  {p:'/projects/service-monetization/pricing-model.md',t:['외주','코칭','자동화'],d:'가격/업셀 모델'},
+  {p:'/projects/service-monetization/sales-call-script.md',t:['외주','코칭'],d:'상담→클로징 스크립트'},
+  {p:'/projects/service-monetization/sow-contract-templates.md',t:['외주'],d:'SOW/계약 템플릿'},
+  {p:'/projects/service-monetization/delivery-sop.md',t:['외주','자동화','운영'],d:'납품 운영 SOP'},
+  {p:'/projects/service-monetization/unified-go-to-cash-plan.md',t:['외주','코칭','자동화'],d:'통합 실행 계획'},
+  {p:'/projects/service-monetization/product-engineering-master-spec.md',t:['외주','코칭','자동화'],d:'마스터 실행 스펙'},
+  {p:'/projects/service-monetization/first-execution-sprint-7days.md',t:['외주','코칭','자동화'],d:'7일 우선 실행안'},
+  {p:'/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md',t:['코칭','자동화'],d:'광주 오프라인 강의 실행 키트'},
+  {p:'/projects/service-monetization/free-webinar-plan.md',t:['코칭','자동화'],d:'무료 웨비나 기획'},
+  {p:'/projects/service-monetization/webinar-script-60m.md',t:['코칭','자동화'],d:'60분 강의 스크립트'},
+  {p:'/projects/service-monetization/client-onboarding-checklist.md',t:['외주','코칭','자동화','운영'],d:'온보딩 체크리스트'},
+  {p:'/projects/service-monetization/followup-retention-flow.md',t:['외주','코칭','운영'],d:'후속 접촉 루프'},
+  {p:'/projects/service-monetization/unit-economics-dashboard.md',t:['운영'],d:'수익성 대시보드'},
+  {p:'/projects/service-monetization/consolidation-map.md',t:['운영'],d:'중복 문서 통합 기준'},
+  {p:'/projects/service-monetization/content-calendar-4weeks.md',t:['코칭','자동화'],d:'4주 콘텐츠 캘린더'},
+  {p:'/projects/service-monetization/first-10-customers-plan.md',t:['외주','코칭','자동화'],d:'첫 10고객 계획'}
+];
+
+function base(p){ return p.split('/').pop(); }
+
+function render(){
+  const q = document.getElementById('q').value.toLowerCase().trim();
+  const tr = document.getElementById('track').value;
+  const list = files.filter(f => (tr==='ALL' || f.t.includes(tr)) && (!q || (f.p+f.d+f.t.join(' ')).toLowerCase().includes(q)));
+  document.getElementById('rows').innerHTML = list.map(f => `
+    <tr>
+      <td><a href="/md-viewer.html?file=${f.p}">${base(f.p)}</a></td>
+      <td>${f.t.map(x=>`<span class="tag">${x}</span>`).join('')}</td>
+      <td>${f.d}</td>
+    </tr>
+  `).join('');
+}
+['q','track'].forEach(id => document.getElementById(id).addEventListener('input', render));
+render();
+</script>
+</body>
+</html>

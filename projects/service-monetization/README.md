@@ -2,6 +2,8 @@
 
 자동화 세팅/바이브코딩/개발외주 즉시수익화 프로젝트.
 
+- [파일 검색/필터 대시보드](./file-search.html) (외주/코칭/자동화 트랙 검색)
+
 문서:
 - [Product Engineering Master Spec (기획·개발·운영·마케팅 통합)](./product-engineering-master-spec.md)
 - [광주 오프라인 Vibe Coding 워크숍 실행 키트](./gwangju-vibe-coding-workshop-execution-kit.md)

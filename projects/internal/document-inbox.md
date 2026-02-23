@@ -15,6 +15,7 @@
 | [/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md](/md-viewer.html?file=/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md) | 미확인 | 광주 오프라인 강의 실행 문서 (PRD~로드맵) |
 | [/projects/internal/executable-projects-dashboard.html](/projects/internal/executable-projects-dashboard.html) | 미확인 | 즉시 실행 프로젝트 필터/검색 대시보드 |
 | [/projects/service-monetization/consolidation-map.md](/md-viewer.html?file=/projects/service-monetization/consolidation-map.md) | 미확인 | 중복 문서 통합 기준(canonical) |
+| [/projects/service-monetization/file-search.html](/projects/service-monetization/file-search.html) | 미확인 | 외주/코칭/자동화 파일 검색·필터 대시보드 |
 
 ---
 
