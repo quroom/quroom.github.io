@@ -3,6 +3,7 @@
 자동화 세팅/바이브코딩/개발외주 즉시수익화 프로젝트.
 
 문서:
+- [Product Engineering Master Spec (기획·개발·운영·마케팅 통합)](./product-engineering-master-spec.md)
 - [오퍼 구조 설계](./offer-architecture.md)
 - [상품 3종 스펙](./packages-spec.md)
 - [가격/업셀 모델](./pricing-model.md)
