@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>전체 문서 검색</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1100px;margin:28px auto;padding:0 16px;line-height:1.5}
+    .top a{color:#0b57d0;text-decoration:none}
+    .bar{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+    input,select{padding:8px 10px;border:1px solid #ddd;border-radius:8px}
+    table{width:100%;border-collapse:collapse;margin-top:10px}
+    th,td{border-bottom:1px solid #eee;padding:8px;text-align:left;vertical-align:top}
+    .tag{display:inline-block;padding:2px 8px;border-radius:999px;background:#f3f4f6;font-size:12px}
+    a{color:#0b57d0;text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="top"><a href="/">← 홈</a> · <a href="/docs.html">문서 허브</a></div>
+  <h1>전체 프로젝트 파일 검색</h1>
+  <p>카테고리 전체(외주/코칭/자동화 포함)를 한 번에 검색합니다.</p>
+
+  <div class="bar">
+    <input id="q" placeholder="파일명/경로 검색" />
+    <select id="cat">
+      <option value="ALL">카테고리: 전체</option>
+      <option value="service-monetization">service-monetization</option>
+      <option value="revenue-sprint">revenue-sprint</option>
+      <option value="threads-insight-pro">threads-insight-pro</option>
+      <option value="bogle-ops">bogle-ops</option>
+      <option value="bogle-beginner-kit">bogle-beginner-kit</option>
+      <option value="retire-sim">retire-sim</option>
+      <option value="academy-mvp">academy-mvp</option>
+      <option value="ai-essay-eval-pro">ai-essay-eval-pro</option>
+      <option value="internal">internal</option>
+    </select>
+  </div>
+
+  <table>
+    <thead><tr><th>파일</th><th>카테고리</th><th>열기</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+<script>
+const files = [
+'/projects/academy-mvp/README.md','/projects/academy-mvp/annual-english-daily-plan-and-reward-system-2026.md','/projects/academy-mvp/elementary-phonics-selfstudy-playbook.md','/projects/academy-mvp/quick-commands.md','/projects/academy-mvp/templates.md',
+'/projects/ai-essay-eval-pro/README.md','/projects/ai-essay-eval-pro/architecture.md','/projects/ai-essay-eval-pro/gtm-and-sales.md','/projects/ai-essay-eval-pro/master-plan.md','/projects/ai-essay-eval-pro/operations-and-compliance.md','/projects/ai-essay-eval-pro/prd.md','/projects/ai-essay-eval-pro/roadmap-90days.md',
+'/projects/bogle-beginner-kit/001-start-here.md','/projects/bogle-beginner-kit/README.md','/projects/bogle-beginner-kit/STYLE-GUIDE.md','/projects/bogle-beginner-kit/bear-market-copies-100.md','/projects/bogle-beginner-kit/comment-macros-100.md','/projects/bogle-beginner-kit/copy-paste-pack-v1.md','/projects/bogle-beginner-kit/etf-selection-cards-30.md','/projects/bogle-beginner-kit/faq-50.md','/projects/bogle-beginner-kit/monthly-check-template-12m.md','/projects/bogle-beginner-kit/no-go-checklist-200.md','/projects/bogle-beginner-kit/notice-refactor-20sets.md','/projects/bogle-beginner-kit/onboarding-4weeks.md',
+'/projects/bogle-ops/README.md','/projects/bogle-ops/cafe-ops-manual.md','/projects/bogle-ops/investing-system.md','/projects/bogle-ops/kpi-dashboard-template.md','/projects/bogle-ops/kr-etf-report-v4.html','/projects/bogle-ops/monthly-report-generator-format.md','/projects/bogle-ops/onboarding-ab-test.md','/projects/bogle-ops/post-quality-check-30s.md','/projects/bogle-ops/threads-humor-pack-001.md',
+'/projects/internal/WORKQUEUE.md','/projects/internal/HEARTBEAT.md','/projects/internal/conversation-notes.md','/projects/internal/daily-work-report.md','/projects/internal/document-inbox.md','/projects/internal/executable-projects-dashboard.html','/projects/internal/important-files-index.md','/projects/internal/overall-work-summary.md','/projects/internal/workqueue-dashboard.html',
+'/projects/retire-sim/README.md','/projects/retire-sim/prd-v1.md','/projects/retire-sim/dev-backlog.md','/projects/retire-sim/qa-testplan.md','/projects/retire-sim/gtm-marketing.md','/projects/retire-sim/pricing-experiments.md',
+'/projects/revenue-sprint/README.md','/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md','/projects/revenue-sprint/offer-stack-fast-close.md','/projects/revenue-sprint/pipeline-dashboard-template.md','/projects/revenue-sprint/launch-sequence-10days-solo.md',
+'/projects/service-monetization/README.md','/projects/service-monetization/file-search.html','/projects/service-monetization/product-engineering-master-spec.md','/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md','/projects/service-monetization/consolidation-map.md','/projects/service-monetization/first-execution-sprint-7days.md','/projects/service-monetization/unified-go-to-cash-plan.md','/projects/service-monetization/sales-call-script.md','/projects/service-monetization/sow-contract-templates.md',
+'/projects/threads-insight-pro/README.md','/projects/threads-insight-pro/full-lifecycle-plan.md','/projects/threads-insight-pro/content-ops-and-bulk-scheduler-spec.md','/projects/threads-insight-pro/safe-data-ingestion-and-analysis.md'
+];
+
+function catOf(path){ const m = path.match(/^\/projects\/([^/]+)/); return m?m[1]:'etc'; }
+function base(path){ return path.split('/').pop(); }
+function href(path){ return path.endsWith('.html') ? path : `/md-viewer.html?file=${path}`; }
+
+function render(){
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const cat = document.getElementById('cat').value;
+  const rows = files.filter(p => (cat==='ALL' || catOf(p)===cat) && (!q || p.toLowerCase().includes(q) || base(p).toLowerCase().includes(q)));
+  document.getElementById('rows').innerHTML = rows.map(p => `
+    <tr>
+      <td><code>${p}</code></td>
+      <td><span class="tag">${catOf(p)}</span></td>
+      <td><a href="${href(p)}">열기</a></td>
+    </tr>
+  `).join('');
+}
+['q','cat'].forEach(id => document.getElementById(id).addEventListener('input', render));
+render();
+</script>
+</body>
+</html>
