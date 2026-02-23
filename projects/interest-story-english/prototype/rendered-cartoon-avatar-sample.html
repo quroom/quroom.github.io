@@ -1,0 +1,62 @@
+<!doctype html>
+<html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Cartoon Avatar Sample</title>
+<style>
+body{font-family:system-ui;max-width:980px;margin:24px auto;padding:0 16px;background:#fff}
+.card{border:1px solid #ddd;border-radius:12px;padding:12px;margin:14px 0}
+.scene{height:280px;border-radius:12px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.sky{background:linear-gradient(180deg,#bfdbfe,#dbeafe)}
+.library{background:linear-gradient(180deg,#ddd6fe,#e9d5ff)}
+.night{background:linear-gradient(180deg,#1e293b,#334155)}
+.avatar{width:180px;height:180px;border-radius:50%;background:#fff;box-shadow:0 10px 30px #00000022}
+.cloud{position:absolute;width:140px;height:42px;background:#ffffffcc;border-radius:999px;top:26px;left:40px}
+.cloud:after{content:'';position:absolute;width:70px;height:70px;background:#ffffffcc;border-radius:50%;top:-22px;left:24px}
+.stars{position:absolute;inset:0;background-image:radial-gradient(#ffffffcc 1px, transparent 1px);background-size:22px 22px;opacity:.45}
+.row{display:grid;grid-template-columns:46% 1fr;gap:12px}
+.txt p{line-height:1.7;margin:6px 0}
+.badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#f3f4f6;font-size:12px}
+@media (max-width:760px){.row{grid-template-columns:1fr}.scene{height:220px}.avatar{width:130px;height:130px}}
+</style>
+</head><body>
+<h1>Cartoon Sample (No Emoji)</h1>
+<p><span class='badge'>DiceBear cartoon avatar</span> + simple scene backgrounds</p>
+
+<section class='card'>
+  <h3>Page 1</h3>
+  <div class='scene sky'>
+    <div class='cloud'></div>
+    <img class='avatar' src='https://api.dicebear.com/7.x/adventurer/svg?seed=Leo&backgroundColor=b6e3f4,c0aede,d1d4f9' alt='leo'/>
+  </div>
+  <div class='txt'>
+    <p><b>EN</b> Leo finds a secret map.</p>
+    <p><b>KO</b> 레오는 비밀 지도를 발견했어요.</p>
+  </div>
+</section>
+
+<section class='card'>
+  <h3>Page 2</h3>
+  <div class='row'>
+    <div class='scene library'>
+      <img class='avatar' src='https://api.dicebear.com/7.x/adventurer/svg?seed=LeoThink&backgroundColor=ffd5dc,ffdfbf,d1d4f9' alt='leo think'/>
+    </div>
+    <div class='txt'>
+      <p><b>EN</b> He asks, “What if history changed?”</p>
+      <p><b>KO</b> 레오는 “역사가 바뀌면 어떨까?”라고 물었어요.</p>
+    </div>
+  </div>
+</section>
+
+<section class='card'>
+  <h3>Page 3</h3>
+  <div class='row'>
+    <div class='scene night'>
+      <div class='stars'></div>
+      <img class='avatar' src='https://api.dicebear.com/7.x/adventurer/svg?seed=Mina&backgroundColor=b6e3f4,c0aede,d1d4f9' alt='mina'/>
+    </div>
+    <div class='txt'>
+      <p><b>EN</b> Mina writes her own idea.</p>
+      <p><b>KO</b> 미나는 자기 생각을 적기 시작했어요.</p>
+    </div>
+  </div>
+</section>
+</body></html>
