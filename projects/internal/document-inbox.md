@@ -25,7 +25,7 @@
 | [/projects/home-study/monthly-check-tracker.html](/projects/home-study/monthly-check-tracker.html) | 미확인 | 집공부 월간 체크 트래커(체크박스 HTML) |
 | [/projects/academy-mvp/suneung-english-item-generator-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/suneung-english-item-generator-plan-v1.md) | 미확인 | 수능 영어 문항 생성 서비스 큰 틀 계획 |
 | [/projects/interest-story-english/README.md](/md-viewer.html?file=/projects/interest-story-english/README.md) | 미확인 | 관심사 기반 이중언어 스토리 영어학습 프로젝트 허브 |
-| [/projects/interest-story-english/PRD.md](/md-viewer.html?file=/projects/interest-story-english/PRD.md) | 미확인 | 관심사 기반 이중언어 스토리 서비스 PRD 초안 |
+| [/projects/interest-story-english/PRD.md](/md-viewer.html?file=/projects/interest-story-english/PRD.md) | 미확인 | 관심사 기반 이중언어 스토리 서비스 PRD v2 (초입문 모드 포함) |
 
 ---
 
