@@ -30,6 +30,8 @@
 | [/projects/interest-story-english/tech-stack-and-implementation-research.md](/md-viewer.html?file=/projects/interest-story-english/tech-stack-and-implementation-research.md) | 미확인 | 기술스택 및 구현 방법 조사 |
 | [/projects/interest-story-english/hybrid-image-pipeline-implementation.md](/md-viewer.html?file=/projects/interest-story-english/hybrid-image-pipeline-implementation.md) | 미확인 | 하이브리드 이미지 파이프라인 구현안 |
 | [/projects/interest-story-english/prototype/rendered-sample.html](/projects/interest-story-english/prototype/rendered-sample.html) | 미확인 | 하이브리드 렌더 테스트 결과물 |
+| [/projects/interest-story-english/prototype/rendered-real-assets-sample.html](/projects/interest-story-english/prototype/rendered-real-assets-sample.html) | 미확인 | 실사 에셋 렌더 테스트 결과물 |
+| [/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html](/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html) | 미확인 | 만화 템플릿 렌더 테스트 결과물 |
 
 ---
 

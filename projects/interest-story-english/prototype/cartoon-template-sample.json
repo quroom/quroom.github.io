@@ -1,0 +1,30 @@
+{
+  "bookId": "sample-cartoon-001",
+  "title": "What If History Changed? (Cartoon Template)",
+  "pages": [
+    {
+      "page": 1,
+      "layout": "image-top-text-bottom",
+      "template": "city_morning",
+      "character": "leo",
+      "emotion": "curious",
+      "text": {"en": "Leo finds a secret map.", "ko": "레오는 비밀 지도를 발견했어요."}
+    },
+    {
+      "page": 2,
+      "layout": "left-image-right-text",
+      "template": "library_light",
+      "character": "leo",
+      "emotion": "thinking",
+      "text": {"en": "He asks, 'What if history changed?'", "ko": "레오는 '역사가 바뀌면 어떨까?'라고 물었어요."}
+    },
+    {
+      "page": 3,
+      "layout": "left-image-right-text",
+      "template": "night_desk",
+      "character": "mina",
+      "emotion": "smile",
+      "text": {"en": "Mina writes her own idea.", "ko": "미나는 자기 생각을 적기 시작했어요."}
+    }
+  ]
+}

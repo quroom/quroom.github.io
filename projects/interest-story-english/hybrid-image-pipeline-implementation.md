@@ -78,6 +78,11 @@
 - [/projects/interest-story-english/prototype/hybrid-story-real-assets-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-story-real-assets-sample.json)
 - [/projects/interest-story-english/prototype/rendered-real-assets-sample.html](/projects/interest-story-english/prototype/rendered-real-assets-sample.html)
 
+만화 템플릿 테스트 결과물:
+- [/projects/interest-story-english/prototype/cartoon-template-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/cartoon-template-sample.json)
+- [/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html](/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html)
+
 렌더 스크립트:
 - [/projects/interest-story-english/prototype/render_hybrid_sample.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_sample.py)
 - [/projects/interest-story-english/prototype/render_hybrid_real_assets.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_real_assets.py)
+- [/projects/interest-story-english/prototype/render_cartoon_template.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_cartoon_template.py)
