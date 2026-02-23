@@ -37,7 +37,7 @@
   </div>
 
   <table>
-    <thead><tr><th>파일</th><th>카테고리</th><th>열기</th></tr></thead>
+    <thead><tr><th>파일</th><th>카테고리</th><th>간단 설명</th><th>열기</th></tr></thead>
     <tbody id="rows"></tbody>
   </table>
 
@@ -57,6 +57,21 @@ const files = [
 function catOf(path){ const m = path.match(/^\/projects\/([^/]+)/); return m?m[1]:'etc'; }
 function base(path){ return path.split('/').pop(); }
 function href(path){ return path.endsWith('.html') ? path : `/md-viewer.html?file=${path}`; }
+function desc(path){
+  const b = base(path).toLowerCase();
+  if (b.includes('readme')) return '프로젝트 개요/진입 문서';
+  if (b.includes('prd')) return '요구사항/기획 문서';
+  if (b.includes('backlog')) return '개발 작업 목록';
+  if (b.includes('qa')) return '테스트 계획';
+  if (b.includes('pricing')) return '가격/수익 모델';
+  if (b.includes('sales') || b.includes('proposal')) return '세일즈/제안 템플릿';
+  if (b.includes('dashboard')) return '운영/지표 대시보드';
+  if (b.includes('plan')) return '실행 계획 문서';
+  if (b.includes('checklist')) return '실행 체크리스트';
+  if (b.includes('workflow') || b.includes('playbook')) return '운영 플레이북';
+  if (b.includes('report')) return '리포트/요약 문서';
+  return '실행 참고 문서';
+}
 
 function render(){
   const q = document.getElementById('q').value.trim().toLowerCase();
@@ -66,6 +81,7 @@ function render(){
     <tr>
       <td><code>${p}</code></td>
       <td><span class="tag">${catOf(p)}</span></td>
+      <td>${desc(p)}</td>
       <td><a href="${href(p)}">열기</a></td>
     </tr>
   `).join('');

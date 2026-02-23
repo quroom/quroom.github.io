@@ -16,8 +16,8 @@
   - [landing-build-plan.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan.md)
   - [landing-build-plan-v1.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan-v1.md)
   - [landing-build-plan-v2-from-spec.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan-v2-from-spec.md)
-- Canonical: [product-engineering-master-spec.md](/md-viewer.html?file=/projects/service-monetization/product-engineering-master-spec.md)
-- 처리 원칙: v2를 레퍼런스로 유지하고 신규 변경은 canonical에만 반영
+- Canonical: [landing-build-plan.md](/md-viewer.html?file=/projects/service-monetization/landing-build-plan.md)
+- 처리 원칙: v1/v2는 아카이브 요약만 유지, 신규 변경은 landing-build-plan.md 단일 반영 (완료)
 
 ### 그룹 B: GTM/세일즈 전개
 - 유사 문서:
