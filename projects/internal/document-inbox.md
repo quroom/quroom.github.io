@@ -44,6 +44,8 @@
 | [/projects/interest-story-english/illustration-production-pipeline-10p.md](/md-viewer.html?file=/projects/interest-story-english/illustration-production-pipeline-10p.md) | 미확인 | 10페이지 삽화 제작 파이프라인(무료+AI 혼합) |
 | [/projects/bogle-ops/kr-jepi-schd-bogle-simulation.html](/projects/bogle-ops/kr-jepi-schd-bogle-simulation.html) | 미확인 | JEPI/SCHD 성격 비교 시뮬레이션 차트 |
 | [/projects/bogle-ops/kr-jepi-schd-bogle-simulation.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-simulation.md) | 미확인 | 보글 철학 관점 해설 |
+| [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.html) | 미확인 | ETF 티커 실데이터 백테스트 차트 |
+| [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.md) | 미확인 | ETF 티커 실데이터 해설 |
 
 ---
 
