@@ -15,6 +15,7 @@
 - [카툰 에셋 스펙 JSON](./prototype/cartoon-assets-spec-v1.json)
 - [혼합 모드 결과 (10p: 템플릿7+실사3)](./prototype/rendered-hybrid-mixed-sample.html)
 - [혼합 모드 샘플 JSON](./prototype/hybrid-mixed-sample.json)
+- [10페이지 삽화 제작 파이프라인 (무료+AI 혼합)](./illustration-production-pipeline-10p.md)
 
 ## 비고
 - 기존 Academy MVP의 기획 문서는 본 프로젝트로 분리/통합했습니다.

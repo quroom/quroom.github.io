@@ -37,6 +37,7 @@
 | [/projects/interest-story-english/prototype/cartoon-assets-spec-v1.json](/md-viewer.html?file=/projects/interest-story-english/prototype/cartoon-assets-spec-v1.json) | 미확인 | 카툰 에셋 스펙 JSON |
 | [/projects/interest-story-english/prototype/rendered-hybrid-mixed-sample.html](/projects/interest-story-english/prototype/rendered-hybrid-mixed-sample.html) | 미확인 | 혼합 모드 10페이지 렌더 결과 |
 | [/projects/interest-story-english/prototype/hybrid-mixed-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-mixed-sample.json) | 미확인 | 혼합 모드 샘플 JSON |
+| [/projects/interest-story-english/illustration-production-pipeline-10p.md](/md-viewer.html?file=/projects/interest-story-english/illustration-production-pipeline-10p.md) | 미확인 | 10페이지 삽화 제작 파이프라인(무료+AI 혼합) |
 
 ---
 
