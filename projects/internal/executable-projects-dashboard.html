@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>즉시 실행 프로젝트 필터</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1100px;margin:28px auto;padding:0 16px;line-height:1.5}
+    .top a{color:#0b57d0;text-decoration:none}
+    .bar{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+    input,select{padding:8px 10px;border:1px solid #ddd;border-radius:8px}
+    table{width:100%;border-collapse:collapse;margin-top:10px}
+    th,td{border-bottom:1px solid #eee;padding:8px;text-align:left;vertical-align:top}
+    .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;font-weight:600}
+    .ok{background:#ecfdf5;color:#065f46}
+    .mid{background:#fffbeb;color:#92400e}
+    .warn{background:#fef2f2;color:#991b1b}
+    .card{border:1px solid #ddd;border-radius:10px;padding:12px 14px;margin:12px 0;background:#fafafa}
+    a{color:#0b57d0;text-decoration:none}
+    a:hover{text-decoration:underline}
+  </style>
+</head>
+<body>
+  <div class="top"><a href="/">← 홈</a> · <a href="/projects/internal/">internal</a></div>
+  <h1>즉시 실행 프로젝트 필터</h1>
+  <p>문서 전체에서 "바로 실행 가능한 프로젝트"만 모아 필터링합니다. 중복군은 canonical 문서로 통합 기준을 제시합니다.</p>
+
+  <div class="card" id="recommend"></div>
+
+  <div class="bar">
+    <input id="q" placeholder="프로젝트/키워드 검색" />
+    <select id="exec">
+      <option value="ALL">실행상태: 전체</option>
+      <option value="YES">즉시 실행 가능</option>
+      <option value="NO">준비 필요</option>
+    </select>
+    <select id="dupe">
+      <option value="ALL">중복군: 전체</option>
+      <option value="YES">중복군 있음</option>
+      <option value="NO">중복군 없음</option>
+    </select>
+  </div>
+
+  <table>
+    <thead><tr><th>프로젝트</th><th>즉시실행</th><th>가능성 점수</th><th>Canonical 문서</th><th>중복군</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+<script>
+const items = [
+  {
+    name:'Service Monetization (외주/코칭/자동화)', exec:'YES', score:92,
+    canonical:'/md-viewer.html?file=/projects/service-monetization/product-engineering-master-spec.md',
+    dupe:'YES', dupeGroup:'/md-viewer.html?file=/projects/service-monetization/consolidation-map.md',
+    why:'네 경력/네트워크/목표금액과 직접 연결됨'
+  },
+  {
+    name:'Threads Tools (성과분석+벌크예약)', exec:'YES', score:88,
+    canonical:'/md-viewer.html?file=/projects/threads-insight-pro/content-ops-and-bulk-scheduler-spec.md',
+    dupe:'YES', dupeGroup:'/md-viewer.html?file=/projects/threads-insight-pro/README.md',
+    why:'본인 painkiller가 명확하고 서비스 번들로 빠른 유료화 가능'
+  },
+  {
+    name:'광주 오프라인 Vibe Coding 워크숍', exec:'YES', score:84,
+    canonical:'/md-viewer.html?file=/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md',
+    dupe:'NO', dupeGroup:'-',
+    why:'지역 네트워크 레버리지 가능, 단기 캐시플로우 가능'
+  },
+  {
+    name:'Retire Sim (노후준비 시뮬레이터)', exec:'NO', score:63,
+    canonical:'/md-viewer.html?file=/projects/retire-sim/prd-v1.md',
+    dupe:'YES', dupeGroup:'/projects/retire-sim/',
+    why:'문서는 많지만 제품 개발/검증 사이클이 더 필요'
+  },
+  {
+    name:'Bogle Ops/Beginner Kit 콘텐츠 운영', exec:'YES', score:76,
+    canonical:'/projects/bogle-beginner-kit/',
+    dupe:'YES', dupeGroup:'/md-viewer.html?file=/projects/internal/WORKQUEUE.md',
+    why:'콘텐츠 자산은 강하지만 즉시 매출 연결은 설계 필요'
+  }
+];
+
+const recommend = items.filter(x=>x.exec==='YES').sort((a,b)=>b.score-a.score)[0];
+document.getElementById('recommend').innerHTML = `
+  <strong>추천 1순위:</strong> ${recommend.name} (점수 ${recommend.score})<br/>
+  근거: ${recommend.why}<br/>
+  바로 시작: <a href="${recommend.canonical}">canonical 실행 문서 열기</a>
+`;
+
+function badge(exec){ return exec==='YES' ? '<span class="badge ok">YES</span>' : '<span class="badge warn">NO</span>'; }
+
+function render(){
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const ex = document.getElementById('exec').value;
+  const du = document.getElementById('dupe').value;
+  const rows = items.filter(i => (ex==='ALL'||i.exec===ex) && (du==='ALL'||i.dupe===du) && (!q || (i.name+i.why).toLowerCase().includes(q)));
+  document.getElementById('rows').innerHTML = rows.map(i=>`
+    <tr>
+      <td>${i.name}<br/><small>${i.why}</small></td>
+      <td>${badge(i.exec)}</td>
+      <td>${i.score}</td>
+      <td><a href="${i.canonical}">열기</a></td>
+      <td>${i.dupe==='YES' ? `<a href="${i.dupeGroup}">통합기준 보기</a>` : '-'}</td>
+    </tr>
+  `).join('');
+}
+['q','exec','dupe'].forEach(id=>document.getElementById(id).addEventListener('input',render));
+render();
+</script>
+</body>
+</html>
