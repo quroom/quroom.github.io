@@ -26,6 +26,7 @@
 | [/projects/academy-mvp/suneung-english-item-generator-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/suneung-english-item-generator-plan-v1.md) | 미확인 | 수능 영어 문항 생성 서비스 큰 틀 계획 |
 | [/projects/interest-story-english/README.md](/md-viewer.html?file=/projects/interest-story-english/README.md) | 미확인 | 관심사 기반 이중언어 스토리 영어학습 프로젝트 허브 |
 | [/projects/interest-story-english/PRD.md](/md-viewer.html?file=/projects/interest-story-english/PRD.md) | 미확인 | 관심사 기반 이중언어 스토리 서비스 PRD v2 (초입문 모드 포함) |
+| [/projects/interest-story-english/competitor-and-market-gap-analysis.md](/md-viewer.html?file=/projects/interest-story-english/competitor-and-market-gap-analysis.md) | 미확인 | 경쟁 앱 및 시장 틈새 분석 |
 
 ---
 

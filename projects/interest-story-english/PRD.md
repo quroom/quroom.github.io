@@ -229,3 +229,15 @@
 - 1차 파일럿(4주): 무료
 - 2차 파일럿: 월 구독형 테스트(가벼운 가격)
 - 초기 목적: 수익보다 유지율/재방문 검증 우선
+
+## 15) 경쟁/시장 틈새 요약
+상세 문서: [competitor-and-market-gap-analysis.md](/md-viewer.html?file=/projects/interest-story-english/competitor-and-market-gap-analysis.md)
+
+- 인접 경쟁군:
+  - 라이브러리형(Epic, Raz-Kids)
+  - 파닉스 게임형(Teach Your Monster, Starfall, Duolingo ABC)
+- 핵심 틈새:
+  1) 관심사 기반 분기형 스토리의 부재
+  2) 파닉스 미완성(L0.5) 보호 UX 부족
+  3) 부모 관점의 스트레스/지속 지표 부재
+  4) 역사 사실/가상 시나리오 라벨링 학습 부족

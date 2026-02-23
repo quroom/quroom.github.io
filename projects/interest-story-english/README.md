@@ -4,6 +4,7 @@
 
 ## 핵심 문서
 - [PRD Draft v1](./PRD.md)
+- [경쟁 서비스/시장 틈새 분석](./competitor-and-market-gap-analysis.md)
 
 ## 비고
 - 기존 Academy MVP의 기획 문서는 본 프로젝트로 분리/통합했습니다.
