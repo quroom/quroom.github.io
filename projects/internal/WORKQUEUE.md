@@ -16,7 +16,7 @@
 ## 실행 보드 (1인 기업 모드)
 
 ### NOW (1개만)
-- [OPS-002] WORKQUEUE 대시보드 단일화/정비
+- [BGL-011] 4주 연재 업로드 순서표 + 게시 캘린더 문서화
 
 ### NEXT (최대 3개)
 - [BGL-201] 카페 초보자용 지수투자 시작 가이드 10편
@@ -282,7 +282,7 @@
   - cron job: `bogle-heartbeat` (every 10m, session=main, system-event)
 
 ### [OPS-002] WORKQUEUE 대시보드 구축
-- Status: DOING
+- Status: DONE
 - Output:
   - [`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md)와 연동
@@ -513,3 +513,5 @@
 - 2026-02-22: BGL-208 완료 ([`/projects/bogle-beginner-kit/no-go-checklist-200.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/no-go-checklist-200.md), commit: fe8820b)`
 - 2026-02-22: BGL-209 완료 ([`/projects/bogle-beginner-kit/notice-refactor-20sets.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/notice-refactor-20sets.md), commit: 82ac781)`
 - 2026-02-22: BGL-210 완료 ([`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md), commit: 5330841)`
+
+- 2026-02-23: OPS-002 완료 ([`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html), 단일 소스 우선 로딩 + 상태필터 유지)

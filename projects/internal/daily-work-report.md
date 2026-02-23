@@ -241,3 +241,11 @@
   - [/projects/internal/important-files-index.md](/md-viewer.html?file=/projects/internal/important-files-index.md) 인덱스 반영
 - 비고: 단기/중기/장기 + 외주/에이전시 + 명함 접점 스크립트 통합
 
+
+## 2026-02-23
+- 처리 작업: **OPS-002 WORKQUEUE 대시보드 단일화/정비**
+- 결과 파일: [`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html)
+- 보강 작업:
+  - [`/WORKQUEUE.md`](/md-viewer.html?file=/WORKQUEUE.md) 우선 로딩 + [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) fallback 로직 반영
+  - [`/WORKQUEUE.md`](/md-viewer.html?file=/WORKQUEUE.md), [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `DOING → DONE` 반영
+- 비고: 대시보드에 실제 로드된 소스 경로 표시 추가

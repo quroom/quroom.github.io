@@ -25,7 +25,7 @@
 <body>
   <div class="top"><a href="/">← 홈</a> · <a href="/projects/internal/">internal</a> · <a href="/md-viewer.html?file=/projects/internal/WORKQUEUE.md">원문 보기</a></div>
   <h1>WORKQUEUE Dashboard</h1>
-  <p class="muted">소스: <a href="/md-viewer.html?file=/projects/internal/WORKQUEUE.md"><code>/projects/internal/WORKQUEUE.md</code></a> · <span id="updatedAt">업데이트 확인 중...</span></p>
+  <p class="muted">소스: <a href="/md-viewer.html?file=/WORKQUEUE.md"><code>/WORKQUEUE.md</code></a> (우선) · <a href="/md-viewer.html?file=/projects/internal/WORKQUEUE.md"><code>/projects/internal/WORKQUEUE.md</code></a> (fallback) · <span id="updatedAt">업데이트 확인 중...</span></p>
 
   <div class="cards" id="summary"></div>
 
@@ -43,8 +43,17 @@
 
 <script>
 async function run(){
-  const res = await fetch('/projects/internal/WORKQUEUE.md', { cache: 'no-store' });
-  const md = await res.text();
+  let md = '';
+  let sourcePath = '/WORKQUEUE.md';
+  try {
+    const primary = await fetch('/WORKQUEUE.md', { cache: 'no-store' });
+    if (!primary.ok) throw new Error('primary-not-ok');
+    md = await primary.text();
+  } catch (e) {
+    const fallback = await fetch('/projects/internal/WORKQUEUE.md', { cache: 'no-store' });
+    md = await fallback.text();
+    sourcePath = '/projects/internal/WORKQUEUE.md';
+  }
 
   const board = { NOW: [], NEXT: [], LATER: [] };
   let current = null;
@@ -72,7 +81,7 @@ async function run(){
   const counts = {PENDING:0, DOING:0, DONE:0, BLOCKED:0};
   tasks.forEach(t => counts[t.status] = (counts[t.status]||0)+1);
 
-  document.getElementById('updatedAt').textContent = `최근 갱신: ${new Date().toLocaleString('ko-KR')}`;
+  document.getElementById('updatedAt').textContent = `최근 갱신: ${new Date().toLocaleString('ko-KR')} · 로드소스: ${sourcePath}`;
 
   const summary = document.getElementById('summary');
   summary.innerHTML = `
