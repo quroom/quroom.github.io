@@ -233,6 +233,8 @@
 ## 15) 경쟁/시장 틈새 요약
 상세 문서: [competitor-and-market-gap-analysis.md](/md-viewer.html?file=/projects/interest-story-english/competitor-and-market-gap-analysis.md)
 
+기술스택/구현 상세: [tech-stack-and-implementation-research.md](/md-viewer.html?file=/projects/interest-story-english/tech-stack-and-implementation-research.md)
+
 - 인접 경쟁군:
   - 라이브러리형(Epic, Raz-Kids)
   - 파닉스 게임형(Teach Your Monster, Starfall, Duolingo ABC)
