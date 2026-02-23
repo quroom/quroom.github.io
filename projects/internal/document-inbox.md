@@ -12,6 +12,7 @@
 | [/projects/bogle-ops/kr-etf-report-v4.html](/projects/bogle-ops/kr-etf-report-v4.html) | 미확인 | 데이터 소스(ETFCheck) 명시 업데이트 |
 | [/projects/internal/workqueue-dashboard.html](/projects/internal/workqueue-dashboard.html) | 미확인 | WORKQUEUE 단일소스+fallback 반영 |
 | [/projects/service-monetization/product-engineering-master-spec.md](/md-viewer.html?file=/projects/service-monetization/product-engineering-master-spec.md) | 미확인 | 기획/개발/운영/마케팅 통합 마스터 스펙 |
+| [/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md](/md-viewer.html?file=/projects/service-monetization/gwangju-vibe-coding-workshop-execution-kit.md) | 미확인 | 광주 오프라인 강의 실행 문서 (PRD~로드맵) |
 
 ---
 
