@@ -29,7 +29,7 @@
 ## Queue
 
 ### [BGL-011] 4주 연재 업로드 순서표 + 게시 캘린더 문서화
-- Status: DOING
+- Status: DONE
 - Output:
   - [`/projects/bogle-ops/publishing-calendar.md`](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md)
   - docs/index 링크 반영
@@ -515,3 +515,4 @@
 - 2026-02-22: BGL-210 완료 ([`/projects/bogle-beginner-kit/copy-paste-pack-v1.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/copy-paste-pack-v1.md), commit: 5330841)`
 
 - 2026-02-23: OPS-002 완료 ([`/projects/internal/workqueue-dashboard.html`](/projects/internal/workqueue-dashboard.html), 단일 소스 우선 로딩 + 상태필터 유지)
+- 2026-02-23: BGL-011 완료 ([`/projects/bogle-ops/publishing-calendar.md`](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md))

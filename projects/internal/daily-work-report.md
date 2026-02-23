@@ -249,3 +249,9 @@
   - [`/WORKQUEUE.md`](/md-viewer.html?file=/WORKQUEUE.md) 우선 로딩 + [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) fallback 로직 반영
   - [`/WORKQUEUE.md`](/md-viewer.html?file=/WORKQUEUE.md), [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `DOING → DONE` 반영
 - 비고: 대시보드에 실제 로드된 소스 경로 표시 추가
+- 처리 작업: **BGL-011 4주 연재 업로드 순서표 + 게시 캘린더 문서화**
+- 결과 파일: [`/projects/bogle-ops/publishing-calendar.md`](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md)
+- 보강 작업:
+  - [`/projects/bogle-ops/index.html`](/projects/bogle-ops/) 문서 목록 링크 추가
+  - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `DOING → DONE` 반영
+- 비고: 주3회(월/수/금) 업로드 순서와 월간 리듬을 고정
