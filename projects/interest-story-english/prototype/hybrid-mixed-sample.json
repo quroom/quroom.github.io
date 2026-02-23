@@ -1,0 +1,21 @@
+{
+  "bookId": "sample-mixed-001",
+  "title": "What If History Changed? (Mixed Mode)",
+  "policy": {
+    "templatePages": [1,2,4,5,7,8,10],
+    "aiOrStockPages": [3,6,9],
+    "note": "저비용 혼합: 템플릿 7 + 실사/생성 3"
+  },
+  "pages": [
+    {"page":1,"sourceType":"template","layout":"image-top-text-bottom","template":"city_morning","character":"leo","emotion":"curious","text":{"en":"Leo opens a secret map.","ko":"레오는 비밀 지도를 펼쳤어요."}},
+    {"page":2,"sourceType":"template","layout":"left-image-right-text","template":"library_light","character":"mina","emotion":"thinking","text":{"en":"Mina asks a new question.","ko":"미나는 새로운 질문을 했어요."}},
+    {"page":3,"sourceType":"stock-photo","layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=1200&q=80","text":{"en":"They discover a clue from history.","ko":"두 아이는 역사 속 단서를 발견했어요."}},
+    {"page":4,"sourceType":"template","layout":"left-image-right-text","template":"museum_hall","character":"teacher_j","emotion":"calm","text":{"en":"Teacher J explains the facts.","ko":"선생님은 사실을 차분히 설명해요."}},
+    {"page":5,"sourceType":"template","layout":"left-image-right-text","template":"old_map_room","character":"explorer_kai","emotion":"brave","text":{"en":"Kai suggests a bold idea.","ko":"카이는 용감한 생각을 제안했어요."}},
+    {"page":6,"sourceType":"stock-photo","layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1526779259212-939e64788e3c?auto=format&fit=crop&w=1200&q=80","text":{"en":"What if the timeline changed here?","ko":"만약 여기서 시간선이 바뀌면 어떨까?"}},
+    {"page":7,"sourceType":"template","layout":"left-image-right-text","template":"river_bridge","character":"friend_noa","emotion":"surprised","text":{"en":"Noa finds a hidden symbol.","ko":"노아는 숨겨진 상징을 찾았어요."}},
+    {"page":8,"sourceType":"template","layout":"left-image-right-text","template":"cloudy_hill","character":"leo","emotion":"thinking","text":{"en":"Leo writes his opinion.","ko":"레오는 자기 의견을 적어요."}},
+    {"page":9,"sourceType":"stock-photo","layout":"left-image-right-text","image":"https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80","text":{"en":"They choose the next path.","ko":"두 아이는 다음 길을 선택했어요."}},
+    {"page":10,"sourceType":"template","layout":"left-image-right-text","template":"sunset_field","character":"mina","emotion":"happy","text":{"en":"The story ends with a new beginning.","ko":"이야기는 새로운 시작으로 끝나요."}}
+  ]
+}

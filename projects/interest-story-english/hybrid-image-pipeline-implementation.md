@@ -69,6 +69,7 @@
 - 샘플 입력 JSON 3페이지 구성
 - 렌더 결과 HTML 생성 성공
 - 레이어 조합 + 한/영 텍스트 병렬 표시 확인
+- 혼합 모드(10페이지: 템플릿 7 + 실사/생성 3) 렌더 성공
 
 샘플 결과물(이모지 mock):
 - [/projects/interest-story-english/prototype/hybrid-story-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-story-sample.json)
@@ -78,6 +79,10 @@
 - [/projects/interest-story-english/prototype/hybrid-story-real-assets-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-story-real-assets-sample.json)
 - [/projects/interest-story-english/prototype/rendered-real-assets-sample.html](/projects/interest-story-english/prototype/rendered-real-assets-sample.html)
 
+혼합 모드 테스트 결과물(10p):
+- [/projects/interest-story-english/prototype/hybrid-mixed-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/hybrid-mixed-sample.json)
+- [/projects/interest-story-english/prototype/rendered-hybrid-mixed-sample.html](/projects/interest-story-english/prototype/rendered-hybrid-mixed-sample.html)
+
 만화 템플릿 테스트 결과물:
 - [/projects/interest-story-english/prototype/cartoon-template-sample.json](/md-viewer.html?file=/projects/interest-story-english/prototype/cartoon-template-sample.json)
 - [/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html](/projects/interest-story-english/prototype/rendered-cartoon-template-sample.html)
@@ -86,3 +91,4 @@
 - [/projects/interest-story-english/prototype/render_hybrid_sample.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_sample.py)
 - [/projects/interest-story-english/prototype/render_hybrid_real_assets.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_real_assets.py)
 - [/projects/interest-story-english/prototype/render_cartoon_template.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_cartoon_template.py)
+- [/projects/interest-story-english/prototype/render_hybrid_mixed.py](/md-viewer.html?file=/projects/interest-story-english/prototype/render_hybrid_mixed.py)
