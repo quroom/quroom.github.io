@@ -17,6 +17,8 @@
 | [/projects/service-monetization/consolidation-map.md](/md-viewer.html?file=/projects/service-monetization/consolidation-map.md) | 미확인 | 중복 문서 통합 기준(canonical) |
 | [/projects/service-monetization/file-search.html](/projects/service-monetization/file-search.html) | 미확인 | 외주/코칭/자동화 파일 검색·필터 대시보드 |
 | [/search.html](/search.html) | 미확인 | 홈 진입용 전체 카테고리 파일 검색 |
+| [/projects/academy-mvp/home-selfstudy-plan-grade5.md](/md-viewer.html?file=/projects/academy-mvp/home-selfstudy-plan-grade5.md) | 미확인 | 초5 집공부 통합 플랜 |
+| [/projects/academy-mvp/phonics-beginner-pack-grade5.md](/md-viewer.html?file=/projects/academy-mvp/phonics-beginner-pack-grade5.md) | 미확인 | 초5 파닉스 왕초보 보강팩 |
 
 ---
 
