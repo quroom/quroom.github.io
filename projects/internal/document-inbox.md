@@ -22,6 +22,7 @@
 | [/projects/academy-mvp/teach-your-monster-2week-routine-grade5.md](/md-viewer.html?file=/projects/academy-mvp/teach-your-monster-2week-routine-grade5.md) | 미확인 | TYM 기준 2주 파닉스 루틴 |
 | [/projects/academy-mvp/daily-study-planner-grade5-v1.md](/md-viewer.html?file=/projects/academy-mvp/daily-study-planner-grade5-v1.md) | 미확인 | 초5 매일 공부 계획표 |
 | [/projects/academy-mvp/suneung-english-item-generator-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/suneung-english-item-generator-plan-v1.md) | 미확인 | 수능 영어 문항 생성 서비스 큰 틀 계획 |
+| [/projects/academy-mvp/interest-based-bilingual-story-english-service-plan-v1.md](/md-viewer.html?file=/projects/academy-mvp/interest-based-bilingual-story-english-service-plan-v1.md) | 미확인 | 관심사 기반 이중언어 스토리 영어학습 계획 |
 
 ---
 
