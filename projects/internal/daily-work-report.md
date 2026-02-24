@@ -343,3 +343,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 공감형/실행형/참여형 CTA 라이브러리 추가
 - 커밋: `98e2c14`
+
+- 처리 작업(서비스): **Pricing Ladder 실전안 (옵션 3개 + 앵커링 문구)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/06-pricing-ladder.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/06-pricing-ladder.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: Lite/Standard/Premium 견적 옵션표 + 앵커링 문구 추가
+- 처리 작업(카페): **카페 게시 전 QA 체크리스트 강화**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 과장/권유 금지 + 보글원칙/소속감/CTA 포함 여부 체크 항목 추가
+- 커밋: `817e913`

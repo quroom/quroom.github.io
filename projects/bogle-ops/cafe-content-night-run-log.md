@@ -15,3 +15,4 @@
 - 2026-02-25 00:00 | picked=Day7 초안(본업 집중) | result=DONE | commit=43fec68 | note=cafe-writing-ops Day7 초안 추가
 - 2026-02-25 00:10 | picked=훅 3종(A/B/C) 라이브러리 생성 | result=DONE | commit=965489c | note=cafe-writing-ops 훅 라이브러리 추가
 - 2026-02-25 00:20 | picked=마무리 질문/CTA 3종 생성 | result=DONE | commit=98e2c14 | note=cafe-writing-ops CTA 라이브러리 추가
+- 2026-02-25 00:30 | picked=카페 게시 전 QA 체크리스트 강화 | result=DONE | commit=817e913 | note=과장/권유 금지 + 소속감/CTA 체크항목 추가
