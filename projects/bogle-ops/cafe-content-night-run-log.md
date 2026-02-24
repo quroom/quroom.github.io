@@ -9,3 +9,4 @@
 - 2026-02-24 23:10 | picked=Day1 본문 초안(직투 vs 국내상장 해외ETF) 개선본 | result=DONE | commit=ca35ade | note=cafe-writing-ops에 Day1 개선본 추가
 - 2026-02-24 23:20 | picked=Day2 초안(FOMO 자산배분 기준) | result=DONE | commit=976f003 | note=cafe-writing-ops에 Day2 초안 추가
 - 2026-02-24 23:30 | picked=Day3 초안(지루한 횡보장 원칙 유지) | result=DONE | commit=c250aca | note=cafe-writing-ops에 Day3 초안 추가
+- 2026-02-24 23:32 | picked=Day4 초안(남의 수익 인증샷 흔들림 체크리스트) | result=DONE | commit=3746d29 | note=cafe-writing-ops Day4 초안 추가

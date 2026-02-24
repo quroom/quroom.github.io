@@ -294,3 +294,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 횡보장 심리 대처 + 체크리스트 중심 실전형 본문
 - 커밋: `c250aca`
+
+- 처리 작업(서비스): **n8n/Make 플로우 설계서 작성(BIZ-126)**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: Trigger→Queue→Execute→QA→Git→Report 흐름 + 실패복구/시간초과 규칙
+- 처리 작업(카페): **Day4 초안(남의 수익 인증샷에 흔들릴 때 체크리스트)**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 비교심리 대응 4문항 체크리스트 + 커뮤니티 참여 유도형 마무리
+- 커밋: `3746d29`
