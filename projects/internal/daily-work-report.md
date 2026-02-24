@@ -302,3 +302,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 비교심리 대응 4문항 체크리스트 + 커뮤니티 참여 유도형 마무리
 - 커밋: `3746d29`
+
+- 처리 작업(서비스): **ICP 세분화 v2 (업종 3세그먼트 + Not ICP 강화)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/01-icp-segment.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/01-icp-segment.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 3개 세그먼트(로컬서비스/B2B소팀/1인크리에이터) + Not ICP 강화
+- 처리 작업(카페): **Day5 초안(보수 0.x% 차이가 장기에 미치는 영향)**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 비용은 고정/수익률은 변동 관점 + 비용 체크 3요소 + 커뮤니티 질문 마무리
+- 커밋: `592398a`
