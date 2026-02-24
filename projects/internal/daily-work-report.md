@@ -278,3 +278,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 사용자 톤 기반 실전형/공감형 본문 + 커뮤니티 참여 유도 마무리
 - 커밋: `ca35ade`
+
+- 처리 작업(서비스): **1인기업 최적 고객접점 전략 + 일일 루틴 + AI 피드백루프 설계**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: BIZ-124 추가(일일 루틴, 채널 우선순위, AI 피드백 루프, 자동화 후보)
+- 처리 작업(카페): **Day2 초안(FOMO가 심할 때 자산배분 조정 기준)**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 사용자 톤 기반 공감형 본문 + 기준표 중심 실전 메시지
+- 커밋: `976f003`
