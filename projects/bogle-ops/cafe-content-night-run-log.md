@@ -18,3 +18,4 @@
 - 2026-02-25 00:30 | picked=카페 게시 전 QA 체크리스트 강화 | result=DONE | commit=817e913 | note=과장/권유 금지 + 소속감/CTA 체크항목 추가
 - 2026-02-25 00:40 | picked=댓글 유도 1문장 요약본 생성 | result=DONE | commit=636eeff | note=Day1~Day7 요약문 14개 추가
 - 2026-02-25 00:50 | picked=주간 운영팩(업로드 순서+감정선) | result=DONE | commit=9f37195 | note=요일별 감정선/행동목표 추가
+- 2026-02-25 01:00 | picked=성과회고 템플릿 추가 | result=DONE | commit=0508c9c | note=주간 회고+다음 주제 추천 규칙 추가

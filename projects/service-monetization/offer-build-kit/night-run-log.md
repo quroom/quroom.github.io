@@ -18,3 +18,4 @@
 - 2026-02-25 00:30 | queue=service-monetization | picked=Pricing Ladder 실전안 | result=DONE | commit=817e913 | note=옵션표(Lite/Standard/Premium)+앵커링 문구 추가
 - 2026-02-25 00:40 | queue=service-monetization | picked=Proof/Trust 보강(사례카드 템플릿) | result=DONE | commit=636eeff | note=운영효율형/전환개선형 템플릿 추가
 - 2026-02-25 00:50 | queue=service-monetization | picked=Conversion Flow 개선(채널별 CTA A/B) | result=DONE | commit=9f37195 | note=LinkedIn/Threads/오프라인 CTA A/B 및 운영규칙 추가
+- 2026-02-25 01:00 | queue=service-monetization | picked=Landing Copy 팩 확장(A/B) | result=DONE | commit=0508c9c | note=보수형/공격형 랜딩 카피 variant 추가

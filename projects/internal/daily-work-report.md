@@ -367,3 +367,11 @@
   - 결과 파일: [/projects/bogle-ops/publishing-calendar.md](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 요일별 주제/감정선/행동목표 + 훅 운영 메모 추가
 - 커밋: `9f37195`
+
+- 처리 작업(서비스): **Landing Copy 팩 확장 (보수형/공격형 버전)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/09-landing-copy-pack.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/09-landing-copy-pack.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 랜딩 Variant A(보수형)/B(공격형) 헤드라인·서브·CTA 추가
+- 처리 작업(카페): **성과회고 템플릿(저장/댓글/공감 기반) 추가**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 주간 회고 템플릿 + 다음 주제 추천 규칙 추가
+- 커밋: `0508c9c`
