@@ -351,3 +351,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 과장/권유 금지 + 보글원칙/소속감/CTA 포함 여부 체크 항목 추가
 - 커밋: `817e913`
+
+- 처리 작업(서비스): **Proof/Trust 보강 (사례카드 템플릿 2종 추가)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/07-proof-trust.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/07-proof-trust.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 운영효율 개선형/전환개선형 사례카드 템플릿 + 신뢰표시 규칙 추가
+- 처리 작업(카페): **댓글 유도용 1문장 요약본(게시글별 2개) 생성**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: Day1~Day7 요약 14개(댓글 유도용) 추가
+- 커밋: `636eeff`
