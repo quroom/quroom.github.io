@@ -318,3 +318,12 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 리밸런싱 불편함=규칙 작동 신호 관점 + 기준표 공유 CTA
 - 커밋: `d21215a`
+
+## 2026-02-25 (Night Ralph Loop)
+- 처리 작업(서비스): **Outcome KPI 보강 (2주/4주 기준선-목표값 추가)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/03-outcome-definition.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/03-outcome-definition.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: KPI 기준선/2주/4주 목표 매트릭스 + 측정주기 추가
+- 처리 작업(카페): **Day7 초안(본업 집중이 최고의 투자전략인 이유)**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 본업=현금흐름 엔진 관점 + 투자/본업 균형 루틴 메시지
+- 커밋: `43fec68`

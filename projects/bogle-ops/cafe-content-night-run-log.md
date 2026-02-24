@@ -12,3 +12,4 @@
 - 2026-02-24 23:32 | picked=Day4 초안(남의 수익 인증샷 흔들림 체크리스트) | result=DONE | commit=3746d29 | note=cafe-writing-ops Day4 초안 추가
 - 2026-02-24 23:40 | picked=Day5 초안(보수 0.x% 장기영향) | result=DONE | commit=592398a | note=cafe-writing-ops Day5 초안 추가
 - 2026-02-24 23:50 | picked=Day6 초안(리밸런싱 불편함) | result=DONE | commit=d21215a | note=cafe-writing-ops Day6 초안 추가
+- 2026-02-25 00:00 | picked=Day7 초안(본업 집중) | result=DONE | commit=43fec68 | note=cafe-writing-ops Day7 초안 추가
