@@ -400,3 +400,8 @@
   - 결과 파일: [/projects/service-monetization/regional-go-to-market.md](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: Week1~4 동기화 플랜 + 주간 산출물(리포트/실험로그/Top3) 추가
 - 커밋: `7230c0f`
+
+- 처리 작업(서비스): **주간 실행 브리프 템플릿 추가 (월~금 1페이지)**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: BIZ-127 추가(주간 목표/요일별 핵심작업/리스크/금요일 마감체크)
+- 커밋: `a293e06`
