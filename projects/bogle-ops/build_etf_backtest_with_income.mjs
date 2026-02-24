@@ -169,32 +169,40 @@ table{border-collapse:collapse;width:100%;margin:8px 0 16px;font-size:14px}
 th,td{border:1px solid #e5e7eb;padding:8px;vertical-align:top}
 .note{background:#fffbeb;border:1px solid #fde68a;padding:10px;border-radius:8px;margin:8px 0}
 .grid{display:grid;grid-template-columns:1fr;gap:18px}
+.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
 pre{white-space:pre-wrap;background:#f8fafc;padding:12px;border:1px solid #e5e7eb;border-radius:8px}
+@media (max-width: 768px){
+  body{margin:12px auto;padding:0 10px;font-size:14px}
+  h1{font-size:1.25rem;line-height:1.35}
+  h2{font-size:1.05rem;line-height:1.35}
+  th,td{padding:6px;font-size:12px;white-space:nowrap}
+  .note{font-size:13px;padding:8px}
+}
 </style></head><body>
 <h1>ETF 티커 기반 백테스트 확장판 (실데이터 + 배당재투자 근사)</h1>
 <p class='note'>데이터: Stooq 종가 / 기간: ${dates[0]}~${dates.at(-1)}. 아래 '배당재투자 근사'는 순배당률 가정(SCHD 2.7%, JEPI 6.4%, SPY 1.2%)을 일할 반영한 교육용 모델입니다.</p>
 
 <div class='grid'>
-<section><h2>① 가격기준(Price-only)</h2><canvas id='c1' style='max-height:360px'></canvas><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(priceMet)}</tbody></table></section>
-<section><h2>② 배당재투자 근사(Total Return Approx.)</h2><canvas id='c2' style='max-height:360px'></canvas><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(trMet)}</tbody></table></section>
+<section><h2>① 가격기준(Price-only)</h2><canvas id='c1' style='max-height:360px'></canvas><div class='table-wrap'><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(priceMet)}</tbody></table></div></section>
+<section><h2>② 배당재투자 근사(Total Return Approx.)</h2><canvas id='c2' style='max-height:360px'></canvas><div class='table-wrap'><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(trMet)}</tbody></table></div></section>
 </div>
 
 <section>
   <h2>③ 10년/20년/30년 장기 시뮬레이션 (일시금 복리)</h2>
   <p>배당재투자 근사 CAGR을 미래에도 동일하게 적용한 단순 복리 모델입니다. (원금: 1천만원, 1억원)</p>
-  <table>
+  <div class='table-wrap'><table>
     <thead><tr><th>전략</th><th>CAGR(근사)</th><th>성장배수(10/20/30년)</th><th>1천만원 10년</th><th>1천만원 20년</th><th>1천만원 30년</th><th>1억원 10년</th><th>1억원 20년</th><th>1억원 30년</th></tr></thead>
     <tbody>${projRows}</tbody>
-  </table>
+  </table></div>
 </section>
 
 <section>
   <h2>④ 적립식 시뮬레이션 (월 50만원 / 100만원)</h2>
   <p>월말 적립을 가정한 단순 복리 모델입니다. (배당재투자 근사 CAGR 적용)</p>
-  <table>
+  <div class='table-wrap'><table>
     <thead><tr><th>전략</th><th>CAGR(근사)</th><th>월50만 10년</th><th>월50만 20년</th><th>월50만 30년</th><th>월100만 10년</th><th>월100만 20년</th><th>월100만 30년</th></tr></thead>
     <tbody>${dcaRows}</tbody>
-  </table>
+  </table></div>
 </section>
 
 <section>
