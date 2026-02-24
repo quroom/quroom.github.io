@@ -415,3 +415,8 @@
   - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/first-10-customers-plan.md](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 소개요청/콜드DM/재접촉 템플릿 + 일일 운영 규칙(신규5/재접촉5) 추가
 - 커밋: `3d21809`
+
+- 처리 작업(서비스): **상담콜 질문지 고도화 (진단→제안 전환형)**
+  - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 병목/기회손실/의사결정/예산/성공지표 기반 질문셋 + 콜 후반 전환질문 추가
+- 커밋: `4a3c5fb`
