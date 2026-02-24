@@ -27,7 +27,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 14 | 채널 전략 상세화 (채널별 주간 운영표/콘텐츠 타입) | DONE | `execution-playbook.md` (BIZ-121) |
 | 15 | 리드 수집 자동화 설계 (소스→정제→스코어→큐) | DONE | `execution-playbook.md` (BIZ-122) |
 | 16 | 콜드아웃리치 컴플라이언스 체크리스트 추가 | DONE | `execution-playbook.md` (BIZ-122) |
-| 17 | KPI 대시보드 항목 확장 (채널/퍼널/매출 지표) | PENDING | `unit-economics-dashboard.md` |
+| 17 | KPI 대시보드 항목 확장 (채널/퍼널/매출 지표) | DONE | `unit-economics-dashboard.md` |
 | 18 | 4주 GTM 실행 플랜 동기화 (채널+오퍼+퍼널 반영) | PENDING | `regional-go-to-market.md` |
 | 19 | 주간 실행 브리프 템플릿 추가 (월~금 해야 할 일 1페이지) | PENDING | `execution-playbook.md` (신규 BIZ-124) |
 | 20 | 채널별 콘텐츠 캘린더 고도화 (LinkedIn/Threads/지역모임 분리) | PENDING | `content-calendar-4weeks.md` |
