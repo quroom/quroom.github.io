@@ -32,3 +32,4 @@
 - 2026-02-25 02:20 | queue=service-monetization | picked=주간 KPI 리뷰 루틴 상세화 | result=DONE | commit=4ac1d5b | note=실행형 체크리스트/출력 포맷 추가
 - 2026-02-25 02:20 | queue=service-monetization | picked=리퍼럴 요청 자동 루프 설계 | result=DONE | commit=4ac1d5b | note=D+7/D+30 메시지/자동화 규칙 추가
 - 2026-02-25 02:20 | queue=service-monetization | picked=아침 요약 리포트 포맷 고정 | result=DONE | commit=fbaede3 | note=daily-work-report 고정 요약 포맷 추가
+- 2026-02-25 04:00 | queue=service-monetization | picked=inbox 편입: 콜드DM 오프너 20개 추가 | result=DONE | commit=b3d7588 | note=sales-call-script 오프너 20개 추가 + inbox 처리 + night-queue 반영
