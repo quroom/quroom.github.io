@@ -14,3 +14,4 @@
 - 2026-02-24 23:50 | queue=service-monetization | picked=Problem Inventory 정량화 | result=DONE | commit=d21215a | note=기준선/2주 목표/측정방식 추가
 - 2026-02-25 00:00 | queue=service-monetization | picked=Outcome KPI 보강 | result=DONE | commit=43fec68 | note=기준선/2주/4주 KPI 매트릭스 추가
 - 2026-02-25 00:10 | queue=service-monetization | picked=Scope 경계 강화(Change Request 템플릿) | result=DONE | commit=965489c | note=CR 템플릿/승인문구/분쟁방지 규칙 추가
+- 2026-02-25 00:20 | queue=service-monetization | picked=Delivery 아키텍처 고도화(RACI) | result=DONE | commit=98e2c14 | note=역할/의사결정 책임표 추가

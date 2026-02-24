@@ -14,3 +14,4 @@
 - 2026-02-24 23:50 | picked=Day6 초안(리밸런싱 불편함) | result=DONE | commit=d21215a | note=cafe-writing-ops Day6 초안 추가
 - 2026-02-25 00:00 | picked=Day7 초안(본업 집중) | result=DONE | commit=43fec68 | note=cafe-writing-ops Day7 초안 추가
 - 2026-02-25 00:10 | picked=훅 3종(A/B/C) 라이브러리 생성 | result=DONE | commit=965489c | note=cafe-writing-ops 훅 라이브러리 추가
+- 2026-02-25 00:20 | picked=마무리 질문/CTA 3종 생성 | result=DONE | commit=98e2c14 | note=cafe-writing-ops CTA 라이브러리 추가

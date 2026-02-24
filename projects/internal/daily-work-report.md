@@ -335,3 +335,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 공감형/논리형/경험형 훅 라이브러리 추가
 - 커밋: `965489c`
+
+- 처리 작업(서비스): **Delivery 아키텍처 고도화 (역할/의사결정 책임표)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/05-delivery-architecture.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/05-delivery-architecture.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: RACI 간략표(대표/운영담당/실행담당) 추가
+- 처리 작업(카페): **각 초안 마무리 질문/CTA 3종 생성**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 공감형/실행형/참여형 CTA 라이브러리 추가
+- 커밋: `98e2c14`
