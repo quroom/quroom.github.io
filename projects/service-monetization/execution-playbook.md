@@ -401,3 +401,28 @@
 ### 5) 야간 루프와 연결
 - night queue에서 전일 미완료 항목 우선 처리
 - 아침 보고에 `완료/보류/오늘 액션 3개` 고정 출력
+
+
+## BIZ-125 · 완전 자동화 아키텍처 (Queue Engine + QA Gate + Approval)
+
+### 1) 아키텍처 레이어
+1. Intake Layer: 리드/큐 인박스/콘텐츠 아이디어 수집
+2. Queue Engine: PENDING→DOING→DONE/BLOCKED 상태기계
+3. Execution Worker: 문서작성/리팩터링/링크검증/커밋
+4. QA Gate: 금지어/과장표현/중복/링크깨짐 검사
+5. Approval Gate: 고위험 변경(외부발송/삭제/민감작업) 사용자 승인
+6. Reporting Layer: run-log + daily summary + KPI 대시보드
+
+### 2) 처리 흐름
+- Trigger(heartbeat) → Job Pick → Execute → QA → Commit/Push → Log/Report
+- QA 실패 시 BLOCKED로 전환 + 입력요청 1~3개 자동 기록
+
+### 3) 안정성 규칙
+- WIP 제한: 서비스 2개, 카페 1개
+- 타임박스: heartbeat당 최대 20분
+- 충돌 방지: 동일 파일 동시작업 금지
+- 재시도: 일시 오류는 1회 재시도 후 BLOCKED
+
+### 4) 승인 정책
+- 자동 승인: 문서 생성/수정, 내부 링크/템플릿 개선
+- 수동 승인 필수: 외부 메시지 발송, 삭제성 변경, 민감정보 포함 가능 작업
