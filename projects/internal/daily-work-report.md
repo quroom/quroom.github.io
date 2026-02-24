@@ -447,3 +447,8 @@
   2) __
   3) __
 - 기대효과(KPI): 리드 __ / 상담 __ / 제안 __
+
+- 처리 작업(서비스): **아침 요약 리포트 포맷 고정 (전일 성과/오늘 액션 3개)**
+  - 결과 파일: [/projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 아침 보고 고정 포맷(완료수/핵심완료/BLOCKED/오늘Top3/KPI) 추가
+- 커밋: `fbaede3`

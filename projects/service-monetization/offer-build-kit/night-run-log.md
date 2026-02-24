@@ -31,3 +31,4 @@
 - 2026-02-25 02:10 | queue=service-monetization | picked=제안서 거절 사유 분석 프레임 | result=DONE | commit=0f3938a | note=BIZ-128 분류체계/기록포맷/주간분석질문 추가
 - 2026-02-25 02:20 | queue=service-monetization | picked=주간 KPI 리뷰 루틴 상세화 | result=DONE | commit=4ac1d5b | note=실행형 체크리스트/출력 포맷 추가
 - 2026-02-25 02:20 | queue=service-monetization | picked=리퍼럴 요청 자동 루프 설계 | result=DONE | commit=4ac1d5b | note=D+7/D+30 메시지/자동화 규칙 추가
+- 2026-02-25 02:20 | queue=service-monetization | picked=아침 요약 리포트 포맷 고정 | result=DONE | commit=fbaede3 | note=daily-work-report 고정 요약 포맷 추가
