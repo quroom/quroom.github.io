@@ -385,3 +385,8 @@
   - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 리드 파이프라인 단계/필수필드/운영 규칙 정리
 - 커밋: `151a54e`
+
+- 처리 작업(서비스): **콜드아웃리치 컴플라이언스 체크리스트 추가**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 합법데이터/옵트아웃/소량테스트/도메인평판/불만 대응 규칙 추가
+- 커밋: `b9d8f52`
