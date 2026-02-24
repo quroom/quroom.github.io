@@ -1,7 +1,9 @@
 import fs from 'fs';
 
 const outDir='/home/ubuntu/.openclaw/workspace/quroom.github.io/projects/bogle-ops';
-const cacheRev='20260224a';
+const now=new Date();
+const pad=n=>String(n).padStart(2,'0');
+const cacheRev=`${now.getFullYear()}${pad(now.getMonth()+1)}${pad(now.getDate())}${pad(now.getHours())}${pad(now.getMinutes())}`;
 const base=`${outDir}/data`;
 const files={SCHD:`${base}/schd.csv`,JEPI:`${base}/jepi.csv`,SPY:`${base}/spy.csv`};
 

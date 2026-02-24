@@ -1,6 +1,6 @@
 # ETF 티커 기반 백테스트 확장판 (실데이터 + 배당재투자 근사)
 
-- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html?rev=20260224a](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html?rev=20260224a)
+- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html?rev=202602241219](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html?rev=202602241219)
 - 비교: 가격기준(Price-only) + 배당재투자 근사(Total Return Approx.)
 - 데이터: Stooq 일별 종가, 기간 2020-05-26~2026-02-20
 
