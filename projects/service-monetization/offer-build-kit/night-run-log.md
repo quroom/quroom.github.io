@@ -22,3 +22,4 @@
 - 2026-02-25 01:00 | queue=service-monetization | picked=채널 전략 상세화(BIZ-121) | result=DONE | commit=77d663b | note=채널별 주간 운영표/콘텐츠 타입 규칙 추가
 - 2026-02-25 01:10 | queue=service-monetization | picked=리드 수집 자동화 설계 | result=DONE | commit=151a54e | note=소스→정제→스코어→큐 파이프라인/필드/운영규칙 추가
 - 2026-02-25 01:20 | queue=service-monetization | picked=콜드아웃리치 컴플라이언스 체크리스트 | result=DONE | commit=b9d8f52 | note=체크리스트/리스크 대응 규칙 추가
+- 2026-02-25 01:30 | queue=service-monetization | picked=KPI 대시보드 항목 확장 | result=DONE | commit=5c59847 | note=채널/퍼널/매출 확장지표 + 주간 리뷰 포맷 추가

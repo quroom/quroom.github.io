@@ -390,3 +390,8 @@
   - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 합법데이터/옵트아웃/소량테스트/도메인평판/불만 대응 규칙 추가
 - 커밋: `b9d8f52`
+
+- 처리 작업(서비스): **KPI 대시보드 항목 확장 (채널/퍼널/매출 지표)**
+  - 결과 파일: [/projects/service-monetization/unit-economics-dashboard.md](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 채널/퍼널 전환지표 + 채널별 CAC/회수기간 + 주간 리뷰 포맷 추가
+- 커밋: `5c59847`
