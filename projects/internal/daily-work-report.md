@@ -327,3 +327,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 본업=현금흐름 엔진 관점 + 투자/본업 균형 루틴 메시지
 - 커밋: `43fec68`
+
+- 처리 작업(서비스): **Scope 경계 강화 (Change Request 템플릿 문구 추가)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/04-scope-boundary.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/04-scope-boundary.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: CR 템플릿/승인 문구/분쟁 방지 규칙 추가
+- 처리 작업(카페): **각 초안 훅 3종(A/B/C) 생성**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 공감형/논리형/경험형 훅 라이브러리 추가
+- 커밋: `965489c`
