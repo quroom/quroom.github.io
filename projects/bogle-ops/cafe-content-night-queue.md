@@ -19,7 +19,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 7 | Day5 초안: 보수 0.x% 차이가 장기에 미치는 영향 | DONE | `cafe-writing-ops.md` |
 | 8 | Day6 초안: 리밸런싱이 불편해야 정상인 이유 | DONE | `cafe-writing-ops.md` |
 | 9 | Day7 초안: 본업 집중이 최고의 투자전략인 이유 | DONE | `cafe-writing-ops.md` |
-| 10 | 각 초안 훅 3종(A 공감형/B 논리형/C 경험형) 생성 | PENDING | `cafe-writing-ops.md` |
+| 10 | 각 초안 훅 3종(A 공감형/B 논리형/C 경험형) 생성 | DONE | `cafe-writing-ops.md` |
 | 11 | 각 초안 마무리 질문/CTA 3종 생성 | PENDING | `cafe-writing-ops.md` |
 | 12 | 카페 게시 전 QA 체크리스트(과장표현/권유표현 금지) 강화 | PENDING | `cafe-writing-ops.md` |
 | 13 | 댓글 유도용 1문장 요약본(게시글별 2개) 생성 | PENDING | `cafe-writing-ops.md` |
