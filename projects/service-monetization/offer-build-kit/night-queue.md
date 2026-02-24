@@ -11,7 +11,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 |---|---|---|---|
 | 1 | 제안서 승률 개선: 거절 사유 패턴 분석 + 제안서 구조 리팩터링 | DONE | `offer-build-kit/10-proposal-template.md` + `execution-playbook.md` |
 | 2 | 리드 우선순위 자동화: 오늘 연락할 Top5 추출 규칙 설계 | DONE | `execution-playbook.md` (BIZ-122) + `unit-economics-dashboard.md` |
-| 3 | 상담 후속 자동화: D+0/D+1/D+3 메시지 템플릿 + 자동 리마인드 룰 | PENDING | `followup-retention-flow.md` + `sales-call-script.md` |
+| 3 | 상담 후속 자동화: D+0/D+1/D+3 메시지 템플릿 + 자동 리마인드 룰 | DONE | `followup-retention-flow.md` + `sales-call-script.md` |
 | 4 | 1인기업 최적 고객접점 전략 리서치 + 일일 루틴 + AI 자동화 피드백루프 설계 | PENDING | `execution-playbook.md` (BIZ-123) |
 | 5 | 구조 완전 자동화 아키텍처 명세 (큐엔진/QA게이트/리포트/승인흐름) | PENDING | `execution-playbook.md` (신규 BIZ-125) |
 | 6 | n8n/Make 플로우 설계서 작성 (트리거/분기/실패복구/알림) | PENDING | `execution-playbook.md` (신규 BIZ-126) |
