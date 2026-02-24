@@ -29,7 +29,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 16 | 콜드아웃리치 컴플라이언스 체크리스트 추가 | DONE | `execution-playbook.md` (BIZ-122) |
 | 17 | KPI 대시보드 항목 확장 (채널/퍼널/매출 지표) | DONE | `unit-economics-dashboard.md` |
 | 18 | 4주 GTM 실행 플랜 동기화 (채널+오퍼+퍼널 반영) | DONE | `regional-go-to-market.md` |
-| 19 | 주간 실행 브리프 템플릿 추가 (월~금 해야 할 일 1페이지) | PENDING | `execution-playbook.md` (신규 BIZ-124) |
+| 19 | 주간 실행 브리프 템플릿 추가 (월~금 해야 할 일 1페이지) | DONE | `execution-playbook.md` (신규 BIZ-124) |
 | 20 | 채널별 콘텐츠 캘린더 고도화 (LinkedIn/Threads/지역모임 분리) | PENDING | `content-calendar-4weeks.md` |
 | 21 | 아웃리치 메시지 팩 작성 (소개요청/콜드DM/재접촉) | PENDING | `sales-call-script.md` + `first-10-customers-plan.md` |
 | 22 | 상담콜 질문지 고도화 (진단→제안 전환형) | PENDING | `sales-call-script.md` |
