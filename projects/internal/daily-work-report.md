@@ -277,4 +277,4 @@
 - 처리 작업(카페): **Day1 본문 초안(직투 vs 국내상장 해외ETF) 개선본 작성**
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 사용자 톤 기반 실전형/공감형 본문 + 커뮤니티 참여 유도 마무리
-- 커밋: 
+- 커밋: `ca35ade`
