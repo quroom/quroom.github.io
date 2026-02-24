@@ -359,3 +359,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: Day1~Day7 요약 14개(댓글 유도용) 추가
 - 커밋: `636eeff`
+
+- 처리 작업(서비스): **Conversion Flow 개선 (채널별 CTA A/B 2세트)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/08-conversion-flow.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/08-conversion-flow.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: LinkedIn/Threads/오프라인 채널별 CTA A/B 세트 + 주간 운영 규칙 추가
+- 처리 작업(카페): **주간 운영팩(월~일 업로드 순서표 + 감정선 설계)**
+  - 결과 파일: [/projects/bogle-ops/publishing-calendar.md](/md-viewer.html?file=/projects/bogle-ops/publishing-calendar.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 요일별 주제/감정선/행동목표 + 훅 운영 메모 추가
+- 커밋: `9f37195`
