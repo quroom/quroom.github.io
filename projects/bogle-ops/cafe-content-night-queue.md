@@ -21,7 +21,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 9 | Day7 초안: 본업 집중이 최고의 투자전략인 이유 | DONE | `cafe-writing-ops.md` |
 | 10 | 각 초안 훅 3종(A 공감형/B 논리형/C 경험형) 생성 | DONE | `cafe-writing-ops.md` |
 | 11 | 각 초안 마무리 질문/CTA 3종 생성 | DONE | `cafe-writing-ops.md` |
-| 12 | 카페 게시 전 QA 체크리스트(과장표현/권유표현 금지) 강화 | PENDING | `cafe-writing-ops.md` |
+| 12 | 카페 게시 전 QA 체크리스트(과장표현/권유표현 금지) 강화 | DONE | `cafe-writing-ops.md` |
 | 13 | 댓글 유도용 1문장 요약본(게시글별 2개) 생성 | PENDING | `cafe-writing-ops.md` |
 | 14 | 주간 운영팩: 월~일 업로드 순서표 + 감정선 설계 | PENDING | `publishing-calendar.md` |
 | 15 | 성과회고 템플릿: 저장/댓글/공감 기반 다음 주제 추천 규칙 | PENDING | `cafe-writing-ops.md` |
