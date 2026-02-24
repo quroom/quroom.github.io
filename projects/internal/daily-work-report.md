@@ -271,3 +271,10 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 월~일 7개 주제 후보 + 난이도 + 전환목표(댓글/저장/가입유도) 설정
 - 커밋: `e60b0dd`
+- 처리 작업(서비스): **상담 후속 자동화(D+0/D+1/D+3 템플릿 + 자동 리마인드 룰)**
+  - 결과 파일: [/projects/service-monetization/followup-retention-flow.md](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: D+0/D+1/D+3/D+7 자동 리마인드 규칙 + 응답 시 단계중지/미응답 시 보류 태깅 룰
+- 처리 작업(카페): **Day1 본문 초안(직투 vs 국내상장 해외ETF) 개선본 작성**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 사용자 톤 기반 실전형/공감형 본문 + 커뮤니티 참여 유도 마무리
+- 커밋: 
