@@ -78,8 +78,15 @@ function tableRows(m){
 // Long-term projection using TR CAGR
 const horizons=[10,20,30];
 const principals=[10_000_000,100_000_000]; // 1천만, 1억
+const monthlyContribs=[500_000,1_000_000]; // 월 50만, 100만
 function krw(n){return new Intl.NumberFormat('ko-KR').format(Math.round(n));}
 function proj(cagr, years, principal){return principal*Math.pow(1+cagr,years);}
+function projMonthly(cagr, years, monthly){
+  const r=(1+cagr)**(1/12)-1;
+  const n=years*12;
+  if (r===0) return monthly*n;
+  return monthly*((Math.pow(1+r,n)-1)/r);
+}
 
 const projRows = Object.entries(trMet).map(([k,v])=>{
   const mult10=Math.pow(1+v.cagr,10), mult20=Math.pow(1+v.cagr,20), mult30=Math.pow(1+v.cagr,30);
@@ -93,6 +100,19 @@ const projRows = Object.entries(trMet).map(([k,v])=>{
     <td>${krw(proj(v.cagr,10,principals[1]))}원</td>
     <td>${krw(proj(v.cagr,20,principals[1]))}원</td>
     <td>${krw(proj(v.cagr,30,principals[1]))}원</td>
+  </tr>`;
+}).join('');
+
+const dcaRows = Object.entries(trMet).map(([k,v])=>{
+  return `<tr>
+    <td>${labelName(k)}</td>
+    <td>${(v.cagr*100).toFixed(1)}%</td>
+    <td>${krw(projMonthly(v.cagr,10,monthlyContribs[0]))}원</td>
+    <td>${krw(projMonthly(v.cagr,20,monthlyContribs[0]))}원</td>
+    <td>${krw(projMonthly(v.cagr,30,monthlyContribs[0]))}원</td>
+    <td>${krw(projMonthly(v.cagr,10,monthlyContribs[1]))}원</td>
+    <td>${krw(projMonthly(v.cagr,20,monthlyContribs[1]))}원</td>
+    <td>${krw(projMonthly(v.cagr,30,monthlyContribs[1]))}원</td>
   </tr>`;
 }).join('');
 
@@ -124,6 +144,13 @@ const mdDoc=`# ETF 티커 기반 백테스트 확장판 (실데이터 + 배당�
 - JEPI: 10년 ${krw(proj(trMet.JEPI.cagr,10,principals[0]))}원 / 20년 ${krw(proj(trMet.JEPI.cagr,20,principals[0]))}원 / 30년 ${krw(proj(trMet.JEPI.cagr,30,principals[0]))}원
 - SPY: 10년 ${krw(proj(trMet.SPY.cagr,10,principals[0]))}원 / 20년 ${krw(proj(trMet.SPY.cagr,20,principals[0]))}원 / 30년 ${krw(proj(trMet.SPY.cagr,30,principals[0]))}원
 - SCHD/JEPI 70/30: 10년 ${krw(proj(trMet.BLEND.cagr,10,principals[0]))}원 / 20년 ${krw(proj(trMet.BLEND.cagr,20,principals[0]))}원 / 30년 ${krw(proj(trMet.BLEND.cagr,30,principals[0]))}원
+
+### 적립식(월 50만원/100만원) 예상금액(근사)
+- SCHD: 월50만 → 10년 ${krw(projMonthly(trMet.SCHD.cagr,10,monthlyContribs[0]))}원 / 20년 ${krw(projMonthly(trMet.SCHD.cagr,20,monthlyContribs[0]))}원 / 30년 ${krw(projMonthly(trMet.SCHD.cagr,30,monthlyContribs[0]))}원
+- JEPI: 월50만 → 10년 ${krw(projMonthly(trMet.JEPI.cagr,10,monthlyContribs[0]))}원 / 20년 ${krw(projMonthly(trMet.JEPI.cagr,20,monthlyContribs[0]))}원 / 30년 ${krw(projMonthly(trMet.JEPI.cagr,30,monthlyContribs[0]))}원
+- SPY: 월50만 → 10년 ${krw(projMonthly(trMet.SPY.cagr,10,monthlyContribs[0]))}원 / 20년 ${krw(projMonthly(trMet.SPY.cagr,20,monthlyContribs[0]))}원 / 30년 ${krw(projMonthly(trMet.SPY.cagr,30,monthlyContribs[0]))}원
+- SCHD/JEPI 70/30: 월50만 → 10년 ${krw(projMonthly(trMet.BLEND.cagr,10,monthlyContribs[0]))}원 / 20년 ${krw(projMonthly(trMet.BLEND.cagr,20,monthlyContribs[0]))}원 / 30년 ${krw(projMonthly(trMet.BLEND.cagr,30,monthlyContribs[0]))}원
+- (월100만원은 위 금액의 2배)
 
 ## "보글이 환생했다면" 메시지
 - "승률 높은 비밀은 복잡함이 아니라 비용·분산·인내다."
@@ -157,6 +184,15 @@ pre{white-space:pre-wrap;background:#f8fafc;padding:12px;border:1px solid #e5e7e
   <table>
     <thead><tr><th>전략</th><th>CAGR(근사)</th><th>성장배수(10/20/30년)</th><th>1천만원 10년</th><th>1천만원 20년</th><th>1천만원 30년</th><th>1억원 10년</th><th>1억원 20년</th><th>1억원 30년</th></tr></thead>
     <tbody>${projRows}</tbody>
+  </table>
+</section>
+
+<section>
+  <h2>④ 적립식 시뮬레이션 (월 50만원 / 100만원)</h2>
+  <p>월말 적립을 가정한 단순 복리 모델입니다. (배당재투자 근사 CAGR 적용)</p>
+  <table>
+    <thead><tr><th>전략</th><th>CAGR(근사)</th><th>월50만 10년</th><th>월50만 20년</th><th>월50만 30년</th><th>월100만 10년</th><th>월100만 20년</th><th>월100만 30년</th></tr></thead>
+    <tbody>${dcaRows}</tbody>
   </table>
 </section>
 
