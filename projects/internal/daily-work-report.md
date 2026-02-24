@@ -264,3 +264,10 @@
   - 결과 파일: [/projects/bogle-ops/cafe-topic-bank.md](/md-viewer.html?file=/projects/bogle-ops/cafe-topic-bank.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 카페 주제 036~045 추가(공감/실행/커뮤니티 소속감 강화)
 - 커밋: `b69e717`
+- 처리 작업(서비스): **리드 우선순위 자동화: 오늘 연락할 Top5 추출 규칙 설계**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/unit-economics-dashboard.md](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: Top5 점수식(ICP/긴급도/예산/반응도/의사결정) + Hot/Warm/Cold 규칙 + Top5 운영 KPI
+- 처리 작업(카페): **이번 주 게시 후보 7개 선정 + 난이도/전환목표 태깅**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 월~일 7개 주제 후보 + 난이도 + 전환목표(댓글/저장/가입유도) 설정
+- 커밋: 
