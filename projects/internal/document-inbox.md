@@ -46,8 +46,8 @@
 | [/projects/bogle-ops/kr-jepi-schd-bogle-simulation.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-simulation.md) | 미확인 | 보글 철학 관점 해설 |
 | [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.html) | 미확인 | ETF 티커 실데이터 백테스트 차트 |
 | [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real.md) | 미확인 | ETF 티커 실데이터 해설 |
-| [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v2.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v2.html) | 미확인 | 배당재투자 근사 확장판 차트 |
-| [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v2.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v2.md) | 미확인 | 보글 철학 전략 제안 포함 해설 |
+| [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v3.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v3.html) | 미확인 | 배당재투자 근사 확장판 차트 |
+| [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v3.md](/md-viewer.html?file=/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v3.md) | 미확인 | 보글 철학 전략 제안 포함 해설 |
 
 ---
 
