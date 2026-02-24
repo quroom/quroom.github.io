@@ -465,3 +465,19 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 - LinkedIn: 사례/결과 중심 (B2B 신뢰)
 - Threads: 공감/문제 인식 중심 (도달+관심)
 - 지역 네트워크: 소개/오프라인 신뢰 중심 (고전환)
+
+
+### 6) 리드 수집 자동화 설계 (소스→정제→스코어→큐)
+1. Source: 공개 소스(회사 사이트/디렉토리/네트워크) 수집
+2. Clean: 중복 제거 + 형식 표준화(회사/담당/연락처/출처)
+3. Score: ICP/긴급도/예산/반응도 점수화
+4. Queue: Top5(Hot) / Warm / Nurture 큐로 분리
+5. Action: Hot 우선 아웃리치 + Warm 48h 이내 + Nurture 콘텐츠 육성
+
+필수 필드:
+- company, role, contact, source_url, segment, score, owner, next_action_date, status
+
+운영 규칙:
+- 수집 데이터는 공개/합법 취득만 사용
+- 소스 신뢰도 낮으면 수동 검증 후 큐 편입
+- 큐 편입 후 7일 미접촉 리드는 자동 경고
