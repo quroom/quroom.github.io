@@ -36,7 +36,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 23 | 제안서 거절 사유 분석 프레임 추가 | DONE | `execution-playbook.md` (BIZ-123/124) |
 | 24 | 주간 KPI 리뷰 루틴 상세화 (읽고 바로 실행 가능한 체크리스트) | DONE | `unit-economics-dashboard.md` |
 | 25 | 리퍼럴 요청 자동 루프 설계 (납품 후 7일/30일) | DONE | `followup-retention-flow.md` |
-| 26 | 아침 요약 리포트 포맷 고정 (전일 성과/오늘 액션 3개) | PENDING | `projects/internal/daily-work-report.md` |
+| 26 | 아침 요약 리포트 포맷 고정 (전일 성과/오늘 액션 3개) | DONE | `projects/internal/daily-work-report.md` |
 
 ## 로그 규칙
 - 각 작업 완료 시 결과 파일 + 커밋 해시를 한 줄 로그로 남긴다.

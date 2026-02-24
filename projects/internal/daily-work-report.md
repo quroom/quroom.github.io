@@ -433,3 +433,17 @@
   - 결과 파일: [/projects/service-monetization/followup-retention-flow.md](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: D+7/D+30 리퍼럴 메시지 + 발송 조건/재시도/감사 루프 추가
 - 커밋: `4ac1d5b`
+
+
+## 아침 요약 보고 포맷 (고정)
+- 전일 완료 작업 수: __건
+- 주요 완료 항목(최대 5개):
+  1) __
+  2) __
+  3) __
+- BLOCKED/이슈: __
+- 오늘 액션 Top3:
+  1) __
+  2) __
+  3) __
+- 기대효과(KPI): 리드 __ / 상담 __ / 제안 __
