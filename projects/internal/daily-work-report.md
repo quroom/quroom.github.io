@@ -255,3 +255,12 @@
   - [`/projects/bogle-ops/index.html`](/projects/bogle-ops/) 문서 목록 링크 추가
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `DOING → DONE` 반영
 - 비고: 주3회(월/수/금) 업로드 순서와 월간 리듬을 고정
+
+## 2026-02-24 (Night Ralph Loop)
+- 처리 작업(서비스): **제안서 승률 개선(거절 사유 패턴 분석 + 제안서 구조 리팩터링)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/10-proposal-template.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/10-proposal-template.md), [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md)
+  - 반영 내용: 거절 사유 4분류 대응 플레이 + 제안서 리팩터링 체크 + BIZ-123 승률 루프
+- 처리 작업(카페): **주제은행 정제 + 강한 제목 10개 보강**
+  - 결과 파일: [/projects/bogle-ops/cafe-topic-bank.md](/md-viewer.html?file=/projects/bogle-ops/cafe-topic-bank.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 카페 주제 036~045 추가(공감/실행/커뮤니티 소속감 강화)
+- 커밋: `b69e717`
