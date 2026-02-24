@@ -40,3 +40,14 @@
 - 10분 복귀:
   - `openclaw cron disable 3dde85ae-c203-4151-8a0c-a5fb88fd0e43`
   - `openclaw cron enable 11f66818-6d59-4678-914c-f26013f50116`
+
+## 자동 전환 (Auto Switcher)
+- 스크립트: `/home/ubuntu/.openclaw/workspace/quroom.github.io/projects/internal/night-heartbeat-autoswitch.sh`
+- 상태 로그: `/home/ubuntu/.openclaw/workspace/quroom.github.io/projects/internal/night-heartbeat-autoswitch.state`
+- 실행 로그: `/home/ubuntu/.openclaw/workspace/quroom.github.io/projects/internal/night-heartbeat-autoswitch.log`
+- cron: `*/20 23,0-6 * * *` (야간 20분마다 실행)
+
+동작:
+1) night-run-log 최근 구간의 `BLOCKED` 비율/충돌 키워드 확인
+2) 과부하 조건이면 10분 → 15분으로 완화
+3) 안정 조건이면 15분 → 10분으로 복귀
