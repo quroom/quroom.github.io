@@ -450,3 +450,18 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 ### 5) 입력/출력 스키마
 입력: job_id, target_file, task_text, priority, risk_level
 출력: status, changed_files[], commit_hash, summary, blocked_reason(optional)
+
+
+### 5) 채널별 주간 운영표 (실행용)
+| 요일 | LinkedIn | Threads | 지역 네트워크 | 목표 |
+|---|---|---|---|---|
+| 월 | 사례형 포스트 1개 | 공감형 숏포스트 1개 | 소개요청 3건 | 리드 유입 |
+| 화 | DM 후속 5건 | 체크리스트형 1개 | - | 상담 예약 |
+| 수 | 문제정의형 포스트 1개 | 논리형 숏포스트 1개 | 오피스아워 준비 | 신뢰 강화 |
+| 목 | 제안서 인사이트 1개 | 경험형 숏포스트 1개 | 밋업/콜 후속 3건 | 제안 전환 |
+| 금 | 주간 회고 포스트 1개 | 커뮤니티 질문형 1개 | 오피스아워 진행 | 참여/전환 |
+
+콘텐츠 타입 규칙:
+- LinkedIn: 사례/결과 중심 (B2B 신뢰)
+- Threads: 공감/문제 인식 중심 (도달+관심)
+- 지역 네트워크: 소개/오프라인 신뢰 중심 (고전환)
