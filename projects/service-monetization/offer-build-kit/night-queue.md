@@ -19,7 +19,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 6 | Problem Inventory 정량화 (시간/누락/매출 영향 수치화) | DONE | `offer-build-kit/02-problem-inventory.md` |
 | 7 | Outcome KPI 보강 (2주/4주 기준선-목표값 추가) | DONE | `offer-build-kit/03-outcome-definition.md` |
 | 8 | Scope 경계 강화 (Change Request 템플릿 문구 추가) | DONE | `offer-build-kit/04-scope-boundary.md` |
-| 9 | Delivery 아키텍처 고도화 (역할/의사결정 책임표) | PENDING | `offer-build-kit/05-delivery-architecture.md` |
+| 9 | Delivery 아키텍처 고도화 (역할/의사결정 책임표) | DONE | `offer-build-kit/05-delivery-architecture.md` |
 | 10 | Pricing Ladder 실전안 (옵션 3개 + 앵커링 문구) | PENDING | `offer-build-kit/06-pricing-ladder.md` |
 | 11 | Proof/Trust 보강 (사례카드 템플릿 2종 추가) | PENDING | `offer-build-kit/07-proof-trust.md` |
 | 12 | Conversion Flow 개선 (채널별 CTA A/B 2세트) | PENDING | `offer-build-kit/08-conversion-flow.md` |

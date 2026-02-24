@@ -29,3 +29,16 @@
 ## Status
 - Current: DONE
 - Reviewer: user
+
+## 역할/의사결정 책임표 (RACI 간략)
+| 의사결정 항목 | 대표(고객) | 운영담당(고객) | 실행담당(우리) |
+|---|---|---|---|
+| 목표 KPI 확정 | A | C | R |
+| 워크플로우 설계안 승인 | A | C | R |
+| 테스트 시나리오 확인 | C | A | R |
+| 운영 반영 일정 확정 | A | R | C |
+| 변경요청 승인(CR) | A | C | R |
+
+- A=최종 승인(Accountable)
+- R=실행 책임(Responsible)
+- C=자문/협의(Consulted)
