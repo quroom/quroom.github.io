@@ -20,3 +20,4 @@
 - 2026-02-25 00:50 | queue=service-monetization | picked=Conversion Flow 개선(채널별 CTA A/B) | result=DONE | commit=9f37195 | note=LinkedIn/Threads/오프라인 CTA A/B 및 운영규칙 추가
 - 2026-02-25 01:00 | queue=service-monetization | picked=Landing Copy 팩 확장(A/B) | result=DONE | commit=0508c9c | note=보수형/공격형 랜딩 카피 variant 추가
 - 2026-02-25 01:00 | queue=service-monetization | picked=채널 전략 상세화(BIZ-121) | result=DONE | commit=77d663b | note=채널별 주간 운영표/콘텐츠 타입 규칙 추가
+- 2026-02-25 01:10 | queue=service-monetization | picked=리드 수집 자동화 설계 | result=DONE | commit=151a54e | note=소스→정제→스코어→큐 파이프라인/필드/운영규칙 추가

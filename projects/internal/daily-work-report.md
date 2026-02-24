@@ -380,3 +380,8 @@
   - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 요일별 LinkedIn/Threads/지역 네트워크 운영표 + 채널별 콘텐츠 타입 규칙
 - 커밋: `77d663b`
+
+- 처리 작업(서비스): **리드 수집 자동화 설계 (소스→정제→스코어→큐)**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 리드 파이프라인 단계/필수필드/운영 규칙 정리
+- 커밋: `151a54e`
