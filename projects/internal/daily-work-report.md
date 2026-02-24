@@ -410,3 +410,8 @@
   - 결과 파일: [/projects/service-monetization/content-calendar-4weeks.md](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 채널 분리 주간 템플릿 + 채널별 운영 규칙 추가
 - 커밋: `1a32d0d`
+
+- 처리 작업(서비스): **아웃리치 메시지 팩 작성 (소개요청/콜드DM/재접촉)**
+  - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/first-10-customers-plan.md](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 소개요청/콜드DM/재접촉 템플릿 + 일일 운영 규칙(신규5/재접촉5) 추가
+- 커밋: `3d21809`

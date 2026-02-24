@@ -26,3 +26,4 @@
 - 2026-02-25 01:40 | queue=service-monetization | picked=4주 GTM 실행 플랜 동기화 | result=DONE | commit=7230c0f | note=채널+오퍼+퍼널 기반 주차별 실행안 추가
 - 2026-02-25 01:50 | queue=service-monetization | picked=주간 실행 브리프 템플릿(BIZ-127) | result=DONE | commit=a293e06 | note=월~금 1페이지 실행 브리프 템플릿 추가
 - 2026-02-25 02:00 | queue=service-monetization | picked=채널별 콘텐츠 캘린더 고도화 | result=DONE | commit=1a32d0d | note=LinkedIn/Threads/지역모임 분리 템플릿 추가
+- 2026-02-25 02:10 | queue=service-monetization | picked=아웃리치 메시지 팩 작성 | result=DONE | commit=3d21809 | note=소개요청/콜드DM/재접촉 템플릿 + 운영규칙 추가
