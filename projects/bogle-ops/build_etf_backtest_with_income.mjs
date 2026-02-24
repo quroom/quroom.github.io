@@ -169,12 +169,14 @@ table{border-collapse:collapse;width:100%;margin:8px 0 16px;font-size:14px}
 th,td{border:1px solid #e5e7eb;padding:8px;vertical-align:top}
 .note{background:#fffbeb;border:1px solid #fde68a;padding:10px;border-radius:8px;margin:8px 0}
 .grid{display:grid;grid-template-columns:1fr;gap:18px}
+.chart-wrap{position:relative;height:360px}
 .table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
 pre{white-space:pre-wrap;background:#f8fafc;padding:12px;border:1px solid #e5e7eb;border-radius:8px}
 @media (max-width: 768px){
   body{margin:12px auto;padding:0 10px;font-size:14px}
   h1{font-size:1.25rem;line-height:1.35}
   h2{font-size:1.05rem;line-height:1.35}
+  .chart-wrap{height:460px}
   th,td{padding:6px;font-size:12px;white-space:nowrap}
   .note{font-size:13px;padding:8px}
 }
@@ -183,8 +185,8 @@ pre{white-space:pre-wrap;background:#f8fafc;padding:12px;border:1px solid #e5e7e
 <p class='note'>데이터: Stooq 종가 / 기간: ${dates[0]}~${dates.at(-1)}. 아래 '배당재투자 근사'는 순배당률 가정(SCHD 2.7%, JEPI 6.4%, SPY 1.2%)을 일할 반영한 교육용 모델입니다.</p>
 
 <div class='grid'>
-<section><h2>① 가격기준(Price-only)</h2><canvas id='c1' style='max-height:360px'></canvas><div class='table-wrap'><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(priceMet)}</tbody></table></div></section>
-<section><h2>② 배당재투자 근사(Total Return Approx.)</h2><canvas id='c2' style='max-height:360px'></canvas><div class='table-wrap'><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(trMet)}</tbody></table></div></section>
+<section><h2>① 가격기준(Price-only)</h2><div class='chart-wrap'><canvas id='c1'></canvas></div><div class='table-wrap'><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(priceMet)}</tbody></table></div></section>
+<section><h2>② 배당재투자 근사(Total Return Approx.)</h2><div class='chart-wrap'><canvas id='c2'></canvas></div><div class='table-wrap'><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody>${tableRows(trMet)}</tbody></table></div></section>
 </div>
 
 <section>
@@ -221,7 +223,7 @@ pre{white-space:pre-wrap;background:#f8fafc;padding:12px;border:1px solid #e5e7e
 <script>
 const labels=${JSON.stringify(dates)};
 const p=${JSON.stringify(priceNorm)}; const t=${JSON.stringify(trNorm)};
-function mk(id,d){new Chart(document.getElementById(id),{type:'line',data:{labels,datasets:[{label:'SPY',data:d.SPY,borderColor:'#2563eb',pointRadius:0,tension:.1},{label:'SCHD',data:d.SCHD,borderColor:'#16a34a',pointRadius:0,tension:.1},{label:'JEPI',data:d.JEPI,borderColor:'#dc2626',pointRadius:0,tension:.1},{label:'SCHD/JEPI 70/30',data:d.BLEND,borderColor:'#7c3aed',pointRadius:0,tension:.1}]},options:{plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'초기 100 기준'}}}}});}
+function mk(id,d){new Chart(document.getElementById(id),{type:'line',data:{labels,datasets:[{label:'SPY',data:d.SPY,borderColor:'#2563eb',pointRadius:0,tension:.1},{label:'SCHD',data:d.SCHD,borderColor:'#16a34a',pointRadius:0,tension:.1},{label:'JEPI',data:d.JEPI,borderColor:'#dc2626',pointRadius:0,tension:.1},{label:'SCHD/JEPI 70/30',data:d.BLEND,borderColor:'#7c3aed',pointRadius:0,tension:.1}]},options:{maintainAspectRatio:false,plugins:{legend:{position:'bottom'}},scales:{y:{title:{display:true,text:'초기 100 기준'}}}}});}
 mk('c1',p); mk('c2',t);
 </script></body></html>`;
 
