@@ -25,3 +25,4 @@
 - 2026-02-25 01:30 | queue=service-monetization | picked=KPI 대시보드 항목 확장 | result=DONE | commit=5c59847 | note=채널/퍼널/매출 확장지표 + 주간 리뷰 포맷 추가
 - 2026-02-25 01:40 | queue=service-monetization | picked=4주 GTM 실행 플랜 동기화 | result=DONE | commit=7230c0f | note=채널+오퍼+퍼널 기반 주차별 실행안 추가
 - 2026-02-25 01:50 | queue=service-monetization | picked=주간 실행 브리프 템플릿(BIZ-127) | result=DONE | commit=a293e06 | note=월~금 1페이지 실행 브리프 템플릿 추가
+- 2026-02-25 02:00 | queue=service-monetization | picked=채널별 콘텐츠 캘린더 고도화 | result=DONE | commit=1a32d0d | note=LinkedIn/Threads/지역모임 분리 템플릿 추가

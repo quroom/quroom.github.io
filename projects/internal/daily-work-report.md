@@ -405,3 +405,8 @@
   - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: BIZ-127 추가(주간 목표/요일별 핵심작업/리스크/금요일 마감체크)
 - 커밋: `a293e06`
+
+- 처리 작업(서비스): **채널별 콘텐츠 캘린더 고도화 (LinkedIn/Threads/지역모임 분리)**
+  - 결과 파일: [/projects/service-monetization/content-calendar-4weeks.md](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 채널 분리 주간 템플릿 + 채널별 운영 규칙 추가
+- 커밋: `1a32d0d`
