@@ -31,7 +31,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 18 | 4주 GTM 실행 플랜 동기화 (채널+오퍼+퍼널 반영) | DONE | `regional-go-to-market.md` |
 | 19 | 주간 실행 브리프 템플릿 추가 (월~금 해야 할 일 1페이지) | DONE | `execution-playbook.md` (신규 BIZ-124) |
 | 20 | 채널별 콘텐츠 캘린더 고도화 (LinkedIn/Threads/지역모임 분리) | DONE | `content-calendar-4weeks.md` |
-| 21 | 아웃리치 메시지 팩 작성 (소개요청/콜드DM/재접촉) | PENDING | `sales-call-script.md` + `first-10-customers-plan.md` |
+| 21 | 아웃리치 메시지 팩 작성 (소개요청/콜드DM/재접촉) | DONE | `sales-call-script.md` + `first-10-customers-plan.md` |
 | 22 | 상담콜 질문지 고도화 (진단→제안 전환형) | PENDING | `sales-call-script.md` |
 | 23 | 제안서 거절 사유 분석 프레임 추가 | PENDING | `execution-playbook.md` (BIZ-123/124) |
 | 24 | 주간 KPI 리뷰 루틴 상세화 (읽고 바로 실행 가능한 체크리스트) | PENDING | `unit-economics-dashboard.md` |
