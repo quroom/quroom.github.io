@@ -270,4 +270,4 @@
 - 처리 작업(카페): **이번 주 게시 후보 7개 선정 + 난이도/전환목표 태깅**
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 월~일 7개 주제 후보 + 난이도 + 전환목표(댓글/저장/가입유도) 설정
-- 커밋: 
+- 커밋: `e60b0dd`
