@@ -420,3 +420,8 @@
   - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 병목/기회손실/의사결정/예산/성공지표 기반 질문셋 + 콜 후반 전환질문 추가
 - 커밋: `4a3c5fb`
+
+- 처리 작업(서비스): **제안서 거절 사유 분석 프레임 추가**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: BIZ-128 추가(거절 사유 분류/기록포맷/주간 분석질문/개선 루프)
+- 커밋: `0f3938a`
