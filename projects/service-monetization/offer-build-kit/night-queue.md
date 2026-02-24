@@ -15,7 +15,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 4 | 1인기업 최적 고객접점 전략 리서치 + 일일 루틴 + AI 자동화 피드백루프 설계 | DONE | `execution-playbook.md` (BIZ-123) |
 | 5 | 구조 완전 자동화 아키텍처 명세 (큐엔진/QA게이트/리포트/승인흐름) | DONE | `execution-playbook.md` (신규 BIZ-125) |
 | 6 | n8n/Make 플로우 설계서 작성 (트리거/분기/실패복구/알림) | DONE | `execution-playbook.md` (신규 BIZ-126) |
-| 5 | ICP 세분화 v2 (업종 3세그먼트 + Not ICP 강화) | PENDING | `offer-build-kit/01-icp-segment.md` |
+| 5 | ICP 세분화 v2 (업종 3세그먼트 + Not ICP 강화) | DONE | `offer-build-kit/01-icp-segment.md` |
 | 6 | Problem Inventory 정량화 (시간/누락/매출 영향 수치화) | PENDING | `offer-build-kit/02-problem-inventory.md` |
 | 7 | Outcome KPI 보강 (2주/4주 기준선-목표값 추가) | PENDING | `offer-build-kit/03-outcome-definition.md` |
 | 8 | Scope 경계 강화 (Change Request 템플릿 문구 추가) | PENDING | `offer-build-kit/04-scope-boundary.md` |
