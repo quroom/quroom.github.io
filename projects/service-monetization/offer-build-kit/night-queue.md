@@ -22,7 +22,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 9 | Delivery 아키텍처 고도화 (역할/의사결정 책임표) | DONE | `offer-build-kit/05-delivery-architecture.md` |
 | 10 | Pricing Ladder 실전안 (옵션 3개 + 앵커링 문구) | DONE | `offer-build-kit/06-pricing-ladder.md` |
 | 11 | Proof/Trust 보강 (사례카드 템플릿 2종 추가) | DONE | `offer-build-kit/07-proof-trust.md` |
-| 12 | Conversion Flow 개선 (채널별 CTA A/B 2세트) | PENDING | `offer-build-kit/08-conversion-flow.md` |
+| 12 | Conversion Flow 개선 (채널별 CTA A/B 2세트) | DONE | `offer-build-kit/08-conversion-flow.md` |
 | 13 | Landing Copy 팩 확장 (보수형/공격형 버전) | PENDING | `offer-build-kit/09-landing-copy-pack.md` |
 | 14 | 채널 전략 상세화 (채널별 주간 운영표/콘텐츠 타입) | PENDING | `execution-playbook.md` (BIZ-121) |
 | 15 | 리드 수집 자동화 설계 (소스→정제→스코어→큐) | PENDING | `execution-playbook.md` (BIZ-122) |
