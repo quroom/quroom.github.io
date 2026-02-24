@@ -395,3 +395,8 @@
   - 결과 파일: [/projects/service-monetization/unit-economics-dashboard.md](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 채널/퍼널 전환지표 + 채널별 CAC/회수기간 + 주간 리뷰 포맷 추가
 - 커밋: `5c59847`
+
+- 처리 작업(서비스): **4주 GTM 실행 플랜 동기화 (채널+오퍼+퍼널 반영)**
+  - 결과 파일: [/projects/service-monetization/regional-go-to-market.md](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: Week1~4 동기화 플랜 + 주간 산출물(리포트/실험로그/Top3) 추가
+- 커밋: `7230c0f`

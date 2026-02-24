@@ -23,3 +23,4 @@
 - 2026-02-25 01:10 | queue=service-monetization | picked=리드 수집 자동화 설계 | result=DONE | commit=151a54e | note=소스→정제→스코어→큐 파이프라인/필드/운영규칙 추가
 - 2026-02-25 01:20 | queue=service-monetization | picked=콜드아웃리치 컴플라이언스 체크리스트 | result=DONE | commit=b9d8f52 | note=체크리스트/리스크 대응 규칙 추가
 - 2026-02-25 01:30 | queue=service-monetization | picked=KPI 대시보드 항목 확장 | result=DONE | commit=5c59847 | note=채널/퍼널/매출 확장지표 + 주간 리뷰 포맷 추가
+- 2026-02-25 01:40 | queue=service-monetization | picked=4주 GTM 실행 플랜 동기화 | result=DONE | commit=7230c0f | note=채널+오퍼+퍼널 기반 주차별 실행안 추가
