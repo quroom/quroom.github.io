@@ -10,7 +10,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 
 | Priority | Job | Status | Output (existing-first) |
 |---|---|---|---|
-| 1 | 주제은행 정제: 중복/약한 제목 제거 + 강한 제목 10개 보강 | PENDING | `cafe-topic-bank.md` |
+| 1 | 주제은행 정제: 중복/약한 제목 제거 + 강한 제목 10개 보강 | DONE | `cafe-topic-bank.md` |
 | 2 | 이번 주 게시 후보 7개 선정 + 난이도/전환목표 태깅 | PENDING | `cafe-topic-bank.md` + `cafe-writing-ops.md` |
 | 3 | Day1 본문 초안(직투 vs 국내상장 해외ETF) 개선본 작성 | PENDING | `cafe-writing-ops.md` (샘플 섹션 추가) |
 | 4 | Day2 초안: FOMO가 심할 때 자산배분 조정 기준 | PENDING | `cafe-writing-ops.md` |
