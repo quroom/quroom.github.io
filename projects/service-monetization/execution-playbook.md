@@ -426,3 +426,27 @@
 ### 4) 승인 정책
 - 자동 승인: 문서 생성/수정, 내부 링크/템플릿 개선
 - 수동 승인 필수: 외부 메시지 발송, 삭제성 변경, 민감정보 포함 가능 작업
+
+
+## BIZ-126 · n8n/Make 플로우 설계서 (야간 루프 연동)
+
+### 1) 메인 플로우
+Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING) → Execute Task → QA Check → Git Commit/Push → Update(DONE/BLOCKED) → Log/Report
+
+### 2) 분기 설계
+- 정상: DONE + run-log 기록
+- QA 실패: BLOCKED + 원인/입력요청 1~3개 기록
+- git 충돌: 1회 재시도 후 BLOCKED
+- 시간초과(20분): 현재 작업 상태 저장 후 다음 heartbeat로 이월
+
+### 3) 실패복구
+- 재시작 시 DOING 상태 작업 감지
+- 30분 이상 정체된 DOING은 자동 감사 후 `PENDING` 또는 `BLOCKED` 전환
+
+### 4) 알림 정책
+- 야간: 상세 알림 대신 run-log 누적
+- 아침: 전일 요약 1회(완료/보류/오늘 Top3)
+
+### 5) 입력/출력 스키마
+입력: job_id, target_file, task_text, priority, risk_level
+출력: status, changed_files[], commit_hash, summary, blocked_reason(optional)

@@ -15,7 +15,7 @@ Status: `PENDING` | `DOING` | `DONE` | `BLOCKED`
 | 3 | Day1 본문 초안(직투 vs 국내상장 해외ETF) 개선본 작성 | DONE | `cafe-writing-ops.md` (샘플 섹션 추가) |
 | 4 | Day2 초안: FOMO가 심할 때 자산배분 조정 기준 | DONE | `cafe-writing-ops.md` |
 | 5 | Day3 초안: 지루한 횡보장에서 원칙을 지키는 법 | DONE | `cafe-writing-ops.md` |
-| 6 | Day4 초안: 남의 수익 인증샷에 흔들릴 때 체크리스트 | PENDING | `cafe-writing-ops.md` |
+| 6 | Day4 초안: 남의 수익 인증샷에 흔들릴 때 체크리스트 | DONE | `cafe-writing-ops.md` |
 | 7 | Day5 초안: 보수 0.x% 차이가 장기에 미치는 영향 | PENDING | `cafe-writing-ops.md` |
 | 8 | Day6 초안: 리밸런싱이 불편해야 정상인 이유 | PENDING | `cafe-writing-ops.md` |
 | 9 | Day7 초안: 본업 집중이 최고의 투자전략인 이유 | PENDING | `cafe-writing-ops.md` |
