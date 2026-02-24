@@ -310,3 +310,11 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 비용은 고정/수익률은 변동 관점 + 비용 체크 3요소 + 커뮤니티 질문 마무리
 - 커밋: `592398a`
+
+- 처리 작업(서비스): **Problem Inventory 정량화 (시간/누락/매출 영향 수치화)**
+  - 결과 파일: [/projects/service-monetization/offer-build-kit/02-problem-inventory.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/02-problem-inventory.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 기준선(응답/누락/시간) + 2주 목표 + 측정 방식 추가
+- 처리 작업(카페): **Day6 초안(리밸런싱이 불편해야 정상인 이유)**
+  - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
+  - 반영 내용: 리밸런싱 불편함=규칙 작동 신호 관점 + 기준표 공유 CTA
+- 커밋: `d21215a`

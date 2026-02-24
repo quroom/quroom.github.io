@@ -11,3 +11,4 @@
 - 2026-02-24 23:30 | queue=service-monetization | picked=완전 자동화 아키텍처 명세(BIZ-125) | result=DONE | commit=c250aca | note=큐엔진/QA게이트/승인정책/안정성 규칙 추가
 - 2026-02-24 23:32 | queue=service-monetization | picked=n8n/Make 플로우 설계(BIZ-126) | result=DONE | commit=3746d29 | note=트리거/분기/실패복구/알림/스키마 정리
 - 2026-02-24 23:40 | queue=service-monetization | picked=ICP 세분화 v2 | result=DONE | commit=592398a | note=3세그먼트 + Not ICP 강화
+- 2026-02-24 23:50 | queue=service-monetization | picked=Problem Inventory 정량화 | result=DONE | commit=d21215a | note=기준선/2주 목표/측정방식 추가
