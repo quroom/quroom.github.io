@@ -118,7 +118,7 @@ const dcaRows = Object.entries(trMet).map(([k,v])=>{
 
 const mdDoc=`# ETF 티커 기반 백테스트 확장판 (실데이터 + 배당재투자 근사)
 
-- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v3.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v3.html)
+- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html)
 - 비교: 가격기준(Price-only) + 배당재투자 근사(Total Return Approx.)
 - 데이터: Stooq 일별 종가, 기간 ${dates[0]}~${dates.at(-1)}
 
@@ -216,6 +216,6 @@ function mk(id,d){new Chart(document.getElementById(id),{type:'line',data:{label
 mk('c1',p); mk('c2',t);
 </script></body></html>`;
 
-fs.writeFileSync(`${outDir}/kr-jepi-schd-bogle-backtest-real-v3.html`,html);
-fs.writeFileSync(`${outDir}/kr-jepi-schd-bogle-backtest-real-v3.md`,mdDoc);
+fs.writeFileSync(`${outDir}/kr-jepi-schd-bogle-backtest-real-v4.html`,html);
+fs.writeFileSync(`${outDir}/kr-jepi-schd-bogle-backtest-real-v4.md`,mdDoc);
 console.log('built v2 with long-term simulation');
