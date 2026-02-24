@@ -29,3 +29,5 @@
 - 2026-02-25 02:10 | queue=service-monetization | picked=아웃리치 메시지 팩 작성 | result=DONE | commit=3d21809 | note=소개요청/콜드DM/재접촉 템플릿 + 운영규칙 추가
 - 2026-02-25 02:00 | queue=service-monetization | picked=상담콜 질문지 고도화 | result=DONE | commit=4a3c5fb | note=진단→제안 전환형 질문셋/후반 전환질문 추가
 - 2026-02-25 02:10 | queue=service-monetization | picked=제안서 거절 사유 분석 프레임 | result=DONE | commit=0f3938a | note=BIZ-128 분류체계/기록포맷/주간분석질문 추가
+- 2026-02-25 02:20 | queue=service-monetization | picked=주간 KPI 리뷰 루틴 상세화 | result=DONE | commit=4ac1d5b | note=실행형 체크리스트/출력 포맷 추가
+- 2026-02-25 02:20 | queue=service-monetization | picked=리퍼럴 요청 자동 루프 설계 | result=DONE | commit=4ac1d5b | note=D+7/D+30 메시지/자동화 규칙 추가

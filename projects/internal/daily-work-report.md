@@ -425,3 +425,11 @@
   - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: BIZ-128 추가(거절 사유 분류/기록포맷/주간 분석질문/개선 루프)
 - 커밋: `0f3938a`
+
+- 처리 작업(서비스): **주간 KPI 리뷰 루틴 상세화 (읽고 바로 실행 가능한 체크리스트)**
+  - 결과 파일: [/projects/service-monetization/unit-economics-dashboard.md](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 숫자확인/병목진단/실행결정 3단계 체크리스트 + 출력 포맷 추가
+- 처리 작업(서비스): **리퍼럴 요청 자동 루프 설계 (납품 후 7일/30일)**
+  - 결과 파일: [/projects/service-monetization/followup-retention-flow.md](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: D+7/D+30 리퍼럴 메시지 + 발송 조건/재시도/감사 루프 추가
+- 커밋: `4ac1d5b`
