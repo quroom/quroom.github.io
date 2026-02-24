@@ -452,3 +452,8 @@
   - 결과 파일: [/projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 아침 보고 고정 포맷(완료수/핵심완료/BLOCKED/오늘Top3/KPI) 추가
 - 커밋: `fbaede3`
+
+
+- 처리 작업(서비스): **콜드DM 오프너 20개 추가 (응답률 개선용 첫 문장 훅 라이브러리)**
+  - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md), [/projects/service-monetization/offer-build-kit/night-queue-inbox.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue-inbox.md)
+  - 반영 내용: 콜드DM 오프너 20개(문제공감/시간회수/축소안 제안형) 추가 + inbox 항목 처리
