@@ -1,29 +1,115 @@
-<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>ETF 백테스트 확장판</title><script src='https://cdn.jsdelivr.net/npm/chart.js'></script><style>body{font-family:system-ui;max-width:1060px;margin:24px auto;padding:0 16px}table{border-collapse:collapse;width:100%;margin:8px 0 16px}th,td{border:1px solid #e5e7eb;padding:8px}.note{background:#fffbeb;border:1px solid #fde68a;padding:10px;border-radius:8px;margin:8px 0}.grid{display:grid;grid-template-columns:1fr;gap:18px}</style></head><body>
+<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>ETF 백테스트 확장판</title><script src='https://cdn.jsdelivr.net/npm/chart.js'></script><style>
+body{font-family:system-ui;max-width:1120px;margin:24px auto;padding:0 16px;line-height:1.5}
+table{border-collapse:collapse;width:100%;margin:8px 0 16px;font-size:14px}
+th,td{border:1px solid #e5e7eb;padding:8px;vertical-align:top}
+.note{background:#fffbeb;border:1px solid #fde68a;padding:10px;border-radius:8px;margin:8px 0}
+.grid{display:grid;grid-template-columns:1fr;gap:18px}
+pre{white-space:pre-wrap;background:#f8fafc;padding:12px;border:1px solid #e5e7eb;border-radius:8px}
+</style></head><body>
 <h1>ETF 티커 기반 백테스트 확장판 (실데이터 + 배당재투자 근사)</h1>
 <p class='note'>데이터: Stooq 종가 / 기간: 2020-05-26~2026-02-20. 아래 '배당재투자 근사'는 순배당률 가정(SCHD 2.7%, JEPI 6.4%, SPY 1.2%)을 일할 반영한 교육용 모델입니다.</p>
+
 <div class='grid'>
 <section><h2>① 가격기준(Price-only)</h2><canvas id='c1' style='max-height:360px'></canvas><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody><tr><td>SCHD</td><td>116.8%</td><td>14.4%</td><td>-16.9%</td></tr><tr><td>JEPI</td><td>27.6%</td><td>4.3%</td><td>-17.8%</td></tr><tr><td>SPY</td><td>148.0%</td><td>17.1%</td><td>-24.5%</td></tr><tr><td>SCHD/JEPI 70/30</td><td>85.9%</td><td>11.4%</td><td>-16.6%</td></tr></tbody></table></section>
 <section><h2>② 배당재투자 근사(Total Return Approx.)</h2><canvas id='c2' style='max-height:360px'></canvas><table><thead><tr><th>전략</th><th>총수익률</th><th>CAGR</th><th>MDD</th></tr></thead><tbody><tr><td>SCHD</td><td>153.0%</td><td>17.6%</td><td>-16.1%</td></tr><tr><td>JEPI</td><td>84.0%</td><td>11.2%</td><td>-14.1%</td></tr><tr><td>SPY</td><td>165.6%</td><td>18.6%</td><td>-23.8%</td></tr><tr><td>SCHD/JEPI 70/30</td><td>131.1%</td><td>15.7%</td><td>-15.5%</td></tr></tbody></table></section>
 </div>
 
-<section style='margin-top:18px'>
-  <h2>해설</h2>
-  <ul>
-    <li><b>가격기준(Price-only)</b>: 배당을 제외한 종가 흐름 비교입니다.</li>
-    <li><b>배당재투자 근사</b>: 순배당률 가정(SCHD 2.7%, JEPI 6.4%, SPY 1.2%)을 일할로 더해 재투자한 교육용 근사 모델입니다.</li>
-    <li>JEPI 성격은 인컴(분배) 중심이라 상승장 참여가 제한될 수 있고, SCHD 성격은 배당성장/퀄리티 축의 성격이 반영될 수 있습니다.</li>
-    <li>보글 관점에서는 코어(광범위 인덱스) + 위성(인컴/배당) 분리 운용이 핵심입니다.</li>
-  </ul>
+<section>
+  <h2>③ 10년/20년/30년 장기 시뮬레이션 (일시금 복리)</h2>
+  <p>배당재투자 근사 CAGR을 미래에도 동일하게 적용한 단순 복리 모델입니다. (원금: 1천만원, 1억원)</p>
+  <table>
+    <thead><tr><th>전략</th><th>CAGR(근사)</th><th>성장배수(10/20/30년)</th><th>1천만원 10년</th><th>1천만원 20년</th><th>1천만원 30년</th><th>1억원 10년</th><th>1억원 20년</th><th>1억원 30년</th></tr></thead>
+    <tbody><tr>
+    <td>SCHD</td>
+    <td>17.6%</td>
+    <td>5.04x / 25.39x / 127.97x</td>
+    <td>50,392,998원</td>
+    <td>253,945,424원</td>
+    <td>1,279,707,124원</td>
+    <td>503,929,980원</td>
+    <td>2,539,454,243원</td>
+    <td>12,797,071,245원</td>
+  </tr><tr>
+    <td>JEPI</td>
+    <td>11.2%</td>
+    <td>2.89x / 8.37x / 24.20x</td>
+    <td>28,926,107원</td>
+    <td>83,671,964원</td>
+    <td>242,030,416원</td>
+    <td>289,261,066원</td>
+    <td>836,719,643원</td>
+    <td>2,420,304,159원</td>
+  </tr><tr>
+    <td>SPY</td>
+    <td>18.6%</td>
+    <td>5.48x / 30.08x / 165.00x</td>
+    <td>54,848,233원</td>
+    <td>300,832,867원</td>
+    <td>1,650,015,123원</td>
+    <td>548,482,331원</td>
+    <td>3,008,328,673원</td>
+    <td>16,500,151,227원</td>
+  </tr><tr>
+    <td>SCHD/JEPI 70/30</td>
+    <td>15.7%</td>
+    <td>4.31x / 18.54x / 79.86x</td>
+    <td>43,062,734원</td>
+    <td>185,439,910원</td>
+    <td>798,554,960원</td>
+    <td>430,627,345원</td>
+    <td>1,854,399,100원</td>
+    <td>7,985,549,605원</td>
+  </tr></tbody>
+  </table>
 </section>
 
 <section>
-  <h2>데이터 정보</h2>
+  <h2>문서 요약 (MD 포함)</h2>
+  <pre># ETF 티커 기반 백테스트 확장판 (실데이터 + 배당재투자 근사)
+
+- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v2.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v2.html)
+- 비교: 가격기준(Price-only) + 배당재투자 근사(Total Return Approx.)
+- 데이터: Stooq 일별 종가, 기간 2020-05-26~2026-02-20
+
+## 보글 철학 기준 전략 제안
+1. **코어 70~90%: 초저비용 광범위 인덱스**
+   - 시장 전체 보유, 장기 복리의 엔진 역할
+2. **위성 10~30%: 목적형 틸트(SCHD/JEPI 성격)**
+   - 현금흐름 니즈가 있을 때만 제한적으로
+3. **리밸런싱 규칙 고정**
+   - 연 1~2회 또는 밴드(예: ±5%) 이탈 시만
+4. **예측보다 비용/규율/분산 우선**
+   - 뉴스 대응 매매 최소화
+5. **인출기가 가까울수록 현금흐름 버킷 분리**
+   - 생활비 버킷(1~3년) + 장기 버킷 분리
+
+## 10년/20년/30년 장기 시뮬레이션(일시금 복리)
+- 기준: 배당재투자 근사 CAGR를 그대로 적용한 단순 복리 모델
+- 원금 시나리오: 1천만원, 1억원
+- CAGR(근사): SCHD 17.6% / JEPI 11.2% / SPY 18.6% / SCHD·JEPI 70/30 15.7%
+
+### 1천만원 시작 시 예상금액(근사)
+- SCHD: 10년 50,392,998원 / 20년 253,945,424원 / 30년 1,279,707,124원
+- JEPI: 10년 28,926,107원 / 20년 83,671,964원 / 30년 242,030,416원
+- SPY: 10년 54,848,233원 / 20년 300,832,867원 / 30년 1,650,015,123원
+- SCHD/JEPI 70/30: 10년 43,062,734원 / 20년 185,439,910원 / 30년 798,554,960원
+
+## "보글이 환생했다면" 메시지
+- "승률 높은 비밀은 복잡함이 아니라 비용·분산·인내다."
+- "인컴 전략은 조미료로, 코어 인덱스는 식사로 써라."
+
+## 주의
+- 배당재투자 근사는 가정 기반(세후 순배당률)이며 실거래 결과와 다를 수 있음
+- 장기 시뮬레이션은 과거 구간 CAGR을 미래에도 동일 적용한 단순 모델
+- 환율/세금/거래비용/추적오차/개별 상품 구조 변화 미반영
+</pre>
+</section>
+
+<section>
+  <h2>주의</h2>
   <ul>
-    <li>데이터 소스: <a href='https://stooq.com/'>Stooq</a> 일별 종가 CSV</li>
-    <li>사용 티커: SCHD, JEPI, SPY</li>
-    <li>공통 분석 기간: 2020-05-26 ~ 2026-02-20</li>
-    <li>리밸런싱: SCHD/JEPI 70/30은 일간 수익률 가중 합성 방식</li>
-    <li>제외 항목: 실제 배당금 내역, 세금, 환율, 거래비용, 슬리피지</li>
+    <li>근사 모델이므로 실제 투자결과와 다를 수 있습니다.</li>
+    <li>환율, 세금, 거래비용, 추적오차, 종목 정책 변화는 반영하지 않았습니다.</li>
   </ul>
 </section>
 
