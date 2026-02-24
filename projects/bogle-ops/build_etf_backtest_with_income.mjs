@@ -1,6 +1,7 @@
 import fs from 'fs';
 
 const outDir='/home/ubuntu/.openclaw/workspace/quroom.github.io/projects/bogle-ops';
+const cacheRev='20260224a';
 const base=`${outDir}/data`;
 const files={SCHD:`${base}/schd.csv`,JEPI:`${base}/jepi.csv`,SPY:`${base}/spy.csv`};
 
@@ -118,7 +119,7 @@ const dcaRows = Object.entries(trMet).map(([k,v])=>{
 
 const mdDoc=`# ETF 티커 기반 백테스트 확장판 (실데이터 + 배당재투자 근사)
 
-- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html)
+- 차트: [/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html?rev=${cacheRev}](/projects/bogle-ops/kr-jepi-schd-bogle-backtest-real-v4.html?rev=${cacheRev})
 - 비교: 가격기준(Price-only) + 배당재투자 근사(Total Return Approx.)
 - 데이터: Stooq 일별 종가, 기간 ${dates[0]}~${dates.at(-1)}
 
