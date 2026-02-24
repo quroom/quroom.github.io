@@ -375,3 +375,8 @@
   - 결과 파일: [/projects/bogle-ops/cafe-writing-ops.md](/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md), [/projects/bogle-ops/cafe-content-night-queue.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-queue.md)
   - 반영 내용: 주간 회고 템플릿 + 다음 주제 추천 규칙 추가
 - 커밋: `0508c9c`
+
+- 처리 작업(서비스): **채널 전략 상세화 (채널별 주간 운영표/콘텐츠 타입)**
+  - 결과 파일: [/projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
+  - 반영 내용: 요일별 LinkedIn/Threads/지역 네트워크 운영표 + 채널별 콘텐츠 타입 규칙
+- 커밋: `77d663b`
