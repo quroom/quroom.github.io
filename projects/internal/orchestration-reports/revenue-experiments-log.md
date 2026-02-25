@@ -1,7 +1,6 @@
 # Revenue Experiments Log
 
-
-## 2026-02-26 06:23 | Super Marketer
+## 2026-02-26 06:46 | Super Marketer
 - Hypothesis: 짧은 문제공감형 오프너가 상담 전환률을 높인다.
 - Offer: 2주 실행 스프린트(진단→자동화→리포트)
 - Channel: Threads + LinkedIn + 기존 네트워크 DM
@@ -21,7 +20,7 @@
   2) 상담콜 질문지 1차 개편
   3) 주간 전환 지표 리포트 업데이트
 
-## 2026-02-26 06:46 | Super Marketer
+## 2026-02-26 06:23 | Super Marketer
 - Hypothesis: 짧은 문제공감형 오프너가 상담 전환률을 높인다.
 - Offer: 2주 실행 스프린트(진단→자동화→리포트)
 - Channel: Threads + LinkedIn + 기존 네트워크 DM
