@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Night Ops Report - 2026-02-25</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:980px;margin:36px auto;padding:0 16px;line-height:1.6;color:#1f2937}
+    h1,h2{margin:.4em 0}
+    .muted{color:#6b7280}
+    .card{border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin:12px 0;background:#fff}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+    .kpi{border:1px solid #dbeafe;background:#eff6ff;border-radius:10px;padding:10px}
+    .kpi .n{font-size:28px;font-weight:700;line-height:1.1}
+    a{color:#0b57d0;text-decoration:none} a:hover{text-decoration:underline}
+    ul{margin:.4em 0 .8em 1.2em}
+    code{background:#f3f4f6;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <p><a href="/projects/internal/">← Internal Ops Docs</a></p>
+  <h1>야간 진행 통합 보고 (2026-02-25)</h1>
+  <p class="muted">범위: Night Ralph Loop (service-monetization + cafe-content) / 시간대 2026-02-24 23:00 ~ 2026-02-25 04:00</p>
+
+  <div class="grid">
+    <div class="kpi"><div class="muted">총 완료 작업</div><div class="n">44</div></div>
+    <div class="kpi"><div class="muted">서비스 작업</div><div class="n">29</div></div>
+    <div class="kpi"><div class="muted">카페 작업</div><div class="n">15</div></div>
+    <div class="kpi"><div class="muted">BLOCKED</div><div class="n">0</div></div>
+  </div>
+
+  <div class="card">
+    <h2>핵심 요약</h2>
+    <ul>
+      <li>서비스 오퍼 빌드킷 01~10 전 구간 고도화 완료 (ICP → KPI → Pricing → Proof → Conversion → Landing).</li>
+      <li>실행체계 문서 보강(BIZ-121~128): 채널전략, 리드수집, 컴플라이언스, 주간브리프, 거절사유 분석 루프.</li>
+      <li>세일즈 자산 강화: 아웃리치 메시지팩, 상담콜 전환형 질문지, 콜드DM 오프너 20개.</li>
+      <li>카페 콘텐츠 7일 초안 + 훅/CTA 라이브러리 + QA 체크리스트 + 댓글유도 1문장 요약 정리 완료.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>빠른 확인 링크</h2>
+    <ul>
+      <li><a href="/md-viewer.html?file=/projects/internal/daily-work-report.md">daily-work-report.md (일일 누적 보고)</a></li>
+      <li><a href="/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-run-log.md">night-run-log.md (service)</a></li>
+      <li><a href="/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-run-log.md">cafe-content-night-run-log.md</a></li>
+      <li><a href="/md-viewer.html?file=/projects/service-monetization/sales-call-script.md">sales-call-script.md (오프너 20개 포함)</a></li>
+      <li><a href="/md-viewer.html?file=/projects/service-monetization/execution-playbook.md">execution-playbook.md</a></li>
+      <li><a href="/md-viewer.html?file=/projects/bogle-ops/cafe-writing-ops.md">cafe-writing-ops.md</a></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>대표 커밋 타임라인</h2>
+    <ul>
+      <li><code>b69e717</code> 야간 루프 시작(서비스+카페 동시 반영 시작)</li>
+      <li><code>43fec68</code> Outcome KPI + Day7 초안</li>
+      <li><code>9f37195</code> Conversion/주간운영팩 반영</li>
+      <li><code>0508c9c</code> Landing copy 확장 + 성과회고 템플릿</li>
+      <li><code>b3d7588</code> 콜드DM 오프너 20개 추가(inbox 편입 건 처리)</li>
+      <li><code>4a6e670</code> 04:00 heartbeat 실행 로그 반영</li>
+    </ul>
+  </div>
+</body>
+</html>
