@@ -77,7 +77,6 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 무료 훅→저가세션→스프린트 퍼널 + 고립은둔(예비) 배려 원칙 포함
 
-
 - 처리 작업: **수익화 핵심 판매자료 3종 문서화**
 - 결과 파일: [/projects/revenue-sprint/free-hook-productivity-checklist-10min.md](/md-viewer.html?file=/projects/revenue-sprint/free-hook-productivity-checklist-10min.md), [/projects/revenue-sprint/offer-copy-90min-setup-session.md](/md-viewer.html?file=/projects/revenue-sprint/offer-copy-90min-setup-session.md), [/projects/revenue-sprint/proposal-2week-productivity-sprint.md](/md-viewer.html?file=/projects/revenue-sprint/proposal-2week-productivity-sprint.md)
 - 보강 작업: [/projects/revenue-sprint/README.md](/md-viewer.html?file=/projects/revenue-sprint/README.md) 생성
@@ -95,7 +94,6 @@
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 7일 전환형 콘텐츠 + 고립은둔(예비) 배려 주제 포함
 
-
 - 처리 작업: **REV-213 월요일 디테일 실행계획 (고액 외주 포함)**
 - 결과 파일: [`/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md`](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md)
 - 보강 작업: [`/projects/revenue-sprint/README.md`](/md-viewer.html?file=/projects/revenue-sprint/README.md) 링크 반영
@@ -111,7 +109,6 @@
 - 보강 작업:
   - [`/projects/internal/WORKQUEUE.md`](/md-viewer.html?file=/projects/internal/WORKQUEUE.md) 상태 `PENDING → DONE` 반영
 - 비고: 배려형 커뮤니케이션(고립은둔 예비 당사자) 문구 포함
-
 
 - 처리 작업: **BGL-201~210 큐 추가 (카페 초보자용 복붙 자료 스프린트)**
 - 결과 파일: [/projects/bogle-beginner-kit/README.md](/md-viewer.html?file=/projects/bogle-beginner-kit/README.md), [/projects/bogle-beginner-kit/001-start-here.md](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
@@ -240,7 +237,6 @@
   - [/projects/service-monetization/reading-order.md](/md-viewer.html?file=/projects/service-monetization/reading-order.md) 우선순위 반영
   - [/projects/internal/important-files-index.md](/md-viewer.html?file=/projects/internal/important-files-index.md) 인덱스 반영
 - 비고: 단기/중기/장기 + 외주/에이전시 + 명함 접점 스크립트 통합
-
 
 ## 2026-02-23
 - 처리 작업: **OPS-002 WORKQUEUE 대시보드 단일화/정비**
@@ -434,7 +430,6 @@
   - 반영 내용: D+7/D+30 리퍼럴 메시지 + 발송 조건/재시도/감사 루프 추가
 - 커밋: `4ac1d5b`
 
-
 ## 아침 요약 보고 포맷 (고정)
 - 전일 완료 작업 수: __건
 - 주요 완료 항목(최대 5개):
@@ -452,7 +447,6 @@
   - 결과 파일: [/projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md)
   - 반영 내용: 아침 보고 고정 포맷(완료수/핵심완료/BLOCKED/오늘Top3/KPI) 추가
 - 커밋: `fbaede3`
-
 
 - 처리 작업(서비스): **콜드DM 오프너 20개 추가 (응답률 개선용 첫 문장 훅 라이브러리)**
   - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md), [/projects/service-monetization/offer-build-kit/night-queue-inbox.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue-inbox.md)
