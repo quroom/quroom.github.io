@@ -457,3 +457,7 @@
 - 처리 작업(서비스): **콜드DM 오프너 20개 추가 (응답률 개선용 첫 문장 훅 라이브러리)**
   - 결과 파일: [/projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md), [/projects/service-monetization/offer-build-kit/night-queue.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue.md), [/projects/service-monetization/offer-build-kit/night-queue-inbox.md](/md-viewer.html?file=/projects/service-monetization/offer-build-kit/night-queue-inbox.md)
   - 반영 내용: 콜드DM 오프너 20개(문제공감/시간회수/축소안 제안형) 추가 + inbox 항목 처리
+
+- 처리 작업(콘텐츠 자동화): **Threads 유머 + 카페 글 무한 생성 루프 구축**
+  - 결과 파일: [/projects/bogle-ops/content-loop/README.md](/md-viewer.html?file=/projects/bogle-ops/content-loop/README.md), [/projects/bogle-ops/content-loop/run_loop.py](/md-viewer.html?file=/projects/bogle-ops/content-loop/run_loop.py), [/projects/bogle-ops/content-loop/generated/threads-humor-loop.md](/md-viewer.html?file=/projects/bogle-ops/content-loop/generated/threads-humor-loop.md), [/projects/bogle-ops/content-loop/generated/cafe-post-loop.md](/md-viewer.html?file=/projects/bogle-ops/content-loop/generated/cafe-post-loop.md)
+  - 반영 내용: 1회 실행당 Threads 20개(한 줄 20자, 공백 포함) + 카페 글 2개 생성, 해시 기반 중복 방지 상태파일 도입

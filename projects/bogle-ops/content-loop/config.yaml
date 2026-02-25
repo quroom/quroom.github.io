@@ -1,0 +1,11 @@
+threads:
+  batch_size: 20
+  max_chars_per_line: 20
+  max_lines_per_post: 4
+cafe:
+  batch_size: 2
+  min_chars: 700
+  max_chars: 1400
+loop:
+  dedupe_hash_keep: 5000
+  timezone: Asia/Seoul
