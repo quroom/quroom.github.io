@@ -1,6 +1,7 @@
-# Current Operating Rules (Shareable)
+# Current Operating Rules (Replaced Baseline)
 
-> 시스템 프롬프트 원문이 아니라, 현재 동작 규칙 요약입니다.
+> 기존 요약본을 대체하여, OpenClaw Orchestration Prompt 완전 교체 기준을 반영하는 운영 기준입니다.
+> full draft: <https://quroom.github.io/md-viewer.html?file=/projects/internal/orchestration-reports/openclaw-orchestration-prompt-full.md>
 
 ## 1) Heartbeat 실행 원칙
 - heartbeat 트리거 시, 별도 지시가 없어도 오케스트레이션 루프를 실행한다.
