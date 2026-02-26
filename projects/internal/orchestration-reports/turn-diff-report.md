@@ -1,6 +1,6 @@
 # Turn Diff Report
 
-## 2026-02-26 14:40
+## 2026-02-26 14:49
 
 ## Workspace Last Commit Diff
 - commit: `0c30787`
@@ -14,12 +14,8 @@
 - `A	orchestration/scripts/turn_diff_report.py`
 
 ## quroom.github.io Last Commit Diff
-- commit: `e16aee2`
-- info: 2026-02-26 14:32:08 +0900 | chore: publish orchestration reports (2026-02-26 14:32)
+- commit: `64f3fda`
+- info: 2026-02-26 14:42:58 +0900 | bogle-ops: update evergreen pack with fixed requested template format
 - changed files:
-- `M	projects/internal/orchestration-reports/doc-change-log.md`
-- `M	projects/internal/orchestration-reports/file-update-index.md`
-- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
-- `M	projects/internal/orchestration-reports/turn-diff-report.md`
+- `M	projects/bogle-ops/threads-evergreen-bogle-humor-pack-003.md`
 
