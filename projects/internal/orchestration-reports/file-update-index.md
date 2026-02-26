@@ -1,10 +1,13 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-02-26 14:01
+- generated: 2026-02-26 14:02
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
+| 2026-02-26 14:01:31 +0900 | [projects/internal/index.html](/projects/internal/index.html) |
+| 2026-02-26 14:01:09 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-02-26 14:01:09 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-02-26 13:49:58 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
 | 2026-02-26 13:49:58 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
 | 2026-02-26 13:49:58 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
@@ -20,7 +23,6 @@
 | 2026-02-26 07:38:00 +0900 | [projects/bogle-ops/index.html](/projects/bogle-ops/index.html) |
 | 2026-02-26 07:38:00 +0900 | [projects/bogle-ops/threads-bogle-philosophy-pack-001.md](/md-viewer.html?file=/projects/bogle-ops/threads-bogle-philosophy-pack-001.md) |
 | 2026-02-26 07:36:43 +0900 | [projects/bogle-ops/threads-fomo-fire-pack-001.md](/md-viewer.html?file=/projects/bogle-ops/threads-fomo-fire-pack-001.md) |
-| 2026-02-26 06:24:48 +0900 | [projects/internal/index.html](/projects/internal/index.html) |
 | 2026-02-25 20:05:23 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
 | 2026-02-25 18:52:11 +0900 | [projects/bogle-ops/content-loop/README.md](/md-viewer.html?file=/projects/bogle-ops/content-loop/README.md) |
 | 2026-02-25 18:52:11 +0900 | [projects/bogle-ops/content-loop/config.yaml](/projects/bogle-ops/content-loop/config.yaml) |

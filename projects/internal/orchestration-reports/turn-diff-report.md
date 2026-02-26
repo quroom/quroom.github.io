@@ -1,18 +1,21 @@
 # Turn Diff Report
 
-## 2026-02-26 14:01
+## 2026-02-26 14:02
 
 ## Workspace Last Commit Diff
-- commit: `1bd0f44`
-- info: 2026-02-26 11:42:36 +0900 | orchestration: retarget knowledge loop priorities to business project docs
+- commit: `0c30787`
+- info: 2026-02-26 14:01:20 +0900 | orchestration: add per-turn diff report and date-based file update index
 - changed files:
-- `M	orchestration/knowledge-loop/state/doc-catalog.md`
+- `M	HEARTBEAT.md`
+- `A	orchestration/reports/file-update-index.md`
+- `A	orchestration/reports/turn-diff-report.md`
+- `A	orchestration/scripts/file_update_index.py`
+- `M	orchestration/scripts/publish_reports_to_githubio.py`
+- `A	orchestration/scripts/turn_diff_report.py`
 
 ## quroom.github.io Last Commit Diff
-- commit: `3453408`
-- info: 2026-02-26 13:49:58 +0900 | chore: publish orchestration reports (2026-02-26 13:49)
+- commit: `1896c8c`
+- info: 2026-02-26 14:01:31 +0900 | internal: add links for turn diff report and date-based file index
 - changed files:
-- `M	projects/internal/orchestration-reports/doc-change-log.md`
-- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
+- `M	projects/internal/index.html`
 
