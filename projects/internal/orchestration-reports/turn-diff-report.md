@@ -1,20 +1,17 @@
 # Turn Diff Report
 
-## 2026-02-26 17:10
+## 2026-02-26 17:50
 
 ## Workspace Last Commit Diff
-- commit: `32db532`
-- info: 2026-02-26 15:29:10 +0900 | orchestration: finalize change-log commit ref for knowledge-loop update
+- commit: `22314e9`
+- info: 2026-02-26 17:48:48 +0900 | orchestration: add shareable current operating rules report
 - changed files:
-- `M	orchestration/reports/doc-change-log.md`
+- `A	orchestration/reports/current-operating-rules.md`
+- `M	orchestration/scripts/publish_reports_to_githubio.py`
 
 ## quroom.github.io Last Commit Diff
-- commit: `a9470b4`
-- info: 2026-02-26 17:00:28 +0900 | chore: publish orchestration reports (2026-02-26 17:00)
+- commit: `e11f255`
+- info: 2026-02-26 17:48:46 +0900 | chore: publish orchestration reports (2026-02-26 17:48)
 - changed files:
-- `M	projects/internal/orchestration-reports/doc-change-log.md`
-- `M	projects/internal/orchestration-reports/file-update-index.md`
-- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
-- `M	projects/internal/orchestration-reports/turn-diff-report.md`
+- `A	projects/internal/orchestration-reports/current-operating-rules.md`
 
