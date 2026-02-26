@@ -1,20 +1,20 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-02-26 15:10
+- generated: 2026-02-26 15:20
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-02-26 15:00:33 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
-| 2026-02-26 15:00:33 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-02-26 15:00:33 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-02-26 15:10:02 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
+| 2026-02-26 15:10:02 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-02-26 15:10:02 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-02-26 15:10:02 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
+| 2026-02-26 15:10:02 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-02-26 15:00:33 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
-| 2026-02-26 15:00:33 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-02-26 14:51:04 +0900 | [projects/bogle-ops/threads-evergreen-bogle-humor-pack-003.md](/md-viewer.html?file=/projects/bogle-ops/threads-evergreen-bogle-humor-pack-003.md) |
 | 2026-02-26 14:50:00 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
 | 2026-02-26 14:42:02 +0900 | [projects/bogle-ops/index.html](/projects/bogle-ops/index.html) |
 | 2026-02-26 14:41:02 +0900 | [projects/bogle-ops/threads-bogle-short-humor-pack-002.md](/md-viewer.html?file=/projects/bogle-ops/threads-bogle-short-humor-pack-002.md) |
-| 2026-02-26 14:40:04 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
 | 2026-02-26 14:01:31 +0900 | [projects/internal/index.html](/projects/internal/index.html) |
 | 2026-02-26 11:42:34 +0900 | [projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md](/md-viewer.html?file=/projects/revenue-sprint/high-ticket-outsourcing-proposal-template.md) |
 | 2026-02-26 11:42:34 +0900 | [projects/service-monetization/first-10-customers-plan.md](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md) |
