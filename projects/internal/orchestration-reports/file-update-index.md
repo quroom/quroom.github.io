@@ -1,16 +1,16 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-02-27 15:04
+- generated: 2026-02-27 15:34
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-02-27 14:34:05 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-02-27 14:34:05 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-02-27 15:04:03 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-02-27 15:04:03 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-02-27 15:04:03 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
+| 2026-02-27 15:04:03 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-02-27 14:34:05 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
-| 2026-02-27 14:34:05 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-02-27 14:04:04 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
-| 2026-02-27 13:34:04 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
 | 2026-02-27 04:30:05 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
 | 2026-02-26 18:24:51 +0900 | [projects/internal/index.html](/projects/internal/index.html) |
 | 2026-02-26 18:24:49 +0900 | [projects/internal/orchestration-reports/current-operating-rules.md](/md-viewer.html?file=/projects/internal/orchestration-reports/current-operating-rules.md) |
