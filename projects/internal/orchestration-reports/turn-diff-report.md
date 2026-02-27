@@ -1,22 +1,33 @@
 # Turn Diff Report
 
-## 2026-02-27 12:34
+## 2026-02-27 13:04
 
 ## Workspace Last Commit Diff
-- commit: `a371b6f`
-- info: 2026-02-26 18:24:51 +0900 | orchestration: add full replacement prompt baseline report
+- commit: `281d0f0`
+- info: 2026-02-27 12:34:52 +0900 | chore(heartbeat): run super-agent rotation and refresh orchestration reports
 - changed files:
-- `M	orchestration/reports/current-operating-rules.md`
-- `A	orchestration/reports/openclaw-orchestration-prompt-full.md`
-- `M	orchestration/scripts/publish_reports_to_githubio.py`
+- `M	memory/2026-02-22.md`
+- `M	orchestration/experiments/backlog.md`
+- `M	orchestration/knowledge-loop/logs/improvement-log.md`
+- `M	orchestration/knowledge-loop/state/doc-catalog.md`
+- `M	orchestration/knowledge-loop/state/learning-notes.md`
+- `M	orchestration/metrics/scoreboard.csv`
+- `M	orchestration/reports/doc-change-log.md`
+- `M	orchestration/reports/file-update-index.md`
+- `M	orchestration/reports/heartbeat-run-report.md`
+- `M	orchestration/reports/project-improvement-log.md`
+- `M	orchestration/reports/revenue-experiments-log.md`
+- `M	orchestration/reports/strategy-brief.md`
+- `M	orchestration/reports/turn-diff-report.md`
+- `M	orchestration/runs/run-log.md`
+- `M	orchestration/state/agent-rotation.json`
 
 ## quroom.github.io Last Commit Diff
-- commit: `60cc5a4`
-- info: 2026-02-27 04:30:05 +0900 | chore: publish orchestration reports (2026-02-27 04:30)
+- commit: `1ed27cc`
+- info: 2026-02-27 12:34:20 +0900 | chore: publish orchestration reports (2026-02-27 12:34)
 - changed files:
-- `M	projects/internal/orchestration-reports/doc-change-log.md`
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
+- `M	projects/internal/orchestration-reports/strategy-brief.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
