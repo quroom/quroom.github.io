@@ -1,16 +1,16 @@
 # Turn Diff Report
 
-## 2026-02-27 20:04
+## 2026-02-27 20:34
 
 ## Workspace Last Commit Diff
-- commit: `0f13701`
-- info: 2026-02-27 20:03:02 +0900 | docs(report): upgrade KOSPI report to V2 with quantified scenario bands
+- commit: `bb1aea2`
+- info: 2026-02-27 20:15:41 +0900 | docs(report): upgrade KOSPI report to V3 with updated PER-based positioning
 - changed files:
 - `M	projects/internal/kospi-per-speculative-demand-report.md`
 
 ## quroom.github.io Last Commit Diff
-- commit: `15c81b5`
-- info: 2026-02-27 20:03:07 +0900 | docs: update KOSPI report to V2
+- commit: `0fcfa1e`
+- info: 2026-02-27 20:15:46 +0900 | docs: update KOSPI report to V3
 - changed files:
 - `M	projects/internal/kospi-per-speculative-demand-report.md`
 
