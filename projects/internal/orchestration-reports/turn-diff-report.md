@@ -1,25 +1,16 @@
 # Turn Diff Report
 
-## 2026-02-27 19:34
+## 2026-02-27 20:04
 
 ## Workspace Last Commit Diff
-- commit: `1375f5f`
-- info: 2026-02-27 19:04:10 +0900 | chore(heartbeat): rotate strategy loop and refresh reports
+- commit: `0f13701`
+- info: 2026-02-27 20:03:02 +0900 | docs(report): upgrade KOSPI report to V2 with quantified scenario bands
 - changed files:
-- `M	orchestration/metrics/scoreboard.csv`
-- `M	orchestration/reports/file-update-index.md`
-- `M	orchestration/reports/heartbeat-run-report.md`
-- `M	orchestration/reports/strategy-brief.md`
-- `M	orchestration/reports/turn-diff-report.md`
-- `M	orchestration/runs/run-log.md`
-- `M	orchestration/state/agent-rotation.json`
+- `M	projects/internal/kospi-per-speculative-demand-report.md`
 
 ## quroom.github.io Last Commit Diff
-- commit: `22e178f`
-- info: 2026-02-27 19:04:03 +0900 | chore: publish orchestration reports (2026-02-27 19:04)
+- commit: `15c81b5`
+- info: 2026-02-27 20:03:07 +0900 | docs: update KOSPI report to V2
 - changed files:
-- `M	projects/internal/orchestration-reports/file-update-index.md`
-- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
-- `M	projects/internal/orchestration-reports/turn-diff-report.md`
+- `M	projects/internal/kospi-per-speculative-demand-report.md`
 
