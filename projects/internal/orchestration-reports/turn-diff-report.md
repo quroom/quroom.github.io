@@ -1,20 +1,21 @@
 # Turn Diff Report
 
-## 2026-03-01 08:26
+## 2026-03-01 08:56
 
 ## Workspace Last Commit Diff
-- commit: `b103699`
-- info: 2026-03-01 08:17:10 +0900 | docs(orchestration): set 08:16 commit reference
+- commit: `b340c76`
+- info: 2026-03-01 08:31:15 +0900 | docs(memory): store primary Daum mailbox for email checks
 - changed files:
-- `M	orchestration/reports/doc-change-log.md`
+- `M	MEMORY.md`
+- `M	USER.md`
 
 ## quroom.github.io Last Commit Diff
-- commit: `7c8e41c`
-- info: 2026-03-01 08:17:08 +0900 | chore: publish orchestration reports (2026-03-01 08:17)
+- commit: `607510b`
+- info: 2026-03-01 08:26:04 +0900 | chore: publish orchestration reports (2026-03-01 08:26)
 - changed files:
 - `M	projects/internal/orchestration-reports/doc-change-log.md`
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
+- `M	projects/internal/orchestration-reports/strategy-brief.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
