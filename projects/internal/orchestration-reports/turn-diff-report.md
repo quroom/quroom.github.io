@@ -1,22 +1,20 @@
 # Turn Diff Report
 
-## 2026-03-01 07:47
+## 2026-03-01 08:17
 
 ## Workspace Last Commit Diff
-- commit: `2180da2`
-- info: 2026-03-01 07:45:01 +0900 | feat(journal): add private/public templates and publication rules
+- commit: `e8fda24`
+- info: 2026-03-01 08:05:21 +0900 | docs(user): set default Obsidian paths to documents directory
 - changed files:
-- `A	obsidian-journal/PUBLICATION-RULES.md`
-- `A	obsidian-journal/templates/private-daily-journal.md`
-- `A	obsidian-journal/templates/public-log-template.md`
+- `M	USER.md`
 
 ## quroom.github.io Last Commit Diff
-- commit: `0909bfc`
-- info: 2026-03-01 07:17:08 +0900 | chore: publish orchestration reports (2026-03-01 07:17)
+- commit: `a28ce46`
+- info: 2026-03-01 07:47:04 +0900 | chore: publish orchestration reports (2026-03-01 07:47)
 - changed files:
 - `M	projects/internal/orchestration-reports/doc-change-log.md`
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
+- `M	projects/internal/orchestration-reports/project-improvement-log.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
