@@ -1,27 +1,19 @@
 # Turn Diff Report
 
-## 2026-03-03 18:25
+## 2026-03-03 19:44
 
 ## Workspace Last Commit Diff
-- commit: `ba90abd`
-- info: 2026-03-03 17:56:04 +0900 | chore(heartbeat): run 17:56 idle orchestration loops and refresh reports
+- commit: `e273cd5`
+- info: 2026-03-03 19:15:00 +0900 | fix: include untimed due tasks in target-date briefing
 - changed files:
-- `M	orchestration/experiments/backlog.md`
-- `M	orchestration/metrics/scoreboard.csv`
-- `M	orchestration/reports/file-update-index.md`
-- `M	orchestration/reports/heartbeat-run-report.md`
-- `M	orchestration/reports/revenue-experiments-log.md`
-- `M	orchestration/reports/turn-diff-report.md`
-- `M	orchestration/runs/run-log.md`
-- `M	orchestration/state/agent-rotation.json`
-- `M	quroom.github.io`
+- `M	scripts/google_daily_brief.js`
 
 ## quroom.github.io Last Commit Diff
-- commit: `931235b`
-- info: 2026-03-03 17:56:02 +0900 | chore: publish orchestration reports (2026-03-03 17:56)
+- commit: `8c27755`
+- info: 2026-03-03 18:25:59 +0900 | chore: publish orchestration reports (2026-03-03 18:25)
 - changed files:
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
+- `M	projects/internal/orchestration-reports/strategy-brief.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
