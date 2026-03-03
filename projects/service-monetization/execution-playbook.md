@@ -347,7 +347,6 @@
 - D+3 재접촉 회수율
 - 축소안(Entry) 전환율
 
-
 ### 5) 오늘 연락할 Top5 추출 규칙 (Lead Prioritization)
 점수식(100점):
 - ICP 적합도(0~30)
@@ -366,7 +365,6 @@
 - Hot(80+): 당일 1순위
 - Warm(60~79): 48시간 내 접촉
 - Cold(<60): 콘텐츠/뉴스레터 육성
-
 
 ## BIZ-124 · 1인기업 일일 실행 루틴 + AI 피드백 루프
 
@@ -402,7 +400,6 @@
 - night queue에서 전일 미완료 항목 우선 처리
 - 아침 보고에 `완료/보류/오늘 액션 3개` 고정 출력
 
-
 ## BIZ-125 · 완전 자동화 아키텍처 (Queue Engine + QA Gate + Approval)
 
 ### 1) 아키텍처 레이어
@@ -427,7 +424,6 @@
 - 자동 승인: 문서 생성/수정, 내부 링크/템플릿 개선
 - 수동 승인 필수: 외부 메시지 발송, 삭제성 변경, 민감정보 포함 가능 작업
 
-
 ## BIZ-126 · n8n/Make 플로우 설계서 (야간 루프 연동)
 
 ### 1) 메인 플로우
@@ -451,7 +447,6 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 입력: job_id, target_file, task_text, priority, risk_level
 출력: status, changed_files[], commit_hash, summary, blocked_reason(optional)
 
-
 ### 5) 채널별 주간 운영표 (실행용)
 | 요일 | LinkedIn | Threads | 지역 네트워크 | 목표 |
 |---|---|---|---|---|
@@ -465,7 +460,6 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 - LinkedIn: 사례/결과 중심 (B2B 신뢰)
 - Threads: 공감/문제 인식 중심 (도달+관심)
 - 지역 네트워크: 소개/오프라인 신뢰 중심 (고전환)
-
 
 ### 6) 리드 수집 자동화 설계 (소스→정제→스코어→큐)
 1. Source: 공개 소스(회사 사이트/디렉토리/네트워크) 수집
@@ -482,7 +476,6 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 - 소스 신뢰도 낮으면 수동 검증 후 큐 편입
 - 큐 편입 후 7일 미접촉 리드는 자동 경고
 
-
 ### 7) 콜드아웃리치 컴플라이언스 체크리스트
 - [ ] 공개/합법 취득 데이터만 사용
 - [ ] 수신거부(옵트아웃) 경로 명시
@@ -495,7 +488,6 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 리스크 대응:
 - 불만/스팸 신고 증가 시 시퀀스 즉시 중단
 - 문구/타깃 세그먼트 재검토 후 재개
-
 
 ## BIZ-127 · 주간 실행 브리프 (월~금 1페이지)
 
@@ -520,7 +512,6 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 - [ ] 이번 주 목표 달성률 기록
 - [ ] 가장 효율 높은 채널 1개 선정
 - [ ] 다음 주 버릴 작업 1개 결정
-
 
 ## BIZ-128 · 제안서 거절 사유 분석 프레임
 
