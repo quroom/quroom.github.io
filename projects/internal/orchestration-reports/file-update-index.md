@@ -1,16 +1,20 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-03-04 04:15
+- generated: 2026-03-04 04:44
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-03-04 03:44:40 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-03-04 03:44:40 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-04 04:15:42 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
+| 2026-03-04 04:15:42 +0900 | [projects/revenue-sprint/content-calendar-7days.md](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md) |
+| 2026-03-04 04:15:42 +0900 | [projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md) |
+| 2026-03-04 04:15:42 +0900 | [projects/service-monetization/peak-season-simple-sheet.md](/md-viewer.html?file=/projects/service-monetization/peak-season-simple-sheet.md) |
+| 2026-03-04 04:15:13 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-03-04 04:15:13 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-04 04:15:13 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
+| 2026-03-04 04:15:13 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-04 03:44:40 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
-| 2026-03-04 03:44:40 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-04 03:14:38 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
-| 2026-03-04 02:44:39 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
 | 2026-03-03 13:26:04 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
 | 2026-02-27 20:15:46 +0900 | [projects/internal/kospi-per-speculative-demand-report.md](/md-viewer.html?file=/projects/internal/kospi-per-speculative-demand-report.md) |
 | 2026-02-26 18:24:51 +0900 | [projects/internal/index.html](/projects/internal/index.html) |
@@ -24,12 +28,10 @@
 | 2026-02-26 11:42:34 +0900 | [projects/service-monetization/first-10-customers-plan.md](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md) |
 | 2026-02-26 08:09:30 +0900 | [projects/service-monetization/peak-season-order-ops-master.md](/md-viewer.html?file=/projects/service-monetization/peak-season-order-ops-master.md) |
 | 2026-02-26 08:02:50 +0900 | [projects/service-monetization/index.html](/projects/service-monetization/index.html) |
-| 2026-02-26 07:56:59 +0900 | [projects/service-monetization/peak-season-simple-sheet.md](/md-viewer.html?file=/projects/service-monetization/peak-season-simple-sheet.md) |
 | 2026-02-26 07:55:02 +0900 | [projects/service-monetization/peak-season-order-ops-saas-living-plan.md](/md-viewer.html?file=/projects/service-monetization/peak-season-order-ops-saas-living-plan.md) |
 | 2026-02-26 07:52:14 +0900 | [projects/service-monetization/peak-season-order-ops-saas.md](/md-viewer.html?file=/projects/service-monetization/peak-season-order-ops-saas.md) |
 | 2026-02-26 07:38:00 +0900 | [projects/bogle-ops/threads-bogle-philosophy-pack-001.md](/md-viewer.html?file=/projects/bogle-ops/threads-bogle-philosophy-pack-001.md) |
 | 2026-02-26 07:36:43 +0900 | [projects/bogle-ops/threads-fomo-fire-pack-001.md](/md-viewer.html?file=/projects/bogle-ops/threads-fomo-fire-pack-001.md) |
-| 2026-02-25 20:05:23 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
 | 2026-02-25 18:52:11 +0900 | [projects/bogle-ops/content-loop/README.md](/md-viewer.html?file=/projects/bogle-ops/content-loop/README.md) |
 | 2026-02-25 18:52:11 +0900 | [projects/bogle-ops/content-loop/config.yaml](/projects/bogle-ops/content-loop/config.yaml) |
 | 2026-02-25 18:52:11 +0900 | [projects/bogle-ops/content-loop/generated/cafe-post-loop.md](/md-viewer.html?file=/projects/bogle-ops/content-loop/generated/cafe-post-loop.md) |
@@ -48,7 +50,6 @@
 | 2026-02-25 04:01:25 +0900 | [projects/service-monetization/sales-call-script.md](/md-viewer.html?file=/projects/service-monetization/sales-call-script.md) |
 | 2026-02-25 02:10:26 +0900 | [projects/service-monetization/followup-retention-flow.md](/md-viewer.html?file=/projects/service-monetization/followup-retention-flow.md) |
 | 2026-02-25 02:10:26 +0900 | [projects/service-monetization/unit-economics-dashboard.md](/md-viewer.html?file=/projects/service-monetization/unit-economics-dashboard.md) |
-| 2026-02-25 02:01:11 +0900 | [projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md) |
 | 2026-02-25 01:40:23 +0900 | [projects/service-monetization/content-calendar-4weeks.md](/md-viewer.html?file=/projects/service-monetization/content-calendar-4weeks.md) |
 | 2026-02-25 01:30:37 +0900 | [projects/service-monetization/regional-go-to-market.md](/md-viewer.html?file=/projects/service-monetization/regional-go-to-market.md) |
 | 2026-02-25 00:50:30 +0900 | [projects/bogle-ops/cafe-content-night-run-log.md](/md-viewer.html?file=/projects/bogle-ops/cafe-content-night-run-log.md) |
@@ -202,7 +203,6 @@
 | 2026-02-22 09:58:45 +0900 | [projects/revenue-sprint/inbound-sales-scripts-40.md](/md-viewer.html?file=/projects/revenue-sprint/inbound-sales-scripts-40.md) |
 | 2026-02-22 09:57:34 +0900 | [projects/revenue-sprint/README.md](/md-viewer.html?file=/projects/revenue-sprint/README.md) |
 | 2026-02-22 09:57:34 +0900 | [projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md](/md-viewer.html?file=/projects/revenue-sprint/monday-detail-plan-outsourcing-10m-20m.md) |
-| 2026-02-22 09:52:27 +0900 | [projects/revenue-sprint/content-calendar-7days.md](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md) |
 | 2026-02-22 09:48:35 +0900 | [projects/revenue-sprint/lead-magnet-pack-5.md](/md-viewer.html?file=/projects/revenue-sprint/lead-magnet-pack-5.md) |
 | 2026-02-22 09:39:55 +0900 | [projects/revenue-sprint/free-hook-productivity-checklist-10min.md](/md-viewer.html?file=/projects/revenue-sprint/free-hook-productivity-checklist-10min.md) |
 | 2026-02-22 09:39:55 +0900 | [projects/revenue-sprint/offer-copy-90min-setup-session.md](/md-viewer.html?file=/projects/revenue-sprint/offer-copy-90min-setup-session.md) |
