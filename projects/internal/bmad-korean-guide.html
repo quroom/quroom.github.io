@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BMAD 튜토리얼 한국어 가이드</title>
+  <style>
+    body{font-family:Arial,sans-serif;line-height:1.6;max-width:920px;margin:40px auto;padding:0 16px;color:#222}
+    h1,h2{line-height:1.3}
+    .card{border:1px solid #e5e7eb;border-radius:12px;padding:16px 18px;margin:14px 0}
+    a{color:#2563eb;text-decoration:none}
+    a:hover{text-decoration:underline}
+    code{background:#f3f4f6;padding:2px 6px;border-radius:6px}
+    ul{margin-top:6px}
+  </style>
+</head>
+<body>
+  <h1>BMAD Method 튜토리얼 한국어 가이드</h1>
+  <p>원문 문서 기반 핵심 내용을 한국어로 정리한 요약 번역본입니다.</p>
+
+  <div class="card">
+    <h2>1) Getting Started</h2>
+    <p>원문: <a href="https://docs.bmad-method.org/tutorials/getting-started/" target="_blank">getting-started</a></p>
+    <ul>
+      <li>가장 먼저 <code>bmad-help</code>를 실행해 현재 상황에 맞는 다음 작업을 추천받습니다.</li>
+      <li>4단계 흐름: 분석 → 기획 → 솔루션 설계 → 구현</li>
+      <li>설치: <code>npx bmad-method install</code></li>
+      <li>구현 루프: 스토리 생성(SM) → 구현(DEV) → 리뷰(DEV) → 회고(SM)</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>2) Workflow Map</h2>
+    <p>원문: <a href="https://docs.bmad-method.org/reference/workflow-map/" target="_blank">workflow-map</a></p>
+    <ul>
+      <li>각 단계 산출물이 다음 단계 입력이 되어 AI 의사결정 일관성을 높입니다.</li>
+      <li>소규모 작업은 Quick Flow로 1~3단계를 생략하고 빠르게 진행 가능합니다.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>3) Agents</h2>
+    <p>원문: <a href="https://docs.bmad-method.org/reference/agents/" target="_blank">agents</a></p>
+    <ul>
+      <li>Analyst, PM, Architect, Scrum Master, Developer, QA 등 역할별 에이전트 제공</li>
+      <li>각 에이전트는 스킬 ID와 트리거를 통해 호출</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>4) Skills(Commands)</h2>
+    <p>원문: <a href="https://docs.bmad-method.org/reference/commands/" target="_blank">skills</a></p>
+    <ul>
+      <li>스킬 직접 호출(<code>bmad-help</code> 등) 또는 에이전트 메뉴 트리거 방식 지원</li>
+      <li>모듈 변경 시 재설치로 스킬 동기화 필요</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>5) Official Modules</h2>
+    <p>원문: <a href="https://docs.bmad-method.org/reference/modules/" target="_blank">modules</a></p>
+    <ul>
+      <li><b>bmb</b>: BMAD 자체 확장(에이전트/워크플로/모듈 제작)</li>
+      <li><b>cis</b>: 창의적 아이데이션/문제해결 특화</li>
+      <li><b>gds</b>: 게임 개발 특화</li>
+      <li><b>tea</b>: 엔터프라이즈 테스트 전략/추적성 특화</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>6) Testing Options</h2>
+    <p>원문: <a href="https://docs.bmad-method.org/reference/testing/" target="_blank">testing</a></p>
+    <ul>
+      <li><b>Quinn(기본 QA)</b>: 빠른 테스트 생성, 소~중형 프로젝트 적합</li>
+      <li><b>TEA 모듈</b>: 전략/ATDD/추적성/릴리스 게이트 포함, 대형 프로젝트 적합</li>
+    </ul>
+  </div>
+
+  <p>최종 업데이트: 2026-03-10</p>
+</body>
+</html>
