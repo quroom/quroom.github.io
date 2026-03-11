@@ -364,3 +364,5 @@
 2026-03-11 23:40:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
 2026-03-12 00:00:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
 2026-03-12 00:20:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
+2026-03-12 00:40:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
+2026-03-12 01:00:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
