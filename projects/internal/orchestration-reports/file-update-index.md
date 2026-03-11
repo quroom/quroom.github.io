@@ -1,19 +1,19 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-03-11 15:39
+- generated: 2026-03-11 16:09
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-03-11 15:09:16 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
-| 2026-03-11 15:09:16 +0900 | [projects/revenue-sprint/content-calendar-7days.md](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md) |
-| 2026-03-11 15:09:13 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
-| 2026-03-11 15:09:13 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-03-11 15:09:13 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-11 15:39:21 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
+| 2026-03-11 15:39:21 +0900 | [projects/revenue-sprint/content-calendar-7days.md](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md) |
+| 2026-03-11 15:39:18 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
+| 2026-03-11 15:39:18 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-03-11 15:39:18 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-11 15:39:18 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
+| 2026-03-11 15:39:18 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-11 15:09:13 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
-| 2026-03-11 15:09:13 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-11 14:39:17 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
-| 2026-03-11 14:09:14 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
 | 2026-03-11 07:09:23 +0900 | [projects/internal/night-heartbeat-autoswitch.state](/projects/internal/night-heartbeat-autoswitch.state) |
 | 2026-03-10 11:51:15 +0900 | [projects/internal/bmad-korean-guide.html](/projects/internal/bmad-korean-guide.html) |
 | 2026-03-10 04:07:39 +0900 | [projects/bogle-ops/build_etf_backtest.mjs](/projects/bogle-ops/build_etf_backtest.mjs) |
