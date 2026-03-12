@@ -1185,3 +1185,5 @@
 - 05:44 heartbeat: 오케스트레이션 큐 idle 확인 후 knowledge-loop + super-agent + report publish 실행
 - 06:14 heartbeat: 오케스트레이션 큐 idle 확인 후 knowledge-loop + super-agent + report publish 실행
 - 06:44 heartbeat: 오케스트레이션 큐 idle 확인 후 knowledge-loop + super-agent + report publish 실행
+- 07:14 heartbeat: 오케스트레이션 큐 idle 확인 후 knowledge-loop + super-agent + report publish 실행
+- 아침 요약(전일 Ralph Loop): service-monetization/night-queue 완료 유지, cafe-content-night-queue 완료 유지, 신규 BLOCKED 없음
