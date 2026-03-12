@@ -489,7 +489,7 @@ Trigger(heartbeat/catchup) → Queue Read → Pick(PENDING top) → Update(DOING
 - 불만/스팸 신고 증가 시 시퀀스 즉시 중단
 - 문구/타깃 세그먼트 재검토 후 재개
 
-## BIZ-127 · 주간 실행 브리프 (월~금 1페이지)
+## BIZ-127 · 주간 실행브리프 (월~금 1페이지)
 
 ### 이번 주 목표 (숫자 3개)
 - 리드 수:
