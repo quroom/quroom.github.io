@@ -1,14 +1,12 @@
 # Turn Diff Report
 
-## 2026-03-13 18:07
+## 2026-03-13 18:20
 
 ## Workspace Last Commit Diff
-- commit: `abaedd3`
-- info: 2026-03-13 17:50:25 +0900 | chore: run heartbeat idle orchestration loop at 17:49
+- commit: `771fe69`
+- info: 2026-03-13 18:07:10 +0900 | heartbeat: run idle super-agent/report loop
 - changed files:
-- `M	orchestration/knowledge-loop/logs/improvement-log.md`
 - `M	orchestration/metrics/scoreboard.csv`
-- `M	orchestration/reports/daily-work-report.md`
 - `M	orchestration/reports/doc-change-log.md`
 - `M	orchestration/reports/file-update-index.md`
 - `M	orchestration/reports/heartbeat-run-report.md`
@@ -18,9 +16,12 @@
 - `M	quroom.github.io`
 
 ## quroom.github.io Last Commit Diff
-- commit: `77a6338`
-- info: 2026-03-13 17:50:14 +0900 | chore: heartbeat 2026-03-13 17:49 idle loop updates
+- commit: `52d0bad`
+- info: 2026-03-13 18:07:07 +0900 | chore: publish orchestration reports (2026-03-13 18:07)
 - changed files:
-- `M	projects/internal/daily-work-report.md`
-- `M	projects/service-monetization/execution-playbook.md`
+- `M	projects/internal/orchestration-reports/doc-change-log.md`
+- `M	projects/internal/orchestration-reports/file-update-index.md`
+- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
+- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
+- `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
