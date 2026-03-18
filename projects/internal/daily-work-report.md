@@ -3,6 +3,13 @@
 하루 단위 작업 처리 내역(Heartbeat/수동 실행 공통).
 
 ## 2026-03-19
+- 아침 보고(야간 Ralph Loop 요약): **07:02**
+  - 야간 service-monetization / cafe-content 큐 신규 PENDING 없음
+  - 야간 시간대에는 메인/야간 큐가 비어 있어 idle 루프 중심으로 운영됨
+  - 누적 실행 결과: super-agent 라운드로빈(product-engineer / super-marketer / super-agent) 지속 수행, 리포트 publish 연속 반영
+- 처리 작업(오케스트레이션 Idle 루프): **07:02 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md)
+  - 반영 내용: 워크큐/야간큐/메인큐 PENDING 없음 확인 후 idle 루프 실행, knowledge-loop 검토(no-op), super-agent(super-agent) 1턴 수행, 리포트 4건 publish 완료
 - 처리 작업(오케스트레이션 Idle 루프): **06:32 실행 완료**
   - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md)
   - 반영 내용: 워크큐/야간큐/메인큐 PENDING 없음 확인 후 idle 루프 실행, knowledge-loop 검토(no-op), super-agent(super-marketer) 1턴 수행, 리포트 4건 publish 완료
