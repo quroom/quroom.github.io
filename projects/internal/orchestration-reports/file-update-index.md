@@ -5,14 +5,14 @@
 
 | last_commit_at | file |
 |---|---|
+| 2026-03-19 06:02:40 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-03-19 06:02:40 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-19 06:02:40 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
+| 2026-03-19 06:02:40 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-19 05:32:43 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
 | 2026-03-19 05:32:40 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
-| 2026-03-19 05:32:40 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-03-19 05:32:40 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
-| 2026-03-19 05:32:40 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-19 05:32:37 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
 | 2026-03-19 05:02:26 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
-| 2026-03-19 04:32:29 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
 | 2026-03-18 05:03:11 +0900 | [projects/internal/night-heartbeat-autoswitch.state](/projects/internal/night-heartbeat-autoswitch.state) |
 | 2026-03-13 19:04:31 +0900 | [projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md) |
 | 2026-03-11 18:39:22 +0900 | [projects/revenue-sprint/content-calendar-7days.md](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md) |
