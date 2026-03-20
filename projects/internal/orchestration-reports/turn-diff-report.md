@@ -17,11 +17,11 @@
 - `M	orchestration/state/agent-rotation.json`
 
 ## quroom.github.io Last Commit Diff
-- commit: `44631dd`
-- info: 2026-03-21 05:46:39 +0900 | chore: publish orchestration reports (2026-03-21 05:46)
+- commit: `e623134`
+- info: 2026-03-21 05:47:08 +0900 | chore: publish orchestration reports (2026-03-21 05:47)
 - changed files:
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
+- `M	projects/internal/orchestration-reports/project-improvement-log.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
