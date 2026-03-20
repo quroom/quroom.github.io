@@ -1,17 +1,18 @@
 # Turn Diff Report
 
-## 2026-03-20 10:00
+## 2026-03-20 10:30
 
 ## Workspace Last Commit Diff
-- commit: `8c805333`
-- info: 2026-03-20 09:57:41 +0900 | chore: move mindcheck-site into projects folder
+- commit: `55af33f4`
+- info: 2026-03-20 10:04:47 +0900 | feat: add GitHub App auto-token push scripts and setup guide
 - changed files:
-- `R100	mindcheck-site/README.md	projects/mindcheck-site/README.md`
-- `R100	mindcheck-site/index.html	projects/mindcheck-site/index.html`
+- `A	projects/internal/github-app-auth/README.md`
+- `A	projects/internal/github-app-auth/scripts/get_installation_token.sh`
+- `A	projects/internal/github-app-auth/scripts/git_push_with_app.sh`
 
 ## quroom.github.io Last Commit Diff
-- commit: `e51e819`
-- info: 2026-03-20 09:31:31 +0900 | heartbeat: update 2026-03-20 0930 report
+- commit: `0a165bc`
+- info: 2026-03-20 10:01:17 +0900 | heartbeat: update 2026-03-20 1000 report
 - changed files:
 - `M	projects/internal/daily-work-report.md`
 - `M	projects/revenue-sprint/content-calendar-7days.md`
