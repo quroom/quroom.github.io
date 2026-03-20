@@ -1,19 +1,27 @@
 # Turn Diff Report
 
-## 2026-03-20 16:43
+## 2026-03-21 04:13
 
 ## Workspace Last Commit Diff
-- commit: `df3f7b8b`
-- info: 2026-03-20 11:45:20 +0900 | docs: add git push project-isolation safety rules
+- commit: `a70b93c1`
+- info: 2026-03-20 16:43:08 +0900 | heartbeat: run idle super-agent/report loop
 - changed files:
-- `M	AGENTS.md`
+- `M	orchestration/metrics/scoreboard.csv`
+- `M	orchestration/reports/doc-change-log.md`
+- `M	orchestration/reports/file-update-index.md`
+- `M	orchestration/reports/heartbeat-run-report.md`
+- `M	orchestration/reports/turn-diff-report.md`
+- `M	orchestration/runs/run-log.md`
+- `M	orchestration/state/agent-rotation.json`
+- `M	quroom.github.io`
 
 ## quroom.github.io Last Commit Diff
-- commit: `4a3f067`
-- info: 2026-03-20 11:42:59 +0900 | chore: publish orchestration reports (2026-03-20 11:42)
+- commit: `499871d`
+- info: 2026-03-20 16:43:04 +0900 | chore: publish orchestration reports (2026-03-20 16:43)
 - changed files:
+- `M	projects/internal/orchestration-reports/doc-change-log.md`
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
+- `M	projects/internal/orchestration-reports/project-improvement-log.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
