@@ -1,16 +1,19 @@
 # Turn Diff Report
 
-## 2026-03-20 11:42
+## 2026-03-20 16:43
 
 ## Workspace Last Commit Diff
-- commit: `c1ca908f`
-- info: 2026-03-20 11:41:43 +0900 | feat: improve mindcheck UX with shareable results and engagement actions
+- commit: `df3f7b8b`
+- info: 2026-03-20 11:45:20 +0900 | docs: add git push project-isolation safety rules
 - changed files:
-- `M	projects/mindcheck-site/index.html`
+- `M	AGENTS.md`
 
 ## quroom.github.io Last Commit Diff
-- commit: `d39a0c2`
-- info: 2026-03-20 11:40:50 +0900 | heartbeat: update 2026-03-20 1140 report
+- commit: `4a3f067`
+- info: 2026-03-20 11:42:59 +0900 | chore: publish orchestration reports (2026-03-20 11:42)
 - changed files:
-- `M	projects/internal/daily-work-report.md`
+- `M	projects/internal/orchestration-reports/file-update-index.md`
+- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
+- `M	projects/internal/orchestration-reports/strategy-brief.md`
+- `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
