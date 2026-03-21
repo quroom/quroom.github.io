@@ -1,6 +1,6 @@
 # Turn Diff Report
 
-## 2026-03-21 18:55
+## 2026-03-21 19:26
 
 ## Workspace Last Commit Diff
 - commit: `7c80b1ca`
@@ -17,11 +17,11 @@
 - `M	orchestration/state/agent-rotation.json`
 
 ## quroom.github.io Last Commit Diff
-- commit: `ab488d7`
-- info: 2026-03-21 18:24:52 +0900 | chore: publish orchestration reports (2026-03-21 18:24)
+- commit: `c352c71`
+- info: 2026-03-21 18:55:34 +0900 | chore: publish orchestration reports (2026-03-21 18:55)
 - changed files:
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
+- `M	projects/internal/orchestration-reports/strategy-brief.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
