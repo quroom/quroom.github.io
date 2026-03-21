@@ -1126,3 +1126,4 @@
 - 2026-03-22 04:10 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/peak-season-order-ops-master.md | reason=knowledge-loop readability-only spacing fix (`화면흐름` → `화면 흐름`)
 - 2026-03-22 04:40 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/peak-season-simple-sheet.md | reason=knowledge-loop readability-only spacing fix (`사용 방법(3단계)` → `사용 방법 (3단계)`)
 - 2026-03-22 05:10 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/offer-architecture.md | reason=knowledge-loop readability-only wording normalization (`1:1 진단콜 60~90분` → `1:1 진단콜 60~90분 진행`)
+- 2026-03-22 05:40 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/first-10-customers-plan.md | reason=knowledge-loop readability-only spacing fix (`리드 풀` → `리드풀`)

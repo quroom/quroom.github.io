@@ -1,20 +1,21 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-03-22 05:10
+- generated: 2026-03-22 05:40
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-03-22 04:40:29 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
+| 2026-03-22 05:10:20 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
+| 2026-03-22 05:10:20 +0900 | [projects/service-monetization/offer-architecture.md](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md) |
+| 2026-03-22 05:10:07 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
+| 2026-03-22 05:10:07 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-03-22 05:10:07 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-22 05:10:07 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
+| 2026-03-22 05:10:07 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-22 04:40:29 +0900 | [projects/service-monetization/peak-season-simple-sheet.md](/md-viewer.html?file=/projects/service-monetization/peak-season-simple-sheet.md) |
-| 2026-03-22 04:40:11 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
-| 2026-03-22 04:40:11 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-03-22 04:40:11 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
 | 2026-03-22 04:40:11 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
-| 2026-03-22 04:40:11 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-22 04:11:02 +0900 | [projects/service-monetization/peak-season-order-ops-master.md](/md-viewer.html?file=/projects/service-monetization/peak-season-order-ops-master.md) |
 | 2026-03-22 04:10:36 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
-| 2026-03-22 03:39:09 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
 | 2026-03-21 04:14:41 +0900 | [projects/internal/night-heartbeat-autoswitch.state](/projects/internal/night-heartbeat-autoswitch.state) |
 | 2026-03-20 10:31:26 +0900 | [projects/revenue-sprint/content-calendar-7days.md](/md-viewer.html?file=/projects/revenue-sprint/content-calendar-7days.md) |
 | 2026-03-13 19:04:31 +0900 | [projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md) |
@@ -230,7 +231,6 @@
 | 2026-02-21 23:19:22 +0900 | [projects/service-monetization/free-webinar-plan.md](/md-viewer.html?file=/projects/service-monetization/free-webinar-plan.md) |
 | 2026-02-21 23:09:34 +0900 | [projects/service-monetization/pricing-model.md](/md-viewer.html?file=/projects/service-monetization/pricing-model.md) |
 | 2026-02-21 22:59:22 +0900 | [projects/service-monetization/packages-spec.md](/md-viewer.html?file=/projects/service-monetization/packages-spec.md) |
-| 2026-02-21 22:49:27 +0900 | [projects/service-monetization/offer-architecture.md](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md) |
 | 2026-02-21 22:39:21 +0900 | [projects/retire-sim/monday-summary.md](/md-viewer.html?file=/projects/retire-sim/monday-summary.md) |
 | 2026-02-21 22:29:30 +0900 | [projects/retire-sim/pricing-experiments.md](/md-viewer.html?file=/projects/retire-sim/pricing-experiments.md) |
 | 2026-02-21 22:19:29 +0900 | [projects/retire-sim/landing-copy.md](/md-viewer.html?file=/projects/retire-sim/landing-copy.md) |
