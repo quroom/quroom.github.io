@@ -86,7 +86,7 @@
 - [ ] 피드백 폼 준비
 - [ ] 후속 DM 템플릿 준비
 
-## BIZ-117 · 무료 줌 스터디 / 오피스아워 주간 운영안
+## BIZ-117 · 무료 줌 스터디/오피스아워 주간 운영안
 
 원문: [/projects/service-monetization/weekly-office-hours.md](/md-viewer.html?file=/projects/service-monetization/weekly-office-hours.md)
 
