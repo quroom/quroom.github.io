@@ -1129,3 +1129,4 @@
 - 2026-03-22 05:40 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/first-10-customers-plan.md | reason=knowledge-loop readability-only spacing fix (`리드 풀` → `리드풀`)
 - 2026-03-22 06:10 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/execution-playbook.md | reason=knowledge-loop readability-only spacing fix (`무료 줌 스터디 / 오피스아워` → `무료 줌 스터디/오피스아워`)
 - 2026-03-22 06:40 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/service-monetization/peak-season-order-ops-saas-living-plan.md | reason=knowledge-loop readability-only spacing fix (`현장판매` → `현장 판매`)
+- 2026-03-22 12:40 | update | /home/ubuntu/.openclaw/workspace/quroom.github.io/projects/revenue-sprint/offer-stack-fast-close.md | reason=knowledge-loop readability-only wording normalization (`대시보드/운영 SOP` → `대시보드/운영 SOP 정리`)
