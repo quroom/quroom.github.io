@@ -1,21 +1,22 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-03-22 13:40
+- generated: 2026-03-22 14:10
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-03-22 12:40:21 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
+| 2026-03-22 13:40:22 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
+| 2026-03-22 13:40:22 +0900 | [projects/revenue-sprint/pipeline-dashboard-template.md](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md) |
+| 2026-03-22 13:40:09 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
+| 2026-03-22 13:40:09 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-03-22 13:40:09 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-03-22 13:40:09 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
+| 2026-03-22 13:40:09 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-22 12:40:21 +0900 | [projects/revenue-sprint/offer-stack-fast-close.md](/md-viewer.html?file=/projects/revenue-sprint/offer-stack-fast-close.md) |
-| 2026-03-22 12:40:06 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
-| 2026-03-22 12:40:06 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-03-22 12:40:06 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
 | 2026-03-22 12:40:06 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
-| 2026-03-22 12:40:06 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-03-22 06:40:22 +0900 | [projects/service-monetization/peak-season-order-ops-saas-living-plan.md](/md-viewer.html?file=/projects/service-monetization/peak-season-order-ops-saas-living-plan.md) |
 | 2026-03-22 06:40:08 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
 | 2026-03-22 06:10:43 +0900 | [projects/service-monetization/execution-playbook.md](/md-viewer.html?file=/projects/service-monetization/execution-playbook.md) |
-| 2026-03-22 06:10:27 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
 | 2026-03-22 05:40:22 +0900 | [projects/service-monetization/first-10-customers-plan.md](/md-viewer.html?file=/projects/service-monetization/first-10-customers-plan.md) |
 | 2026-03-22 05:10:20 +0900 | [projects/service-monetization/offer-architecture.md](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md) |
 | 2026-03-22 04:40:29 +0900 | [projects/service-monetization/peak-season-simple-sheet.md](/md-viewer.html?file=/projects/service-monetization/peak-season-simple-sheet.md) |
@@ -199,7 +200,6 @@
 | 2026-02-22 10:58:53 +0900 | [projects/bogle-beginner-kit/001-start-here.md](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md) |
 | 2026-02-22 10:48:42 +0900 | [projects/revenue-sprint/customer-interview-loop.md](/md-viewer.html?file=/projects/revenue-sprint/customer-interview-loop.md) |
 | 2026-02-22 10:38:35 +0900 | [projects/revenue-sprint/launch-sequence-10days-solo.md](/md-viewer.html?file=/projects/revenue-sprint/launch-sequence-10days-solo.md) |
-| 2026-02-22 10:28:35 +0900 | [projects/revenue-sprint/pipeline-dashboard-template.md](/md-viewer.html?file=/projects/revenue-sprint/pipeline-dashboard-template.md) |
 | 2026-02-22 10:22:33 +0900 | [projects/revenue-sprint/pricing-urgency-rulebook.md](/md-viewer.html?file=/projects/revenue-sprint/pricing-urgency-rulebook.md) |
 | 2026-02-22 10:18:38 +0900 | [projects/revenue-sprint/landing-restructure-onepage.md](/md-viewer.html?file=/projects/revenue-sprint/landing-restructure-onepage.md) |
 | 2026-02-22 10:09:20 +0900 | [projects/bogle-beginner-kit/STYLE-GUIDE.md](/md-viewer.html?file=/projects/bogle-beginner-kit/STYLE-GUIDE.md) |
