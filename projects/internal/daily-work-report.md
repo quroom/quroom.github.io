@@ -3,7 +3,7 @@
 하루 단위 작업 처리 내역(Heartbeat/수동 실행 공통).
 
 ## 2026-03-19
-- 처리 작업(오케스트레이션 Idle 루프): **03:30 실행 완료**
+- 처리 작업 (오케스트레이션 Idle 루프): **03:30 실행 완료**
   - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md)
   - 반영 내용: 워크큐/야간큐/메인큐 PENDING 없음 확인 후 idle 루프 실행, knowledge-loop 검토(no-op), super-agent(product-engineer) 1턴 수행, 리포트 4건 publish 완료
 - 처리 작업(오케스트레이션 Idle 루프): **03:00 실행 완료**
@@ -1890,3 +1890,4 @@
 - 2026-03-22 14:10 heartbeat idle 루프 실행: knowledge-loop 1건(high-ticket-outsourcing-proposal-template 표기 정리) + super-agent rotation 1턴 + 보고서 동기화(PUBLISHED 5) 완료
 - 2026-03-22 14:40 heartbeat idle 루프 실행: knowledge-loop 1건(content-calendar-7days 문구 미세정리) + super-agent rotation 1턴 + 보고서 동기화(PUBLISHED 5) 완료
 - 2026-03-22 15:10 heartbeat idle 루프 실행: knowledge-loop 1건(daily-work-report 표기 정리) + super-agent rotation 1턴 + 보고서 동기화(PUBLISHED 5) 완료
+- 2026-03-22 16:40 heartbeat idle 루프 실행: knowledge-loop 1건(daily-work-report 불릿 표기 정리) + super-agent rotation 1턴 + 보고서 동기화(PUBLISHED 5) 완료
