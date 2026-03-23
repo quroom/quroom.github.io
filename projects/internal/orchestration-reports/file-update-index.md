@@ -1,11 +1,12 @@
 # File Update Index (작성/수정일 기준)
 
-- generated: 2026-03-23 14:49
+- generated: 2026-03-23 14:50
 - 기준: quroom.github.io git 마지막 커밋 시각
 
 | last_commit_at | file |
 |---|---|
-| 2026-03-23 14:48:59 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-03-23 14:49:45 +0900 | [projects/internal/night-heartbeat-autoswitch.state](/projects/internal/night-heartbeat-autoswitch.state) |
+| 2026-03-23 14:49:25 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
 | 2026-03-23 14:48:58 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
 | 2026-03-23 14:48:58 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
 | 2026-03-23 14:48:58 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
@@ -23,7 +24,6 @@
 | 2026-03-22 05:10:20 +0900 | [projects/service-monetization/offer-architecture.md](/md-viewer.html?file=/projects/service-monetization/offer-architecture.md) |
 | 2026-03-22 04:40:29 +0900 | [projects/service-monetization/peak-season-simple-sheet.md](/md-viewer.html?file=/projects/service-monetization/peak-season-simple-sheet.md) |
 | 2026-03-22 04:11:02 +0900 | [projects/service-monetization/peak-season-order-ops-master.md](/md-viewer.html?file=/projects/service-monetization/peak-season-order-ops-master.md) |
-| 2026-03-21 04:14:41 +0900 | [projects/internal/night-heartbeat-autoswitch.state](/projects/internal/night-heartbeat-autoswitch.state) |
 | 2026-03-10 11:51:15 +0900 | [projects/internal/bmad-korean-guide.html](/projects/internal/bmad-korean-guide.html) |
 | 2026-03-10 04:07:39 +0900 | [projects/bogle-ops/build_etf_backtest.mjs](/projects/bogle-ops/build_etf_backtest.mjs) |
 | 2026-02-27 20:15:46 +0900 | [projects/internal/kospi-per-speculative-demand-report.md](/md-viewer.html?file=/projects/internal/kospi-per-speculative-demand-report.md) |
