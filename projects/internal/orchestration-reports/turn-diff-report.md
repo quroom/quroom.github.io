@@ -17,8 +17,11 @@
 - `M	quroom.github.io`
 
 ## quroom.github.io Last Commit Diff
-- commit: `52f261c`
-- info: 2026-03-23 15:26:40 +0900 | chore: publish orchestration reports (2026-03-23 15:26)
+- commit: `af9c082`
+- info: 2026-03-23 15:27:09 +0900 | chore: publish orchestration reports (2026-03-23 15:27)
 - changed files:
 - `M	projects/internal/orchestration-reports/file-update-index.md`
+- `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
+- `M	projects/internal/orchestration-reports/project-improvement-log.md`
+- `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
