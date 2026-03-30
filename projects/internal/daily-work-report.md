@@ -3,6 +3,10 @@
 하루 단위 작업 처리 내역(Heartbeat/수동 실행 공통).
 
 ## 2026-03-30
+- 처리 작업: **WORKQUEUE BGL-201 확인 완료**
+  - 반영: `/home/ubuntu/.openclaw/workspace/WORKQUEUE.md` 상단 항목을 `DOING→DONE(검증 완료)`로 정리
+  - 근거 문서: [`/projects/bogle-beginner-kit/001-start-here.md`](/md-viewer.html?file=/projects/bogle-beginner-kit/001-start-here.md)
+
 - 처리 작업(오케스트레이션 Idle 루프): **20:00 실행 완료**
   - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/weekly-evolution.md](/md-viewer.html?file=/orchestration/reports/weekly-evolution.md)
   - 반영 내용: WORKQUEUE/오케스트레이션 큐 점검 후 PENDING 없음, knowledge-loop 1건 실행, super-agent 1턴 실행, 리포트 4건 publish
