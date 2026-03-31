@@ -3,6 +3,9 @@
 하루 단위 작업 처리 내역(Heartbeat/수동 실행 공통).
 
 ## 2026-03-31
+- 처리 작업(오케스트레이션 Idle 루프): **15:33 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/doc-change-log.md](/md-viewer.html?file=/orchestration/reports/doc-change-log.md)
+  - 반영 내용: 큐 pending 없음 확인 후 idle 루프 실행, knowledge-loop 1건(`execution-playbook`) 실행(ensure_final_newline), super-agent(super-agent) 1턴 실행(strategy_brief_added+weekly_section_exists), 보고서 갱신 완료
 - 처리 작업(오케스트레이션 Idle 루프): **12:20 실행 완료**
 - 처리 작업(오케스트레이션 Idle 루프): **13:52 실행 완료**
   - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/doc-change-log.md](/md-viewer.html?file=/orchestration/reports/doc-change-log.md)
