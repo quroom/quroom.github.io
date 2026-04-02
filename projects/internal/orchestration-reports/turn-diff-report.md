@@ -1,10 +1,10 @@
 # Turn Diff Report
 
-## 2026-04-03 02:31
+## 2026-04-03 03:01
 
 ## Workspace Last Commit Diff
-- commit: `10a23064`
-- info: 2026-04-03 02:01:38 +0900 | chore: heartbeat idle loop iteration 02:01
+- commit: `d5fc1598`
+- info: 2026-04-03 02:31:39 +0900 | chore: heartbeat idle loop iteration 02:31
 - changed files:
 - `M	orchestration/knowledge-loop/logs/improvement-log.md`
 - `M	orchestration/knowledge-loop/state/doc-catalog.md`
@@ -13,15 +13,15 @@
 - `M	orchestration/reports/doc-change-log.md`
 - `M	orchestration/reports/file-update-index.md`
 - `M	orchestration/reports/heartbeat-run-report.md`
-- `M	orchestration/reports/strategy-brief.md`
+- `M	orchestration/reports/project-improvement-log.md`
 - `M	orchestration/reports/turn-diff-report.md`
 - `M	orchestration/runs/run-log.md`
 - `M	orchestration/state/agent-rotation.json`
 - `M	quroom.github.io`
 
 ## quroom.github.io Last Commit Diff
-- commit: `dc281d85`
-- info: 2026-04-03 02:01:36 +0900 | chore: heartbeat loop state sync 2026-04-03 02:01
+- commit: `a5045c66`
+- info: 2026-04-03 02:31:39 +0900 | chore: update heartbeat autoswitch state
 - changed files:
 - `M	projects/internal/night-heartbeat-autoswitch.state`
 
