@@ -2,6 +2,34 @@
 
 하루 단위 작업 처리 내역(Heartbeat/수동 실행 공통).
 
+## 2026-04-07
+- 처리 작업(오케스트레이션 Idle 루프): **12:04 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md), [/orchestration/runs/run-log.md](/md-viewer.html?file=/orchestration/runs/run-log.md)
+  - 반영 내용: knowledge-loop 1건(`peak-season-simple-sheet`) 실행(ensure_final_newline), super-agent 1턴 실행(super-agent), docs publish 완료
+
+- 처리 작업(오케스트레이션 Idle 루프): **11:34 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md), [/orchestration/runs/run-log.md](/md-viewer.html?file=/orchestration/runs/run-log.md)
+  - 반영 내용: knowledge-loop 1건(`execution-playbook`) 실행(ensure_final_newline), super-agent 1턴 실행(super-marketer), docs publish 완료
+
+- 처리 작업(오케스트레이션 Idle 루프): **11:03 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md), [/orchestration/runs/run-log.md](/md-viewer.html?file=/orchestration/runs/run-log.md)
+  - 반영 내용: knowledge-loop 1건 + super-agent 1턴 실행, docs publish 완료
+
+- 처리 작업(오케스트레이션 Idle 루프): **10:33 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md), [/orchestration/runs/run-log.md](/md-viewer.html?file=/orchestration/runs/run-log.md)
+  - 반영 내용: knowledge-loop 1건(`peak-season-order-ops-saas-living-plan`) 실행(ensure_final_newline), super-agent 1턴 실행(super-agent: strategy_brief_added+weekly_section_exists), docs publish 완료
+
+- 처리 작업(오케스트레이션 Idle 루프): **10:03 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md), [/orchestration/runs/run-log.md](/md-viewer.html?file=/orchestration/runs/run-log.md)
+  - 반영 내용: knowledge-loop 1건(`high-ticket-outsourcing-proposal-template`) 실행(ensure_final_newline), super-agent 1턴 실행(super-marketer), docs publish 완료
+
+
+- 처리 작업(오케스트레이션 Idle 루프): **09:04 실행 완료**
+  - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/project-improvement-log.md](/md-viewer.html?file=/orchestration/reports/project-improvement-log.md), [/orchestration/reports/revenue-experiments-log.md](/md-viewer.html?file=/orchestration/reports/revenue-experiments-log.md), [/orchestration/runs/run-log.md](/md-viewer.html?file=/orchestration/runs/run-log.md)
+  - 반영 내용: WORKQUEUE/오케스트레이션 큐 PENDING 없음 확인 후 idle 루프 실행(knowledge-loop 1건: offer-stack-fast-close ensure_final_newline), super-agent 1턴 실행(super-agent), docs publish 완료
+- 처리 작업(오케스트레이션 Idle 루프): **08:00~09:00 아침 브리핑 요약 반영**
+  - 전일 야간 루프: 미처리/신규 없음(로그 기준 최근 완료 항목 없음)
+
 ## 2026-03-31
 - 처리 작업(오케스트레이션 Idle 루프): **15:33 실행 완료**
   - 결과 파일: [/orchestration/reports/heartbeat-run-report.md](/md-viewer.html?file=/orchestration/reports/heartbeat-run-report.md), [/orchestration/reports/turn-diff-report.md](/md-viewer.html?file=/orchestration/reports/turn-diff-report.md), [/orchestration/reports/file-update-index.md](/md-viewer.html?file=/orchestration/reports/file-update-index.md), [/orchestration/reports/strategy-brief.md](/md-viewer.html?file=/orchestration/reports/strategy-brief.md), [/orchestration/reports/doc-change-log.md](/md-viewer.html?file=/orchestration/reports/doc-change-log.md)
