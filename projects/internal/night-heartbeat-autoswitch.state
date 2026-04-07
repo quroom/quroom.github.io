@@ -852,3 +852,5 @@ last_heartbeat=2026-03-30 23:44
 2026-04-08 02:40:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
 2026-04-08 03:00:02 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
 2026-04-08 03:20:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
+2026-04-08 03:40:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
+2026-04-08 04:00:01 | autoswitch | keep=10m | blocked_ratio=0% | blocked=0/12 | conflict=0
