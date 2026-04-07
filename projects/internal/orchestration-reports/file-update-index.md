@@ -5,12 +5,12 @@
 
 | last_commit_at | file |
 |---|---|
-| 2026-04-08 07:37:37 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
-| 2026-04-08 07:37:37 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-04-08 07:38:26 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
+| 2026-04-08 07:38:26 +0900 | [projects/internal/orchestration-reports/file-update-index.md](/md-viewer.html?file=/projects/internal/orchestration-reports/file-update-index.md) |
+| 2026-04-08 07:38:26 +0900 | [projects/internal/orchestration-reports/heartbeat-run-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/heartbeat-run-report.md) |
+| 2026-04-08 07:38:26 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-04-08 07:37:37 +0900 | [projects/internal/orchestration-reports/project-improvement-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/project-improvement-log.md) |
-| 2026-04-08 07:37:37 +0900 | [projects/internal/orchestration-reports/turn-diff-report.md](/md-viewer.html?file=/projects/internal/orchestration-reports/turn-diff-report.md) |
 | 2026-04-08 07:09:54 +0900 | [projects/internal/night-heartbeat-autoswitch.state](/projects/internal/night-heartbeat-autoswitch.state) |
-| 2026-04-08 07:09:06 +0900 | [projects/internal/orchestration-reports/doc-change-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/doc-change-log.md) |
 | 2026-04-08 07:08:36 +0900 | [projects/internal/daily-work-report.md](/md-viewer.html?file=/projects/internal/daily-work-report.md) |
 | 2026-04-08 07:07:39 +0900 | [projects/internal/orchestration-reports/strategy-brief.md](/md-viewer.html?file=/projects/internal/orchestration-reports/strategy-brief.md) |
 | 2026-04-08 06:37:44 +0900 | [projects/internal/orchestration-reports/revenue-experiments-log.md](/md-viewer.html?file=/projects/internal/orchestration-reports/revenue-experiments-log.md) |
