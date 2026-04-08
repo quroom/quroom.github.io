@@ -1,6 +1,6 @@
 # Turn Diff Report
 
-## 2026-04-08 18:30
+## 2026-04-08 19:00
 
 ## Workspace Last Commit Diff
 - commit: `fa490423`
@@ -12,7 +12,7 @@
 - `M	orchestration/reports/doc-change-log.md`
 - `M	orchestration/reports/file-update-index.md`
 - `M	orchestration/reports/heartbeat-run-report.md`
-- `M	orchestration/reports/strategy-brief.md`
+- `M	orchestration/reports/project-improvement-log.md`
 - `M	orchestration/reports/turn-diff-report.md`
 - `M	orchestration/runs/run-log.md`
 - `M	orchestration/state/agent-rotation.json`
@@ -23,8 +23,6 @@
 - info: 2026-04-08 17:02:33 +0900 | chore: publish orchestration reports (2026-04-08 17:00)
 - changed files:
 - `M	projects/internal/orchestration-reports/doc-change-log.md`
-- `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/strategy-brief.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
