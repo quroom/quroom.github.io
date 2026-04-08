@@ -1,6 +1,6 @@
 # Turn Diff Report
 
-## 2026-04-08 20:30
+## 2026-04-08 21:00
 
 ## Workspace Last Commit Diff
 - commit: `183341aa`
@@ -19,12 +19,11 @@
 - `M	quroom.github.io`
 
 ## quroom.github.io Last Commit Diff
-- commit: `980207bb`
-- info: 2026-04-08 20:00:37 +0900 | chore: publish orchestration reports (2026-04-08 20:00)
+- commit: `24e9f82e`
+- info: 2026-04-08 20:30:33 +0900 | chore: publish orchestration reports (2026-04-08 20:30)
 - changed files:
-- `M	projects/internal/orchestration-reports/doc-change-log.md`
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/project-improvement-log.md`
+- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
