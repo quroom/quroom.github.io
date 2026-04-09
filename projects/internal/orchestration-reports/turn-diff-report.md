@@ -1,30 +1,31 @@
 # Turn Diff Report
 
-## 2026-04-09 15:01
+## 2026-04-09 15:31
 
 ## Workspace Last Commit Diff
-- commit: `ac767b32`
-- info: 2026-04-09 14:31:45 +0900 | chore: heartbeat idle loop(14:31) orchestration update
+- commit: `91eddfbe`
+- info: 2026-04-09 15:01:34 +0900 | chore: heartbeat idle 루프(15:01) 오케스트레이션 업데이트
 - changed files:
+- `M	orchestration/experiments/backlog.md`
 - `M	orchestration/knowledge-loop/logs/improvement-log.md`
 - `M	orchestration/knowledge-loop/state/learning-notes.md`
 - `M	orchestration/metrics/scoreboard.csv`
 - `M	orchestration/reports/doc-change-log.md`
 - `M	orchestration/reports/file-update-index.md`
 - `M	orchestration/reports/heartbeat-run-report.md`
-- `M	orchestration/reports/project-improvement-log.md`
+- `M	orchestration/reports/revenue-experiments-log.md`
 - `M	orchestration/reports/turn-diff-report.md`
 - `M	orchestration/runs/run-log.md`
 - `M	orchestration/state/agent-rotation.json`
 - `M	quroom.github.io`
 
 ## quroom.github.io Last Commit Diff
-- commit: `6f88a508`
-- info: 2026-04-09 14:31:28 +0900 | chore: publish orchestration reports (2026-04-09 14:31)
+- commit: `b193c339`
+- info: 2026-04-09 15:01:13 +0900 | chore: publish orchestration reports (2026-04-09 15:01)
 - changed files:
 - `M	projects/internal/orchestration-reports/doc-change-log.md`
 - `M	projects/internal/orchestration-reports/file-update-index.md`
 - `M	projects/internal/orchestration-reports/heartbeat-run-report.md`
-- `M	projects/internal/orchestration-reports/project-improvement-log.md`
+- `M	projects/internal/orchestration-reports/revenue-experiments-log.md`
 - `M	projects/internal/orchestration-reports/turn-diff-report.md`
 
